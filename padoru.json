@@ -323,7 +323,67 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/weabookasoba",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/a923zy/chungoru_chungoru/"
+    },
+    {
+      "Id": 345145344,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/demon-girl-next-door-shamiko.png",
+      "ImagePath": "Padoru\\demon-girl-next-door-shamiko.png",
+      "Name": "Yuuko Yoshida",
+      "IsFemale": true,
+      "MALName": "Yoshida, Yuuko",
+      "MALId": "170466",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/ricozale",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/d82a3r/shamiko_from_the_demon_girl_next_door_d/"
+    },
+    {
+      "Id": 1116868736,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/gabriel-dropout-grabriel.png",
+      "ImagePath": "Padoru\\gabriel-dropout-grabriel.png",
+      "Name": "Gabriel Tenma White",
+      "IsFemale": true,
+      "MALName": "Tenma White, Gabriel",
+      "MALId": "143074",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/kaizoku1306",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dbc5p1/gabriel_tenma_white_gabriel_dropout/"
+    },
+    {
+      "Id": 547358208,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/k-on-azusa.png",
+      "ImagePath": "Padoru\\k-on-azusa.png",
+      "Name": "Nakano Azusa",
+      "IsFemale": true,
+      "MALName": "Nakano, Azusa",
+      "MALId": "21173",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "factoryosadness",
+      "ImageSource": "https://www.pixiv.net/en/artworks/72134578"
+    },
+    {
+      "Id": 217600,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-ie-chan.png",
+      "ImagePath": "Padoru\\other-ie-chan.png",
+      "Name": "Internet Explorer Chan",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "U/xvx_k1r1t0_xvx_kilme",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/da99f8/internet_explorer_chan_internet_explorer_by/"
+    },
+    {
+      "Id": 8636416,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/tsundere-children-chizuru.png",
+      "ImagePath": "Padoru\\tsundere-children-chizuru.png",
+      "Name": "Chizuru Takano",
+      "IsFemale": true,
+      "MALName": "Takano, Chizuru",
+      "MALId": "139270",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/factoryofsadness",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/a55c3f/chizuru_takano_from_tsuredure_children/"
     }
   ],
-  "LastChange": "2019-11-17T17:22:32.0979137+01:00"
+  "LastChange": "2019-11-17T17:39:57.8832273+01:00"
 }

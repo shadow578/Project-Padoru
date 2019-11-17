@@ -18,4 +18,5 @@ REM git push -u origin master
 git push
 
 REM debug pause
-pause
+REMpause
+timeout 5

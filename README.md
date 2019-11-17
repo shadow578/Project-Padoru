@@ -3,17 +3,18 @@ Collection of Padoru Character Images
     
 # How To Use
 Simple: 
-* Get the padoru.json file (newest version)
+* Get the padoru.json file (Use [this url](https://www.example.com/))
 * Parse the json. The Json data contains a Array of PadoruEntries. Each PadoruEntry contains
-    * Id            : This is a internal id to make each entry unique
-    * ImageUrl      : The Web URL to the image. Use this to get the image.
-    * ImagePath     : The local path to the image, relative to the collection root.
-    * Name          : The Name of the Character
-    * IsFemale      : Is this Character (canonically) female?
-    * MALName       : The Name of this Character in MAL's Database (may be empty)
-    * MALId         : The Character Id of this Character in MAL's Database (may be empty)
-    * ImageCreator  : The Name of the Person that created the Image (may be empty)
-    * ImageSource   : A Link to the original source of the image (reddit post, pixiv, etc...) (may be empty)
+    * Id            	: This is a internal id to make each entry unique
+    * ImageUrl      	: The Web URL to the image. Use this to get the image. The Image is hosted on github, in this repo
+    * ImagePath     	: The local path to the image, relative to the collection root
+    * Name          	: The Name of the Character
+    * IsFemale      	: Is this Character (canonically) female?
+    * MALName       	: The Name of this Character in MAL's Database (may be empty)
+    * MALId         	: The Character Id of this Character in MAL's Database (may be empty)
+	* ImageContributor	: The Person that contributed the Image to this collection
+    * ImageCreator  	: The Name of the Person that created the Image
+    * ImageSource   	: A Link to the original source of the image (reddit post, pixiv, etc...) (may be empty)
 * Download Image using the URL in ImageUrl property
 * Padoru Padoru (all done)
 

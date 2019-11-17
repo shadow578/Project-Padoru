@@ -383,7 +383,127 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/factoryofsadness",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/a55c3f/chizuru_takano_from_tsuredure_children/"
+    },
+    {
+      "Id": 15014144,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/darling-in-the-franxx-zero-two.png",
+      "ImagePath": "Padoru\\darling-in-the-franxx-zero-two.png",
+      "Name": "002",
+      "IsFemale": true,
+      "MALName": "Zero Two",
+      "MALId": "155679",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/mini_knight",
+      "ImageSource": "https://www.reddit.com/r/DarlingInTheFranxx/comments/9zx15d/made_padoru_zero_two/"
+    },
+    {
+      "Id": 1208162688,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-wiz.png",
+      "ImagePath": "Padoru\\konosuba-wiz.png",
+      "Name": "Wiz",
+      "IsFemale": true,
+      "MALName": "Wiz",
+      "MALId": "123868",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "UNKNOWN",
+      "ImageSource": ""
+    },
+    {
+      "Id": 604800,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-megumin.png",
+      "ImagePath": "Padoru\\konosuba-megumin.png",
+      "Name": "Megumin",
+      "IsFemale": true,
+      "MALName": "Megumin",
+      "MALId": "117225",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/grizzchan",
+      "ImageSource": "https://www.reddit.com/r/Konosuba/comments/9zh68b/padoru_megumin_20/"
+    },
+    {
+      "Id": 1163624704,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-lalatina.png",
+      "ImagePath": "Padoru\\konosuba-lalatina.png",
+      "Name": "Darkness",
+      "IsFemale": true,
+      "MALName": "Dustiness Ford, Lalatina",
+      "MALId": "117285",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/necrom89",
+      "ImageSource": "https://www.reddit.com/r/Konosuba/comments/a0lmko/darkness_padoru/"
+    },
+    {
+      "Id": 16798272,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-kazuma.png",
+      "ImagePath": "Padoru\\konosuba-kazuma.png",
+      "Name": "Kazuma Satou",
+      "IsFemale": false,
+      "MALName": "Satou, Kazuma",
+      "MALId": "117221",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/necrom89",
+      "ImageSource": "https://www.reddit.com/r/Konosuba/comments/a0lm4n/kazuma_padoru/"
+    },
+    {
+      "Id": 8650816,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-aqua.png",
+      "ImagePath": "Padoru\\konosuba-aqua.png",
+      "Name": "Aqua",
+      "IsFemale": true,
+      "MALName": "Aqua",
+      "MALId": "117223",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "cianuroarts",
+      "ImageSource": "https://twitter.com/cianuroarts/status/1069351388583469057"
+    },
+    {
+      "Id": 68224016,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/kaguya-sama-chika.png",
+      "ImagePath": "Padoru\\kaguya-sama-chika.png",
+      "Name": "Chika Fujiwara",
+      "IsFemale": true,
+      "MALName": "Fujiwara, Chika",
+      "MALId": "140810",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/oogabooga360",
+      "ImageSource": "https://www.reddit.com/r/Animemes/comments/dqjyhq/padoru_chika/"
+    },
+    {
+      "Id": 1191747584,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/re-zero-felix.png",
+      "ImagePath": "Padoru\\re-zero-felix.png",
+      "Name": "Felix Argyl",
+      "IsFemale": false,
+      "MALName": "Argyle, Felix",
+      "MALId": "118777",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/knose1",
+      "ImageSource": "https://www.reddit.com/r/Animemes/comments/dpc6lh/felix_padoru_re_zero/"
+    },
+    {
+      "Id": 143872,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/reddit-sachi.png",
+      "ImagePath": "Padoru\\reddit-sachi.png",
+      "Name": "Sachi",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/urdeadgoldfish",
+      "ImageSource": "https://www.reddit.com/r/Animemes/comments/cy8bay/mascots_padoru_early_december/"
+    },
+    {
+      "Id": 839020560,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/reddit-chloe.png",
+      "ImagePath": "Padoru\\reddit-chloe.png",
+      "Name": "Chloe",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/urdeadgoldfish",
+      "ImageSource": "https://www.reddit.com/r/Animemes/comments/cy8bay/mascots_padoru_early_december/"
     }
   ],
-  "LastChange": "2019-11-17T17:39:57.8832273+01:00"
+  "LastChange": "2019-11-17T18:24:33.2442304+01:00"
 }

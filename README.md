@@ -12,7 +12,7 @@ Simple:
     * IsFemale      	: Is this Character (canonically) female?
     * MALName       	: The Name of this Character in MAL's Database (may be empty)
     * MALId         	: The Character Id of this Character in MAL's Database (may be empty)
-	* ImageContributor	: The Person that contributed the Image to this collection
+    * ImageContributor	: The Username of the Person that contributed the Image to this collection
     * ImageCreator  	: The Name of the Person that created the Image
     * ImageSource   	: A Link to the original source of the image (reddit post, pixiv, etc...) (may be empty)
 * Download Image using the URL in ImageUrl property
@@ -45,5 +45,13 @@ Please ensure that your Contribution / Suggestions meets the Guidelines below.
 * It may not be OK to use some, if not all, of these Images in a Commercial context. Use for Private use ONLY.
 * Information in this Repository is provided as-is, without any guarantee that they are correct.
 
+# A Image I Created Is Listed In This Collection, But I'm Not Named As Creator
+Images in this repository are collected from the internet. Tracking each image back to the original author is (almost) impossible. 
+If you want to be mentioned as creator of a image, please contact me (e.g. by opening a Issue) stating 
+* The affected Image(s)
+* The Name you want to be used as Creator Name
+* (If possible) a link to the original post of the image
+I'll then change the Creator information as soon as I can.
+
 # A Image I Created Is In This Collection And I Dont Like That
-Thats sad to hear. If you want your Image to be remove, please contact me (e.g. by opening a Issue) and I'll remove the Image as fast as I can.
+Thats sad to hear. If you want your Image to be remove, please contact me (e.g. by opening a Issue) and I'll remove the Image as soon as I can.

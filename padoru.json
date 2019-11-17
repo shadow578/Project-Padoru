@@ -155,7 +155,55 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "Twist",
       "ImageSource": "https://knowyourmeme.com/photos/1436794-padoru"
+    },
+    {
+      "Id": 9994576,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/blends-maika.png",
+      "ImagePath": "Padoru\\blends-maika.png",
+      "Name": "Maika Sakuranomiya",
+      "IsFemale": true,
+      "MALName": "Sakuranomiya, Maika",
+      "MALId": "152126",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "Miu Matako",
+      "ImageSource": "https://www.pinterest.at/pin/411094272234710107/"
+    },
+    {
+      "Id": 975406080,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-earth-chan.png",
+      "ImagePath": "Padoru\\other-earth-chan.png",
+      "Name": "Earth Chan",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "11011 tig",
+      "ImageSource": "https://www.pinterest.at/pin/388857749068444230/"
+    },
+    {
+      "Id": 1489004544,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/re-zero-rem.png",
+      "ImagePath": "Padoru\\re-zero-rem.png",
+      "Name": "Rem",
+      "IsFemale": true,
+      "MALName": "Rem",
+      "MALId": "118763",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "TerraTails",
+      "ImageSource": "https://www.pinterest.at/pin/414683078182036666/"
+    },
+    {
+      "Id": 1615470848,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/dragon-maid-kanna.png",
+      "ImagePath": "Padoru\\dragon-maid-kanna.png",
+      "Name": "Kanna Kamui",
+      "IsFemale": true,
+      "MALName": "Kamui, Kanna",
+      "MALId": "136728",
+      "ImageContributor": "shadow587",
+      "ImageCreator": "Audrey Williams",
+      "ImageSource": "https://www.pinterest.at/pin/535717318173992524/"
     }
   ],
-  "LastChange": "2019-11-17T15:32:53.405285+01:00"
+  "LastChange": "2019-11-17T15:39:58.8460275+01:00"
 }

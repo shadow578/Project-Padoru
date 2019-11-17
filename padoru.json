@@ -107,7 +107,55 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "Team Arkos",
       "ImageSource": "https://knowyourmeme.com/photos/1443661-padoru"
+    },
+    {
+      "Id": 71307392,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi.png",
+      "ImagePath": "Padoru\\miss-komi-is-bad-at-communication-komi.png",
+      "Name": "Komi Shouko",
+      "IsFemale": true,
+      "MALName": "Komi, Shouko",
+      "MALId": "141790",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "Twist",
+      "ImageSource": "https://knowyourmeme.com/photos/1434090-padoru"
+    },
+    {
+      "Id": 1208049408,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/love-life-noco-yazawa.png",
+      "ImagePath": "Padoru\\love-life-nico-yazawa.png",
+      "Name": "Niko Yazawa",
+      "IsFemale": true,
+      "MALName": "Yazawa, Niko",
+      "MALId": "46163",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "zurawarudo",
+      "ImageSource": "https://www.deviantart.com/zurawarudo/art/Padoru-Nico-720001936"
+    },
+    {
+      "Id": 891390048,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/fate-nero-claudius.png",
+      "ImagePath": "Padoru\\fate-nero-claudius.png",
+      "Name": "Nero Claudius",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "AlexZer09",
+      "ImageSource": "https://www.deviantart.com/alexzer09/art/Nero-Claudius-Navidad-Padoru-Padoru-719673994"
+    },
+    {
+      "Id": 278036624,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/toradora-taiga.png",
+      "ImagePath": "Padoru\\toradora-taiga.png",
+      "Name": "Taiga Aisaka",
+      "IsFemale": true,
+      "MALName": "Aisaka, Taiga",
+      "MALId": "12064",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "Twist",
+      "ImageSource": "https://knowyourmeme.com/photos/1436794-padoru"
     }
   ],
-  "LastChange": "2019-11-17T14:49:19.8599475+01:00"
+  "LastChange": "2019-11-17T15:24:36.9334312+01:00"
 }

@@ -203,7 +203,127 @@
       "ImageContributor": "shadow587",
       "ImageCreator": "Audrey Williams",
       "ImageSource": "https://www.pinterest.at/pin/535717318173992524/"
+    },
+    {
+      "Id": 538053632,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/emergence-saki.png",
+      "ImagePath": "Padoru\\emergence-saki.png",
+      "Name": "Saki",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/maushaxx",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dw3l2b/cursed_padoru_i_have_177013_reasons_to_say_that/"
+    },
+    {
+      "Id": 671613216,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/gabriel-dropout-satania.png",
+      "ImagePath": "Padoru\\gabriel-dropout-satania.png",
+      "Name": "Satania McDowell",
+      "IsFemale": true,
+      "MALName": "Kurumizawa McDowell, Satanichia",
+      "MALId": "143076",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/yourboiryangg",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dw7pkb/padoru_satania_gabriel_dropout/"
+    },
+    {
+      "Id": 480055760,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/gabriel-dropout-vignette.png",
+      "ImagePath": "Padoru\\gabriel-dropout-vignette.png",
+      "Name": "Vignette",
+      "IsFemale": true,
+      "MALName": "Tsukinose April, Vignette",
+      "MALId": "143075",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/profeq",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dua1w6/vignette_april_tsukinose_gabriel_dropout/"
+    },
+    {
+      "Id": 67567648,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/k-on-jun-suzuki.png",
+      "ImagePath": "Padoru\\k-on-jun-suzuki.png",
+      "Name": "Jun Suzuki",
+      "IsFemale": true,
+      "MALName": "Suzuki, Jun",
+      "MALId": "31526",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/factoryofsadness",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dstbba/jun_suzuki_kon/"
+    },
+    {
+      "Id": 167772416,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/shield-hero-raphtalia.png",
+      "ImagePath": "Padoru\\shield-hero-raphtalia.png",
+      "Name": "Raphtalia",
+      "IsFemale": true,
+      "MALName": "Raphtalia",
+      "MALId": "112893",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/5senket5u",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dalq1n/i_see_some_request_here_so_i_made_one_for_here/"
+    },
+    {
+      "Id": 1012139584,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/pet-girl-shiina-mashiro.png",
+      "ImagePath": "Padoru\\pet-girl-shiina-mashiro.png",
+      "Name": "Shiina Mashiro",
+      "IsFemale": true,
+      "MALName": "Shiina, Mashiro",
+      "MALId": "61371",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/5enket5u",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dgdnhs/shiina_mashiro_from_sakurasou_no_pet_na_kanojo/"
+    },
+    {
+      "Id": 848376096,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/senko-san-shiro.png",
+      "ImagePath": "Padoru\\senko-san-shiro.png",
+      "Name": "Shiro",
+      "IsFemale": true,
+      "MALName": "Shiro",
+      "MALId": "167062",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/owljade",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/d0k128/shiro_padoru/"
+    },
+    {
+      "Id": 553718048,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/senko-san-senko.png",
+      "ImagePath": "Padoru\\senko-san-senko.png",
+      "Name": "Senko",
+      "IsFemale": true,
+      "MALName": "Senko-san",
+      "MALId": "166231",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/owljade",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/czxoa7/senko_san_at_your_service/"
+    },
+    {
+      "Id": 373686288,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/okasan-online-mamako.png",
+      "ImagePath": "Padoru\\okasan-online-mamako.png",
+      "Name": "Mamako Oosuki",
+      "IsFemale": true,
+      "MALName": "Oosuki, Mamako",
+      "MALId": "152715",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/nekoreviedeath",
+      "ImageSource": "https://www.reddit.com/r/Animemes/comments/cn438x/i_draw_padorumamako/"
+    },
+    {
+      "Id": 1080134176,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-chungoru.png",
+      "ImagePath": "Padoru\\other-chungoru.png",
+      "Name": "Chungoru",
+      "IsFemale": false,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/weabookasoba",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/a923zy/chungoru_chungoru/"
     }
   ],
-  "LastChange": "2019-11-17T15:39:58.8460275+01:00"
+  "LastChange": "2019-11-17T17:22:32.0979137+01:00"
 }

@@ -27,16 +27,17 @@ Please ensure that your Contribution / Suggestions meets the Guidelines below.
 
 # Guidelines
 * Image Suggestions __MUST__ contain:
-    * The Name of the Character
-    * The Show the Character is from
     * The Image itself
+    * The Name of the Character
+	* The Name of the image creator
 * Image Suggestions __SHOULD__ contain:
-    * The Name of the image creator
+	* The Show the Character is from (So I can find the character in MAL)
     * A Link to the original source (reddit post, pixiv, etc...) (NOT a direct image link)
+	* Your Contributor Name, if it is different from you Github username
 * Image Suggestions __MAY NOT__:
     * Contain Nudity
     * Show Minors in sexual context
-    * Contain any content that is, or may be in other countrys, considered illegal
+    * Contain any content that is, or may be in other countries, considered illegal
     * Contain any content that is against Github guidelines.
 
 # Disclaimer

@@ -803,7 +803,31 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "asanava18",
       "ImageSource": "https://twitter.com/asanava18/status/1075978864277512194"
+    },
+    {
+      "Id": 604113152,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/fatal-fury-mai-shiranui.png",
+      "ImagePath": "Padoru\\fatal-fury-mai-shiranui.png",
+      "Name": "Mai Shiranui",
+      "IsFemale": true,
+      "MALName": "Shiranui, Mai",
+      "MALId": "8873",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/factoryofsadness",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dy44cy/mai_shiranui_king_of_fightersfatal_fury/"
+    },
+    {
+      "Id": 355602496,
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-john-cena.png",
+      "ImagePath": "Padoru\\other-john-cena.png",
+      "Name": "John Cena",
+      "IsFemale": false,
+      "MALName": "",
+      "MALId": "",
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/factoryofsadness",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dy0ggm/john_cena_wwe/"
     }
   ],
-  "LastChange": "2019-11-18T18:16:35.0539683+01:00"
+  "LastChange": "2019-11-18T18:31:44.729047+01:00"
 }

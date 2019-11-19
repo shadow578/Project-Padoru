@@ -5,7 +5,7 @@ Collection of Padoru Character Images
 Simple: 
 * Get the padoru.json file (Use [this url](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/padoru.json))
 * Parse the json. The Json data contains a Array of PadoruEntries. Each PadoruEntry contains
-    * Id            	: This is a internal id to make each entry unique
+    * UID            	: This is a internal id to make each entry unique
     * ImageUrl      	: The Web URL to the image. Use this to get the image. The Image is hosted on github, in this repo
     * ImagePath     	: The local path to the image, relative to the collection root
     * Name          	: The Name of the Character

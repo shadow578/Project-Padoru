@@ -19,3 +19,5 @@
   * [BanG Dream! Garupa☆Pico](https://myanimelist.net/anime/37873/BanG_Dream_Garupa☆Pico)
   * [BanG Dream!](https://myanimelist.net/manga/102005/BanG_Dream)
   * [BanG Dream!](https://myanimelist.net/manga/102006/BanG_Dream)
+
+

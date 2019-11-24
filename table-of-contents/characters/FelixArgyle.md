@@ -16,3 +16,5 @@
   * [Re:Zero kara Hajimeru Isekai Seikatsu](https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu)
   * [Re:Zero kara Hajimeru Isekai Seikatsu: Dai-3 Shou - Truth of Zero](https://myanimelist.net/manga/89960/Re_Zero_kara_Hajimeru_Isekai_Seikatsu__Dai-3_Shou_-_Truth_of_Zero)
   * [Re:Zero kara Hajimeru Isekai Seikatsu Ex](https://myanimelist.net/manga/95243/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_Ex)
+
+

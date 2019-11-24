@@ -17,3 +17,5 @@
   * [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga/80385/Kono_Subarashii_Sekai_ni_Shukufuku_wo)
   * [Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Kamen no Akuma ni Soudan wo!](https://myanimelist.net/manga/97200/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Spin-off__Kono_Kamen_no_Akuma_ni_Soudan_wo)
   * [Kono Kamen no Akuma ni Soudan wo!](https://myanimelist.net/manga/114664/Kono_Kamen_no_Akuma_ni_Soudan_wo)
+
+

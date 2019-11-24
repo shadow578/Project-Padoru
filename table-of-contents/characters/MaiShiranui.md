@@ -13,3 +13,5 @@
   * [King of Fighters: Another Day](https://myanimelist.net/anime/825/King_of_Fighters__Another_Day)
   * [Fatal Fury 2: The New Battle](https://myanimelist.net/anime/1800/Fatal_Fury_2__The_New_Battle)
   * [The King of Fighters: Destiny](https://myanimelist.net/anime/35204/The_King_of_Fighters__Destiny)
+
+

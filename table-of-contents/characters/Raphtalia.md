@@ -14,3 +14,5 @@
   * [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
   * [Tate no Yuusha no Nariagari](https://myanimelist.net/manga/67615/Tate_no_Yuusha_no_Nariagari)
   * [Tate no Yuusha no Nariagari](https://myanimelist.net/manga/67617/Tate_no_Yuusha_no_Nariagari)
+
+

@@ -14,3 +14,5 @@
   * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
   * [Kaguya-sama wo Kataritai](https://myanimelist.net/manga/114872/Kaguya-sama_wo_Kataritai)
   * [Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi](https://myanimelist.net/manga/115783/Kaguya-sama_wa_Kokurasetai__Shuuchiin_Gakuen_Nanafushigi)
+
+

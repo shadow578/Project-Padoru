@@ -51,8 +51,6 @@
 * [Kazuma Satou](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KazumaSatou.md)
 * [Kesshouban](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Kesshouban.md)
 * [Kokoro Tsurumaki](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KokoroTsurumaki.md)
-* [Komi Shouko](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KomiShouko.md)
-* [Komi Shouko](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KomiShouko.md)
 * [Konata Izumi](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KonataIzumi.md)
 
 ### L
@@ -95,6 +93,7 @@
 * [Sayo Hikawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/SayoHikawa.md)
 * [Senko-san](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Senkosan.md)
 * [Shiro](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Shiro.md)
+* [Shouko Komi](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ShoukoKomi.md)
 
 ### T
 * [Tae Hanazono](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TaeHanazono.md)
@@ -114,3 +113,5 @@
 
 ### Z
 * [Zero Two](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
+
+###### Generated on 2019-11-24T16:56:12

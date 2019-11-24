@@ -8,3 +8,5 @@
 
 ### Character Info
 * **Name:**   Osu! Mascot
+
+

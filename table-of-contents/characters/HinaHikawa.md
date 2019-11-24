@@ -13,3 +13,5 @@
   * [Pastel Life](https://myanimelist.net/anime/37778/Pastel_Life)
   * [BanG Dream! 2nd Season](https://myanimelist.net/anime/37869/BanG_Dream_2nd_Season)
   * [BanG Dream! Garupa☆Pico](https://myanimelist.net/anime/37873/BanG_Dream_Garupa☆Pico)
+
+

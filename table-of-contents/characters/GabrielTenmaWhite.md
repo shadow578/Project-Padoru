@@ -14,3 +14,5 @@
   * [Gabriel DropOut](https://myanimelist.net/anime/33731/Gabriel_DropOut)
   * [Gabriel DropOut Specials](https://myanimelist.net/anime/34855/Gabriel_DropOut_Specials)
   * [Gabriel DropOut](https://myanimelist.net/manga/96526/Gabriel_DropOut)
+
+

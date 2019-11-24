@@ -17,3 +17,5 @@
   * [Isekai Quartet](https://myanimelist.net/anime/38472/Isekai_Quartet)
   * [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga/60553/Kono_Subarashii_Sekai_ni_Shukufuku_wo)
   * [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga/80385/Kono_Subarashii_Sekai_ni_Shukufuku_wo)
+
+

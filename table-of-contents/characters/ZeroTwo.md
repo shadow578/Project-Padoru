@@ -14,3 +14,5 @@
 * **Shows:**
   * [Darling in the FranXX](https://myanimelist.net/anime/35849/Darling_in_the_FranXX)
   * [Darling in the FranXX](https://myanimelist.net/manga/111512/Darling_in_the_FranXX)
+
+

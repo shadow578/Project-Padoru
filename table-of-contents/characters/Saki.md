@@ -7,4 +7,8 @@
 * **Contributor:**   shadow578
 
 ### Character Info
-* **Name:**   Saki
+* **Name:**   [Saki](https://myanimelist.net/character/135838)
+* **Shows:**
+  * [Hokuto no Ken](https://myanimelist.net/anime/967/Hokuto_no_Ken)
+
+

@@ -110,12 +110,12 @@
     },
     {
       "UID": "42d6d227-5bf1-4ee4-8028-33865a2f330f",
-      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi.png",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi-alt1.png",
       "ImagePath": "Padoru\\miss-komi-is-bad-at-communication-komi-alt1.png",
       "Name": "Komi Shouko",
       "IsFemale": true,
       "MALName": "Komi, Shouko",
-      "MALId": null,
+      "MALId": 141790,
       "ImageContributor": "shadow578",
       "ImageCreator": "Twist",
       "ImageSource": "https://knowyourmeme.com/photos/1434090-padoru"
@@ -187,7 +187,7 @@
       "Name": "Rem",
       "IsFemale": true,
       "MALName": "Rem",
-      "MALId": null,
+      "MALId": 118763,
       "ImageContributor": "shadow578",
       "ImageCreator": "u/chaaeriin",
       "ImageSource": "https://www.reddit.com/r/Re_Zero/comments/a4bm19/media_i_made_a_padoru_rem/"
@@ -199,7 +199,7 @@
       "Name": "Kanna Kamui",
       "IsFemale": true,
       "MALName": "Kamui, Kanna",
-      "MALId": null,
+      "MALId": 136728,
       "ImageContributor": "shadow578",
       "ImageCreator": "Audrey Williams",
       "ImageSource": "https://www.pinterest.at/pin/535717318173992524/"
@@ -210,8 +210,8 @@
       "ImagePath": "Padoru\\emergence-saki.png",
       "Name": "Saki",
       "IsFemale": true,
-      "MALName": "",
-      "MALId": null,
+      "MALName": "Saki",
+      "MALId": 135838,
       "ImageContributor": "shadow578",
       "ImageCreator": "u/maushaxx",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/dw3l2b/cursed_padoru_i_have_177013_reasons_to_say_that/"
@@ -835,7 +835,7 @@
       "Name": "Rozalin",
       "IsFemale": true,
       "MALName": "Rozalin",
-      "MALId": null,
+      "MALId": 9229,
       "ImageContributor": "shadow578",
       "ImageCreator": "tifa_says_hi",
       "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1074088401958187008"
@@ -847,7 +847,7 @@
       "Name": "Konata Izumi",
       "IsFemale": true,
       "MALName": "Izumi, Konata",
-      "MALId": null,
+      "MALId": 2169,
       "ImageContributor": "shadow578",
       "ImageCreator": "tifa_says_hi",
       "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1074088401958187008"
@@ -871,7 +871,7 @@
       "Name": "Akari Akaza",
       "IsFemale": true,
       "MALName": "Akaza, Akari",
-      "MALId": null,
+      "MALId": 35872,
       "ImageContributor": "shadow578",
       "ImageCreator": "tifa_says_hi",
       "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1074088401958187008"
@@ -883,11 +883,11 @@
       "Name": "Komi Shouko",
       "IsFemale": true,
       "MALName": "Komi, Shouko",
-      "MALId": null,
+      "MALId": 141790,
       "ImageContributor": "shadow578",
       "ImageCreator": "u/gunsonlsd",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/dypswz/komisan_komisan_wa_komyushou_desu/"
     }
   ],
-  "LastChange": "2019-11-24T15:32:21.2772943+01:00"
+  "LastChange": "2019-11-24T17:13:58.8802833+01:00"
 }

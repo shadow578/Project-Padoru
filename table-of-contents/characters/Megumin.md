@@ -19,3 +19,5 @@
   * [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga/80385/Kono_Subarashii_Sekai_ni_Shukufuku_wo)
   * [Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/manga/89768/Kono_Subarashii_Sekai_ni_Shukufuku_wo_Spin-off__Kono_Subarashii_Sekai_ni_Bakuen_wo)
   * [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/manga/97722/Kono_Subarashii_Sekai_ni_Bakuen_wo)
+
+

@@ -12,3 +12,5 @@
   * [Kill la Kill](https://myanimelist.net/anime/18679/Kill_la_Kill)
   * [Kill la Kill Specials](https://myanimelist.net/anime/21659/Kill_la_Kill_Specials)
   * [Kill la Kill](https://myanimelist.net/manga/58391/Kill_la_Kill)
+
+

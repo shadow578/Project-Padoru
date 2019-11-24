@@ -14,3 +14,5 @@
   * [Hataraku Saibou (TV)](https://myanimelist.net/anime/37141/Hataraku_Saibou_TV)
   * [Hataraku Saibou: Kaze Shoukougun](https://myanimelist.net/anime/38733/Hataraku_Saibou__Kaze_Shoukougun)
   * [Hataraku Saibou](https://myanimelist.net/manga/91641/Hataraku_Saibou)
+
+

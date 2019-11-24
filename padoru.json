@@ -830,7 +830,7 @@
     },
     {
       "UID": "55c332a7-327e-4d8b-bda7-43618bf392ed",
-      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/disgaea-rozalin.png",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/disgaea-rozalin.png",
       "ImagePath": "Padoru\\disgaea-rozalin.png",
       "Name": "Rozalin",
       "IsFemale": true,
@@ -842,7 +842,7 @@
     },
     {
       "UID": "0c1f66b4-215d-41f8-a5b9-a61a29d83f33",
-      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/lucky-star-konata-izumi.png",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/lucky-star-konata-izumi.png",
       "ImagePath": "Padoru\\lucky-star-konata-izumi.png",
       "Name": "Konata Izumi",
       "IsFemale": true,
@@ -854,7 +854,7 @@
     },
     {
       "UID": "bf247496-0b3f-4956-8fb9-cb960c370a9a",
-      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/other-boo.png",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-boo.png",
       "ImagePath": "Padoru\\other-boo.png",
       "Name": "Boo- Chan",
       "IsFemale": true,
@@ -866,7 +866,7 @@
     },
     {
       "UID": "76c696de-9c30-4a1d-a6b5-ea5dd390cd59",
-      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/yuru-yuri-akari-akaza.png",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/yuru-yuri-akari-akaza.png",
       "ImagePath": "Padoru\\yuru-yuri-akari-akaza.png",
       "Name": "Akari Akaza",
       "IsFemale": true,
@@ -878,7 +878,7 @@
     },
     {
       "UID": "fa258fec-fe03-4b82-bb78-21439206d098",
-      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/miss-komi-is-bad-at-communication-komi-alt0.png",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi-alt0.png",
       "ImagePath": "Padoru\\miss-komi-is-bad-at-communication-komi-alt0.png",
       "Name": "Komi Shouko",
       "IsFemale": true,
@@ -889,5 +889,5 @@
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/dypswz/komisan_komisan_wa_komyushou_desu/"
     }
   ],
-  "LastChange": "2019-11-24T15:27:39.7948627+01:00"
+  "LastChange": "2019-11-24T15:32:21.2772943+01:00"
 }

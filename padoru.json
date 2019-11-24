@@ -109,13 +109,13 @@
       "ImageSource": "https://knowyourmeme.com/photos/1443661-padoru"
     },
     {
-      "UID": "613192e8-ae3a-4bc0-aeab-646a01e1c1a3",
+      "UID": "42d6d227-5bf1-4ee4-8028-33865a2f330f",
       "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi.png",
-      "ImagePath": "Padoru\\miss-komi-is-bad-at-communication-komi.png",
+      "ImagePath": "Padoru\\miss-komi-is-bad-at-communication-komi-alt1.png",
       "Name": "Komi Shouko",
       "IsFemale": true,
       "MALName": "Komi, Shouko",
-      "MALId": 141790,
+      "MALId": null,
       "ImageContributor": "shadow578",
       "ImageCreator": "Twist",
       "ImageSource": "https://knowyourmeme.com/photos/1434090-padoru"
@@ -181,16 +181,16 @@
       "ImageSource": "https://www.pinterest.at/pin/388857749068444230/"
     },
     {
-      "UID": "ff606f9d-2c92-48a6-b3b9-3e5beb341196",
+      "UID": "cee6dd74-9395-4159-82e9-93afbbe0c275",
       "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/re-zero-rem.png",
       "ImagePath": "Padoru\\re-zero-rem.png",
       "Name": "Rem",
       "IsFemale": true,
       "MALName": "Rem",
-      "MALId": 118763,
+      "MALId": null,
       "ImageContributor": "shadow578",
-      "ImageCreator": "TerraTails",
-      "ImageSource": "https://www.pinterest.at/pin/414683078182036666/"
+      "ImageCreator": "u/chaaeriin",
+      "ImageSource": "https://www.reddit.com/r/Re_Zero/comments/a4bm19/media_i_made_a_padoru_rem/"
     },
     {
       "UID": "ce2dc512-60e0-4f94-b53b-ad043f02df79",
@@ -827,7 +827,67 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/factoryofsadness",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/dy0ggm/john_cena_wwe/"
+    },
+    {
+      "UID": "55c332a7-327e-4d8b-bda7-43618bf392ed",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/disgaea-rozalin.png",
+      "ImagePath": "Padoru\\disgaea-rozalin.png",
+      "Name": "Rozalin",
+      "IsFemale": true,
+      "MALName": "Rozalin",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "tifa_says_hi",
+      "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1074088401958187008"
+    },
+    {
+      "UID": "0c1f66b4-215d-41f8-a5b9-a61a29d83f33",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/lucky-star-konata-izumi.png",
+      "ImagePath": "Padoru\\lucky-star-konata-izumi.png",
+      "Name": "Konata Izumi",
+      "IsFemale": true,
+      "MALName": "Izumi, Konata",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "tifa_says_hi",
+      "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1074088401958187008"
+    },
+    {
+      "UID": "bf247496-0b3f-4956-8fb9-cb960c370a9a",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/other-boo.png",
+      "ImagePath": "Padoru\\other-boo.png",
+      "Name": "Boo- Chan",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "tifa_says_hi",
+      "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1074088401958187008"
+    },
+    {
+      "UID": "76c696de-9c30-4a1d-a6b5-ea5dd390cd59",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/yuru-yuri-akari-akaza.png",
+      "ImagePath": "Padoru\\yuru-yuri-akari-akaza.png",
+      "Name": "Akari Akaza",
+      "IsFemale": true,
+      "MALName": "Akaza, Akari",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "tifa_says_hi",
+      "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1074088401958187008"
+    },
+    {
+      "UID": "fa258fec-fe03-4b82-bb78-21439206d098",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/Padoru/miss-komi-is-bad-at-communication-komi-alt0.png",
+      "ImagePath": "Padoru\\miss-komi-is-bad-at-communication-komi-alt0.png",
+      "Name": "Komi Shouko",
+      "IsFemale": true,
+      "MALName": "Komi, Shouko",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/gunsonlsd",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/dypswz/komisan_komisan_wa_komyushou_desu/"
     }
   ],
-  "LastChange": "2019-11-23T21:53:12.7150475+01:00"
+  "LastChange": "2019-11-24T15:18:41.5152017+01:00"
 }

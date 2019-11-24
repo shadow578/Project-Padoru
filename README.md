@@ -4,7 +4,7 @@ Collection of Padoru Character Images
 A Table of all Padoru Images can be found [here](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/character-index.md)
     
 # How To Use
-Simple: 
+Simple:
 * Get the padoru.json file (Use [this url](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/padoru.json) or [(minified version)](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/padoru-mini.json))
 * Parse the json. The Json data contains a Array of PadoruEntries. Each PadoruEntry contains
     * UID            	: This is a internal id to make each entry unique
@@ -19,6 +19,9 @@ Simple:
     * ImageSource   	: A Link to the original source of the image (reddit post, pixiv, etc...) (may be empty)
 * Download Image using the URL in ImageUrl property
 * Padoru Padoru (all done)
+
+### Or
+* Use the C# Library from [here.](https://github.com/shadow578/PadoruLib)
 
 # Contributing
 You can contribute either by opening a Issue containing a Image Suggestion, or by creating a pull request.

@@ -2,7 +2,7 @@
 name: Removal Request
 about: Request a Padoru entry to be removed
 title: "[REMOVAL]"
-labels: ''
+labels: remove
 assignees: ''
 
 ---

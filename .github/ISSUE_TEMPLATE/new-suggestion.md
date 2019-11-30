@@ -2,7 +2,7 @@
 name: New Suggestion
 about: Suggest a new Padoru
 title: "[SUGGESTION]"
-labels: ''
+labels: suggestion
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Change Request
 about: Request a Padoru entry to be changed
 title: "[CHANGE]"
-labels: ''
+labels: change
 assignees: ''
 
 ---

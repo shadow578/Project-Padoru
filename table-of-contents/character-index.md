@@ -117,4 +117,4 @@
 ### Z
 * [Zero Two](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
 
-###### Generated on 2019-11-30T13:06:40
+###### Generated on 2019-11-30T13:28:50

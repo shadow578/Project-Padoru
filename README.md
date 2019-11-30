@@ -41,9 +41,9 @@ Please ensure that your Contribution / Suggestions meets the Guidelines below.
 	* Your Contributor Name, if it is different from you Github username
 * Image Suggestions __MAY NOT__:
     * Contain Nudity
-    * Show Minors in sexual context
+    * Show Minors in sexual acts
     * Contain any content that is, or may be in other countries, considered illegal
-    * Contain any content that is against Github guidelines.
+    * Contain any content that violates Github guidelines.
 
 # Disclaimer
 * I do not own any of these Images, I just bring them together into one collection. Read the entry below if you want a image to be removed.

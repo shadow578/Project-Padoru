@@ -24,7 +24,7 @@ Simple:
 * Use the C# Library from [here.](https://github.com/shadow578/PadoruLib)
 
 # Contributing
-You can contribute either by opening a Issue containing a Image Suggestion, or by creating a pull request.
+You can contribute either by opening a [Issue containing a Image Suggestion](https://github.com/shadow578/Padoru-Padoru/issues/new?assignees=&labels=suggestion&template=new-suggestion.md&title=%5BSUGGESTION%5D), or by creating a pull request.
 When creating a pull request, keep in mind that you'll also have to update the padoru.json file.
 This can be done either manually or by using my Padoru- Manager (repo on my profile). 
 The Preferred method is creating a Image Suggestion.
@@ -52,11 +52,13 @@ Please ensure that your Contribution / Suggestions meets the Guidelines below.
 
 # A Image I Created Is Listed In This Collection, But I'm Not Named As Creator
 Images in this repository are collected from the internet. Tracking each image back to the original author is (almost) impossible. 
-If you want to be mentioned as creator of a image, please contact me (e.g. by opening a Issue) stating 
+If you want to be mentioned as creator of a image, please contact me by [opening a Issue](https://github.com/shadow578/Padoru-Padoru/issues/new?assignees=&labels=change&template=change-request.md&title=%5BCHANGE%5D) stating 
 * The affected Image(s)
 * The Name you want to be used as Creator Name
 * (If possible) a link to the original post of the image
 I'll then change the Creator information as soon as I can.
 
 # A Image I Created Is In This Collection And I Dont Like That
-Thats sad to hear. If you want your Image to be remove, please contact me (e.g. by opening a Issue) and I'll remove the Image as soon as I can.
+Thats sad to hear. If you want your Image to be remove, please contact me by [opening a Issue](https://github.com/shadow578/Padoru-Padoru/issues/new?assignees=&labels=remove&template=removal-request.md&title=%5BREMOVAL%5D) and I'll remove the Image as soon as I can.
+
+Please keep in mind that removing the Image may take some time.

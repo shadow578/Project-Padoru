@@ -11,7 +11,7 @@ REM add all (new) files to git
 git add -A
 
 REM create git commit, ask user for commit message
-git commit
+git commit -v
 
 REM push commit to remote
 REM git push -u origin master

@@ -65,6 +65,7 @@
 * [Mashiro Shiina](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MashiroShiina.md)
 * [Maya Yamato](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MayaYamato.md)
 * [Megumin](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Megumin.md)
+* [Miku Nakano](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MikuNakano.md)
 * [Misaki Okusawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MisakiOkusawa.md)
 * [Moca Aoba](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MocaAoba.md)
 
@@ -94,11 +95,13 @@
 * [Senko-san](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Senkosan.md)
 * [Shiro](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Shiro.md)
 * [Shouko Komi](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ShoukoKomi.md)
+* [Sotca Luckythar](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/SotcaLuckythar.md)
 
 ### T
 * [Tae Hanazono](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TaeHanazono.md)
 * [Taiga Aisaka](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TaigaAisaka.md)
 * [Tomoe Udagawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TomoeUdagawa.md)
+* [Tooru Honda](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TooruHonda.md)
 * [Tsugumi Hazawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TsugumiHazawa.md)
 
 ### V
@@ -114,4 +117,4 @@
 ### Z
 * [Zero Two](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
 
-###### Generated on 2019-11-24T16:56:12
+###### Generated on 2019-11-30T12:37:36

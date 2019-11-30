@@ -887,7 +887,43 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/gunsonlsd",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/dypswz/komisan_komisan_wa_komyushou_desu/"
+    },
+    {
+      "UID": "10742059-7945-4908-8e4c-c56c5f781a89",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/fruits-basket-tooru-honda.png",
+      "ImagePath": "Padoru\\fruits-basket-tooru-honda.png",
+      "Name": "Tooru Honda",
+      "IsFemale": true,
+      "MALName": "Honda, Tooru",
+      "MALId": 207,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/factoryofsadness",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e0jxzb/tohru_honda_fruits_basket/"
+    },
+    {
+      "UID": "e8749b91-9eee-4227-944d-8972bbe02c8a",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/hitoribocchi-sotoka-rakita.png",
+      "ImagePath": "Padoru\\hitoribocchi-sotoka-rakita.png",
+      "Name": "Sotoka Rakita",
+      "IsFemale": true,
+      "MALName": "Luckythar, Sotca",
+      "MALId": 148607,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/factoryofsadness",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e16bsv/sotoka_rakita_hitori_bocchi_no_marumaru_seikatsu/"
+    },
+    {
+      "UID": "23e34720-ec1e-4742-81e3-672c3f0d25eb",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/quintuplets-miku-nakano.png",
+      "ImagePath": "Padoru\\quintuplets-miku-nakano.png",
+      "Name": "Miku Nakano",
+      "IsFemale": true,
+      "MALName": "Nakano, Miku",
+      "MALId": 160603,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/winnerwake",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e11lbu/miku_nakano_5toubun_no_hayanome/"
     }
   ],
-  "LastChange": "2019-11-24T17:13:58.8802833+01:00"
+  "LastChange": "2019-11-30T13:36:16.3856901+01:00"
 }

@@ -1,16 +1,16 @@
 # Padorus in [That Is How I Roll!](https://myanimelist.net/anime/36921/That_Is_How_I_Roll)
 
 ### H
-* Himari Uehara
+* [Himari Uehara](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/HimariUehara.md)
 
 ### M
-* Moca Aoba
+* [Moca Aoba](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MocaAoba.md)
 
 ### R
-* Ran Mitake
+* [Ran Mitake](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/RanMitake.md)
 
 ### T
-* Tomoe Udagawa
-* Tsugumi Hazawa
+* [Tomoe Udagawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TomoeUdagawa.md)
+* [Tsugumi Hazawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TsugumiHazawa.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

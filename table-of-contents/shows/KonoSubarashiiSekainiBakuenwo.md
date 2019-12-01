@@ -1,6 +1,6 @@
 # Padorus in [Kono Subarashii Sekai ni Bakuen wo!](https://myanimelist.net/manga/97722/Kono_Subarashii_Sekai_ni_Bakuen_wo)
 
 ### M
-* Megumin
+* [Megumin](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Megumin.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

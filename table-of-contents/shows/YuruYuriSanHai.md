@@ -1,6 +1,6 @@
 # Padorus in [Yuru Yuri San☆Hai!](https://myanimelist.net/anime/30279/Yuru_Yuri_San☆Hai)
 
 ### A
-* Akari Akaza
+* [Akari Akaza](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/AkariAkaza.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

@@ -1,18 +1,18 @@
 # Padorus in [Star Beat!: Hoshi no Kodou](https://myanimelist.net/anime/34252/Star_Beat__Hoshi_no_Kodou)
 
 ### A
-* Arisa Ichigaya
+* [Arisa Ichigaya](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ArisaIchigaya.md)
 
 ### K
-* Kasumi Toyama
+* [Kasumi Toyama](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KasumiToyama.md)
 
 ### R
-* Rimi Ushigome
+* [Rimi Ushigome](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/RimiUshigome.md)
 
 ### S
-* Saaya Yamabuki
+* [Saaya Yamabuki](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/SaayaYamabuki.md)
 
 ### T
-* Tae Hanazono
+* [Tae Hanazono](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TaeHanazono.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

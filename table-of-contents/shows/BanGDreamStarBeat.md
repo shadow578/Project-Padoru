@@ -1,15 +1,15 @@
 # Padorus in [BanG Dream!: Star Beat](https://myanimelist.net/manga/85856/BanG_Dream__Star_Beat)
 
 ### A
-* Arisa Ichigaya
+* [Arisa Ichigaya](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ArisaIchigaya.md)
 
 ### K
-* Kasumi Toyama
+* [Kasumi Toyama](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KasumiToyama.md)
 
 ### R
-* Rimi Ushigome
+* [Rimi Ushigome](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/RimiUshigome.md)
 
 ### T
-* Tae Hanazono
+* [Tae Hanazono](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TaeHanazono.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

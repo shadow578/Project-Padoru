@@ -1,14 +1,14 @@
 # Padorus in [Egao no Orquesta!](https://myanimelist.net/anime/36922/Egao_no_Orquesta)
 
 ### H
-* Hagumi Kitazawa
+* [Hagumi Kitazawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/HagumiKitazawa.md)
 
 ### K
-* Kanon Matsubara
-* Kaoru Seta
-* Kokoro Tsurumaki
+* [Kanon Matsubara](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KanonMatsubara.md)
+* [Kaoru Seta](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KaoruSeta.md)
+* [Kokoro Tsurumaki](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KokoroTsurumaki.md)
 
 ### M
-* Misaki Okusawa
+* [Misaki Okusawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MisakiOkusawa.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

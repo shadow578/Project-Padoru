@@ -1,6 +1,6 @@
 # Padorus by GotGame
 
 ### K
-* Kaguya Shinomiya
+* [Kaguya Shinomiya](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KaguyaShinomiya.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

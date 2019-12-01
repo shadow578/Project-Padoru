@@ -1,9 +1,9 @@
 # Padorus in [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
 
 ### C
-* Chika Fujiwara
+* [Chika Fujiwara](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ChikaFujiwara.md)
 
 ### K
-* Kaguya Shinomiya
+* [Kaguya Shinomiya](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KaguyaShinomiya.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

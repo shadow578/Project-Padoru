@@ -1,18 +1,18 @@
 # Padorus in [BanG Dream!: Girls Band Party! - Roselia Stage](https://myanimelist.net/manga/108614/BanG_Dream__Girls_Band_Party_-_Roselia_Stage)
 
 ### A
-* Ako Udagawa
+* [Ako Udagawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/AkoUdagawa.md)
 
 ### L
-* Lisa Imai
+* [Lisa Imai](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/LisaImai.md)
 
 ### R
-* Rinko Shirokane
+* [Rinko Shirokane](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/RinkoShirokane.md)
 
 ### S
-* Sayo Hikawa
+* [Sayo Hikawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/SayoHikawa.md)
 
 ### Y
-* Yukina Minato
+* [Yukina Minato](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/YukinaMinato.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

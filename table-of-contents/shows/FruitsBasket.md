@@ -1,6 +1,6 @@
 # Padorus in [Fruits Basket](https://myanimelist.net/manga/102/Fruits_Basket)
 
 ### T
-* Tooru Honda
+* [Tooru Honda](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/TooruHonda.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

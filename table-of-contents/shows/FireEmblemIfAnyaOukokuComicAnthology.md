@@ -1,6 +1,6 @@
 # Padorus in [Fire Emblem If Anya Oukoku Comic Anthology](https://myanimelist.net/manga/95506/Fire_Emblem_If_Anya_Oukoku_Comic_Anthology)
 
 ### A
-* Azura
+* [Azura](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Azura.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

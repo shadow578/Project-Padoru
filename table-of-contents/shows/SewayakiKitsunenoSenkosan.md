@@ -1,7 +1,7 @@
 # Padorus in [Sewayaki Kitsune no Senko-san](https://myanimelist.net/manga/111276/Sewayaki_Kitsune_no_Senko-san)
 
 ### S
-* Senko-san
-* Shiro
+* [Senko-san](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Senkosan.md)
+* [Shiro](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Shiro.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

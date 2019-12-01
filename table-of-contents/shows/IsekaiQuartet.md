@@ -1,18 +1,18 @@
 # Padorus in [Isekai Quartet](https://myanimelist.net/anime/38472/Isekai_Quartet)
 
 ### A
-* Aqua
+* [Aqua](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Aqua.md)
 
 ### K
-* Kazuma Satou
+* [Kazuma Satou](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KazumaSatou.md)
 
 ### L
-* Lalatina Dustiness Ford
+* [Lalatina Dustiness Ford](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/LalatinaDustinessFord.md)
 
 ### M
-* Megumin
+* [Megumin](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Megumin.md)
 
 ### R
-* Rem
+* [Rem](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Rem.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

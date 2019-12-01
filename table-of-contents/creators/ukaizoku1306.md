@@ -1,6 +1,6 @@
 # Padorus by u/kaizoku1306
 
 ### G
-* Gabriel Tenma White
+* [Gabriel Tenma White](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/GabrielTenmaWhite.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

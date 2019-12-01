@@ -1,18 +1,18 @@
 # Padorus in [Pastel Life](https://myanimelist.net/anime/37778/Pastel_Life)
 
 ### A
-* Aya Maruyama
+* [Aya Maruyama](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/AyaMaruyama.md)
 
 ### C
-* Chisato Shirasagi
+* [Chisato Shirasagi](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ChisatoShirasagi.md)
 
 ### E
-* Eve Wakamiya
+* [Eve Wakamiya](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/EveWakamiya.md)
 
 ### H
-* Hina Hikawa
+* [Hina Hikawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/HinaHikawa.md)
 
 ### M
-* Maya Yamato
+* [Maya Yamato](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MayaYamato.md)
 
-###### Generated on 2019-12-01T16:35:29
+###### Generated on 2019-12-01T16:41:51

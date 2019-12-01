@@ -923,7 +923,115 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/winnerwake",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/e11lbu/miku_nakano_5toubun_no_hayanome/"
+    },
+    {
+      "UID": "3382bfa3-8ce3-4648-bad3-805c4417e180",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/fire-force-maki-oze.png",
+      "ImagePath": "Padoru\\fire-force-maki-oze.png",
+      "Name": "Maki Oze",
+      "IsFemale": true,
+      "MALName": "Oze, Maki",
+      "MALId": 133768,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "ms_ikari",
+      "ImageSource": "https://twitter.com/ms_ikari/status/1200998882743730176"
+    },
+    {
+      "UID": "a9c7326d-dea6-4d95-9b44-944f1453adc3",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/jojos-okuyasu-nijimura.png",
+      "ImagePath": "Padoru\\jojos-okuyasu-nijimura.png",
+      "Name": "Okuyasu Nijimura",
+      "IsFemale": false,
+      "MALName": "Nijimura, Okuyasu",
+      "MALId": 28991,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/gezzabeast",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e4b95z/okuyasu_from_jojos_bizarre_adventure_part_4_i/"
+    },
+    {
+      "UID": "7d10bab7-068d-4c70-91e0-4b2798c55c1e",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-rosalina.png",
+      "ImagePath": "Padoru\\other-rosalina.png",
+      "Name": "Rosalina",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "tifa_says_hi",
+      "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1200616610794393601"
+    },
+    {
+      "UID": "412d3d85-dddb-4d11-9acc-3c21c4810767",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/we-never-learn/we-never-learn-asumi-kominami.png",
+      "ImagePath": "Padoru\\we-never-learn\\we-never-learn-asumi-kominami.png",
+      "Name": "Asumi Kominami",
+      "IsFemale": true,
+      "MALName": "Kominami, Asumi",
+      "MALId": 157374,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/jk1730",
+      "ImageSource": "https://www.reddit.com/r/WeCantStudy/comments/e3w65z/padoru_asumi/"
+    },
+    {
+      "UID": "59291e1a-13bb-40a8-91a0-c6225a8302a1",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/we-never-learn/we-never-learn-fumino-furuhashi.png",
+      "ImagePath": "Padoru\\we-never-learn\\we-never-learn-fumino-furuhashi.png",
+      "Name": "Fumino Furuhashi",
+      "IsFemale": true,
+      "MALName": "Furuhashi, Fumino",
+      "MALId": 148394,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/jk1730",
+      "ImageSource": "https://www.reddit.com/r/WeCantStudy/comments/e3w4rx/padoru_fumimo/"
+    },
+    {
+      "UID": "ed9be9ed-31b3-4cc8-b545-2964bc35d9dd",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/we-never-learn/we-never-learn-mafuyu-kirisu.png",
+      "ImagePath": "Padoru\\we-never-learn\\we-never-learn-mafuyu-kirisu.png",
+      "Name": "Mafuyu Kirisu",
+      "IsFemale": true,
+      "MALName": "Kirisu, Mafuyu",
+      "MALId": 154056,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/jk1730",
+      "ImageSource": "https://www.reddit.com/r/WeCantStudy/comments/e3w5u3/padoru_kirisu/"
+    },
+    {
+      "UID": "2c24662f-d02c-431a-85b4-22f388ff9e17",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/we-never-learn/we-never-learn-rizu-ogata.png",
+      "ImagePath": "Padoru\\we-never-learn\\we-never-learn-rizu-ogata.png",
+      "Name": "Rizu Ogata",
+      "IsFemale": true,
+      "MALName": "Ogata, Rizu",
+      "MALId": 148393,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/jk1730",
+      "ImageSource": "https://www.reddit.com/r/WeCantStudy/comments/e3w6lg/padoru_ogata/"
+    },
+    {
+      "UID": "4657c45c-cccd-4ccc-9b15-4bec90af3798",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/we-never-learn/we-never-learn-sekijo-sawako.png",
+      "ImagePath": "Padoru\\we-never-learn\\we-never-learn-sekijo-sawako.png",
+      "Name": "Sekijo Sawako",
+      "IsFemale": true,
+      "MALName": "Sekijou, Sawako",
+      "MALId": 162186,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/ngabor80",
+      "ImageSource": "https://www.reddit.com/r/WeCantStudy/comments/e472zr/i_made_a_sekijou_sawako_padoru/"
+    },
+    {
+      "UID": "8fbe54f6-494a-4f8c-93b4-4509039086e8",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/we-never-learn/we-never-learn-uruka-takemoto.png",
+      "ImagePath": "Padoru\\we-never-learn\\we-never-learn-uruka-takemoto.png",
+      "Name": "Uruka Takemoto",
+      "IsFemale": true,
+      "MALName": "Takemoto, Uruka",
+      "MALId": 150193,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/jk1730",
+      "ImageSource": "https://www.reddit.com/r/WeCantStudy/comments/e3w71d/padoru_uruka/"
     }
   ],
-  "LastChange": "2019-11-30T13:36:16.3856901+01:00"
+  "LastChange": "2019-12-01T14:59:49.5973981+01:00"
 }

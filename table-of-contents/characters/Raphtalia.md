@@ -4,7 +4,7 @@
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/dalq1n/i_see_some_request_here_so_i_made_one_for_here/)
-* **Created by:**    [u/5senket5u](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/u5senket5u.md)
+* **Created by:**    [u/5enket5u](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/u5enket5u.md)
 * **Contributor:**   shadow578
 
 ### Character Info

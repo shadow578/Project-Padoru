@@ -1,15 +1,15 @@
 # Padorus by u/kaley_moro
 
 ### A
-* [Aqua](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Aqua.md)
+* [Aqua](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Aqua.md)
 
 ### L
-* [Lalatina Dustiness Ford](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/LalatinaDustinessFord.md)
+* [Lalatina Dustiness Ford](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LalatinaDustinessFord.md)
 
 ### M
-* [Megumin](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Megumin.md)
+* [Megumin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Megumin.md)
 
 ### Z
-* [Zero Two](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
+* [Zero Two](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
 
-###### Generated on 2019-12-01T16:41:51
+###### Generated on 2019-12-01T16:56:59

@@ -1,18 +1,18 @@
 # Padorus in [Isekai Quartet](https://myanimelist.net/anime/38472/Isekai_Quartet)
 
 ### A
-* [Aqua](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Aqua.md)
+* [Aqua](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Aqua.md)
 
 ### K
-* [Kazuma Satou](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/KazumaSatou.md)
+* [Kazuma Satou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KazumaSatou.md)
 
 ### L
-* [Lalatina Dustiness Ford](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/LalatinaDustinessFord.md)
+* [Lalatina Dustiness Ford](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LalatinaDustinessFord.md)
 
 ### M
-* [Megumin](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Megumin.md)
+* [Megumin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Megumin.md)
 
 ### R
-* [Rem](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/Rem.md)
+* [Rem](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rem.md)
 
-###### Generated on 2019-12-01T16:41:51
+###### Generated on 2019-12-01T16:56:59

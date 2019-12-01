@@ -1,10 +1,10 @@
 # Zero Two
 
-![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/darling-in-the-franxx-zero-two.png "Zero Two")
+![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/darling-in-the-franxx-zero-two.png "Zero Two")
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)
-* **Created by:**    [u/kaley_moro](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/creators/ukaleymoro.md)
+* **Created by:**    [u/kaley_moro](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ukaleymoro.md)
 * **Contributor:**   shadow578
 
 ### Character Info
@@ -13,7 +13,7 @@
   * 002
   * Iota
 * **Shows:**
-  * [Darling in the FranXX](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/shows/DarlingintheFranXX.md) - [__MAL__](https://myanimelist.net/anime/35849/Darling_in_the_FranXX)
-  * [Darling in the FranXX](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/shows/DarlingintheFranXX.md) - [__MAL__](https://myanimelist.net/manga/111512/Darling_in_the_FranXX)
+  * [Darling in the FranXX](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DarlingintheFranXX.md) - [__MAL__](https://myanimelist.net/anime/35849/Darling_in_the_FranXX)
+  * [Darling in the FranXX](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DarlingintheFranXX.md) - [__MAL__](https://myanimelist.net/manga/111512/Darling_in_the_FranXX)
 
 

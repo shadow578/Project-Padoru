@@ -1,6 +1,6 @@
 # Padorus in [Mini Yuri](https://myanimelist.net/anime/40369/Mini_Yuri)
 
 ### A
-* [Akari Akaza](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/AkariAkaza.md)
+* [Akari Akaza](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AkariAkaza.md)
 
-###### Generated on 2019-12-01T16:41:51
+###### Generated on 2019-12-01T16:56:59

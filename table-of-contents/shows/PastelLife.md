@@ -1,18 +1,18 @@
 # Padorus in [Pastel Life](https://myanimelist.net/anime/37778/Pastel_Life)
 
 ### A
-* [Aya Maruyama](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/AyaMaruyama.md)
+* [Aya Maruyama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AyaMaruyama.md)
 
 ### C
-* [Chisato Shirasagi](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ChisatoShirasagi.md)
+* [Chisato Shirasagi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ChisatoShirasagi.md)
 
 ### E
-* [Eve Wakamiya](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/EveWakamiya.md)
+* [Eve Wakamiya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/EveWakamiya.md)
 
 ### H
-* [Hina Hikawa](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/HinaHikawa.md)
+* [Hina Hikawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HinaHikawa.md)
 
 ### M
-* [Maya Yamato](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/MayaYamato.md)
+* [Maya Yamato](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MayaYamato.md)
 
-###### Generated on 2019-12-01T16:41:51
+###### Generated on 2019-12-01T16:56:59

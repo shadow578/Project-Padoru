@@ -1,7 +1,7 @@
 # Padoru-Padoru
 Collection of Padoru Character Images
 
-A Table of all Padoru Images can be found [here](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/character-index.md)
+The Table of all Padorus in this Collection can be found [here](https://github.com/shadow578/Padoru-Padoru/blob/master/TABLE-OF-CONTENTS.md)
     
 # How To Use
 Simple:

@@ -3,7 +3,8 @@
 ![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-chungoru.png "Chungoru")
 
 ### Image Info
-* **Created by:**    [u/weabookasoba](https://www.reddit.com/r/Padoru/comments/a923zy/chungoru_chungoru/)
+* **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/a923zy/chungoru_chungoru/)
+* **Created by:**    [u/weabookasoba](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/creators/uweabookasoba.md)
 * **Contributor:**   shadow578
 
 ### Character Info

@@ -3,7 +3,8 @@
 ![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-rosalina.png "Rosalina")
 
 ### Image Info
-* **Created by:**    [tifa_says_hi](https://twitter.com/Tifa_says_Hi/status/1200616610794393601)
+* **Posted on:**     [twitter.com](https://twitter.com/Tifa_says_Hi/status/1200616610794393601)
+* **Created by:**    [tifa_says_hi](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/creators/tifasayshi.md)
 * **Contributor:**   shadow578
 
 ### Character Info

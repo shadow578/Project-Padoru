@@ -1,3 +1,4 @@
+# Characters
 
 ### A
 * [AI-Chan](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/AIChan.md)
@@ -128,4 +129,4 @@
 ### Z
 * [Zero Two](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
 
-###### Generated on 2019-12-01T15:09:58
+###### Generated on 2019-12-01T16:35:29

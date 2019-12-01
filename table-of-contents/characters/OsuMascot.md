@@ -3,7 +3,8 @@
 ![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/other-osu-mascot.png "Osu! Mascot")
 
 ### Image Info
-* **Created by:**    [chausies](https://knowyourmeme.com/photos/1441211-padoru)
+* **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1441211-padoru)
+* **Created by:**    [chausies](https://github.com/shadow578/Padoru-Padoru/blob/master/table-of-contents/creators/chausies.md)
 * **Contributor:**   shadow578
 
 ### Character Info

@@ -5,7 +5,7 @@ The Table of all Padorus in this Collection can be found [here](https://github.c
     
 ## How To Use
 Simple:
-* Get the padoru.json file (Use [this url](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/padoru.json) or [(minified version)](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/padoru-mini.json))
+* Get the padoru.json file (Use [this url](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru.json) or [(minified version)](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru-mini.json))
 * Parse the json. The Json data contains a Array of PadoruEntries. Each PadoruEntry contains
     * UID            	: This is a internal id to make each entry unique
     * ImageUrl      	: The Web URL to the image. Use this to get the image. The Image is hosted on github, in this repo

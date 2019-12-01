@@ -1,9 +1,9 @@
 # Lalatina Dustiness Ford
 
-![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-lalatina.png "Lalatina Dustiness Ford")
+![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-darkness.png "Lalatina Dustiness Ford")
 
 ### Image Info
-* **Created by:**    [u/necrom89](https://www.reddit.com/r/Konosuba/comments/a0lmko/darkness_padoru/)
+* **Created by:**    [u/kaley_moro](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)
 * **Contributor:**   shadow578
 
 ### Character Info

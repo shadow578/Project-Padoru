@@ -3,7 +3,7 @@
 ![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-megumin.png "Megumin")
 
 ### Image Info
-* **Created by:**    [u/grizzchan](https://www.reddit.com/r/Konosuba/comments/9zh68b/padoru_megumin_20/)
+* **Created by:**    [u/kaley_moro](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)
 * **Contributor:**   shadow578
 
 ### Character Info

@@ -3,7 +3,7 @@
 ![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/konosuba-aqua.png "Aqua")
 
 ### Image Info
-* **Created by:**    [cianuroarts](https://twitter.com/cianuroarts/status/1069351388583469057)
+* **Created by:**    [u/kaley_moro](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)
 * **Contributor:**   shadow578
 
 ### Character Info

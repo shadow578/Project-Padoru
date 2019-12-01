@@ -3,7 +3,7 @@
 ![padoru](https://raw.githubusercontent.com/shadow578/Padoru-Padoru/master/Padoru/darling-in-the-franxx-zero-two.png "Zero Two")
 
 ### Image Info
-* **Created by:**    [u/mini_knight](https://www.reddit.com/r/DarlingInTheFranxx/comments/9zx15d/made_padoru_zero_two/)
+* **Created by:**    [u/kaley_moro](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)
 * **Contributor:**   shadow578
 
 ### Character Info

@@ -13,6 +13,11 @@
 * [BanG Dream!: Star Beat](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDreamStarBeat.md)
 * [Black Shout](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlackShout.md)
 * [Blend S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlendS.md)
+* [Boku no Hero Academia](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademia.md)
+* [Boku no Hero Academia 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademia2ndSeason.md)
+* [Boku no Hero Academia 3rd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademia3rdSeason.md)
+* [Boku no Hero Academia 4th Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademia4thSeason.md)
+* [Boku no Hero Academia the Movie 1: Futari no Hero](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademiatheMovie1FutarinoHero.md)
 * [Bokura no Live Kimi to no Life](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokuranoLiveKimitonoLife.md)
 * [Bokutachi wa Benkyou ga Dekinai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokutachiwaBenkyougaDekinai.md)
 * [BooBoo KagaBoo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BooBooKagaBoo.md)
@@ -117,6 +122,7 @@
 ### N
 * [Natsu-iro Egao de 1, 2, Jump!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NatsuiroEgaode12Jump.md)
 * [Neo-Aspect](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NeoAspect.md)
+* [NieR:Automata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NieRAutomata.md)
 
 ### P
 * [Pastel Life](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/PastelLife.md)
@@ -163,4 +169,4 @@
 * [Yuru Yuri Nachuyachumi!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuruYuriNachuyachumi.md)
 * [Yuru Yuri San☆Hai!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuruYuriSanHai.md)
 
-###### Generated on 2019-12-01T17:16:43
+###### Generated on 2019-12-04T17:38:59

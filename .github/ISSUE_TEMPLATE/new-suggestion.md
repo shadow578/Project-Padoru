@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 # New Suggestion
+
 ## Required Information
+
 ### Image:
 (link to image here or add as attachment)
 
@@ -20,6 +22,7 @@ assignees: ''
 
 
 ## Additional Information
+
 ### Original Source:
 (link to the website you found the image on)
 
@@ -31,7 +34,8 @@ assignees: ''
 
 ## Checklist
 Please ensure that your Suggestion meets all requirements. Otherwise, it will be removed.
-[ ] The Image does __NOT__ contain nudity.
-[ ] The Image does __NOT__ show minors in sexual acts.
-[ ] The Image is  __NOT__ considered illegal in any way.
-[ ] The Image does __NOT__ violate Github guidelines.
+- [ ] The Image is in the Padoru format ([like this](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fate-nero-claudius.png))
+- [ ] The Image does __NOT__ contain nudity.
+- [ ] The Image does __NOT__ show minors in sexual acts.
+- [ ] The Image is  __NOT__ considered illegal in any way.
+- [ ] The Image does __NOT__ violate Github guidelines.

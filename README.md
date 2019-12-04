@@ -3,6 +3,9 @@ Project Padoru is a Collection of Padoru Character Images
 
 The Table of all Padorus in this Collection can be found [here](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)
     
+# What is Padoru?
+A Meme in the Anime- Community. See [here.](https://knowyourmeme.com/memes/padoru)
+	
 ## How To Use
 Simple:
 * Get the padoru.json file (Use [this url](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru.json) or [(minified version)](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru-mini.json))

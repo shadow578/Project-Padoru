@@ -16,6 +16,7 @@
 * [chausies](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/chausies.md)
 * [Cold Hard Crash](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ColdHardCrash.md)
 * [Comrade in the Framxx](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ComradeintheFramxx.md)
+* [craz_0](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ucraz0.md)
 
 ### F
 * [factoryofsadness](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ufactoryofsadness.md)
@@ -35,6 +36,9 @@
 * [Keito_Karasu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/KeitoKarasu.md)
 * [knose1](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/uknose1.md)
 * [Kotor](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/Kotor.md)
+
+### L
+* [lady9701](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/lady9701.md)
 
 ### M
 * [maushaxx](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/umaushaxx.md)
@@ -56,6 +60,10 @@
 
 ### R
 * [ricozale](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/uricozale.md)
+* [RunsWithKniefs](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/RunsWithKniefs.md)
+
+### S
+* [shadow578](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/shadow578.md)
 
 ### T
 * [Team Arkos](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/TeamArkos.md)
@@ -79,4 +87,4 @@
 ### Z
 * [zurawarudo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/zurawarudo.md)
 
-###### Generated on 2019-12-01T17:16:43
+###### Generated on 2019-12-04T17:38:59

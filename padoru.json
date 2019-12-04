@@ -1031,7 +1031,67 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/jk1730",
       "ImageSource": "https://www.reddit.com/r/WeCantStudy/comments/e3w71d/padoru_uruka/"
+    },
+    {
+      "UID": "61c6769c-c1a4-411f-b46f-065d7529dda0",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/demon-slayer-kanao-tsuyuri.png",
+      "ImagePath": "Padoru\\demon-slayer-kanao-tsuyuri.png",
+      "Name": "Kanao Tsuyuri",
+      "IsFemale": true,
+      "MALName": "Tsuyuri, Kanao",
+      "MALId": 151142,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "lady9701",
+      "ImageSource": "https://www.deviantart.com/lady9701/art/Padoru-Kanao-820487659"
+    },
+    {
+      "UID": "cf0f9b77-08a7-42ad-ba6d-1391b9557c50",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kill-la-kill-ryuuko-matoi.png",
+      "ImagePath": "Padoru\\kill-la-kill-ryuuko-matoi.png",
+      "Name": "Ryuuko Matoi",
+      "IsFemale": true,
+      "MALName": "Matoi, Ryuuko",
+      "MALId": 83797,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/owljade",
+      "ImageSource": "https://www.reddit.com/r/KillLaKill/comments/a1w2yy/im_not_sure_if_this_is_allowed_but_i_made_best/"
+    },
+    {
+      "UID": "ed2247fc-feba-4a00-9eaf-8b477bffd400",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/nier-2b.png",
+      "ImagePath": "Padoru\\nier-2b.png",
+      "Name": "2B",
+      "IsFemale": true,
+      "MALName": "YoRHa 2-gou B-gata",
+      "MALId": 153798,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "RunsWithKniefs",
+      "ImageSource": "https://www.pixiv.net/en/artworks/72324166"
+    },
+    {
+      "UID": "cb5ac062-dfa5-4f73-ad22-e6dc1b7ba174",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/hitoribocchi-sunao-nako.png",
+      "ImagePath": "Padoru\\hitoribocchi-sunao-nako.png",
+      "Name": "Sunao Nako",
+      "IsFemale": true,
+      "MALName": "Sunao, Nako",
+      "MALId": 144574,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/craz_0",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e50ie8/sunao_nako_from_hitoribocchi_no_oo_seikatsu_made/"
+    },
+    {
+      "UID": "8c86cc9c-0137-4551-ba20-30253b1d9141",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/my-hero-academia-toru-hagakure.png",
+      "ImagePath": "Padoru\\my-hero-academia-toru-hagakure.png",
+      "Name": "Tooru Hagakure",
+      "IsFemale": true,
+      "MALName": "Hagakure, Tooru",
+      "MALId": 133730,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "shadow578",
+      "ImageSource": "https://github.com/shadow578/Project-Padoru"
     }
   ],
-  "LastChange": "2019-12-01T18:16:24.6563083+01:00"
+  "LastChange": "2019-12-04T18:38:47.4332059+01:00"
 }

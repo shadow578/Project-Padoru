@@ -47,6 +47,7 @@
 
 ### K
 * [Kaguya Shinomiya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KaguyaShinomiya.md)
+* [Kanao Tsuyuri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KanaoTsuyuri.md)
 * [Kanna Kamui](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KannaKamui.md)
 * [Kanon Matsubara](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KanonMatsubara.md)
 * [Kaoru Seta](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KaoruSeta.md)
@@ -75,6 +76,7 @@
 * [Moca Aoba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MocaAoba.md)
 
 ### N
+* [Nako Sunao](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/NakoSunao.md)
 * [Nero Claudius](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/NeroClaudius.md)
 * [Nezuko Kamado](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/NezukoKamado.md)
 * [Niko Yazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/NikoYazawa.md)
@@ -93,6 +95,7 @@
 * [Rosalina](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rosalina.md)
 * [Rozalin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rozalin.md)
 * [Ruby Rose](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RubyRose.md)
+* [Ryuuko Matoi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RyuukoMatoi.md)
 
 ### S
 * [Saaya Yamabuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SaayaYamabuki.md)
@@ -110,6 +113,7 @@
 * [Tae Hanazono](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TaeHanazono.md)
 * [Taiga Aisaka](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TaigaAisaka.md)
 * [Tomoe Udagawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TomoeUdagawa.md)
+* [Tooru Hagakure](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TooruHagakure.md)
 * [Tooru Honda](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TooruHonda.md)
 * [Tsugumi Hazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TsugumiHazawa.md)
 
@@ -123,10 +127,11 @@
 * [Wiz](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Wiz.md)
 
 ### Y
+* [YoRHa 2-gou B-gata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YoRHa2gouBgata.md)
 * [Yukina Minato](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YukinaMinato.md)
 * [Yuuko Yoshida](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YuukoYoshida.md)
 
 ### Z
 * [Zero Two](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
 
-###### Generated on 2019-12-01T17:16:43
+###### Generated on 2019-12-04T17:38:59

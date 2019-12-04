@@ -4,6 +4,8 @@ Project Padoru is a Collection of Padoru Character Images
 The Table of all Padorus in this Collection can be found [here](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)
     
 # What is Padoru?
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fate-nero-claudius.png" width="100" height="100">
+
 A Meme in the Anime- Community. See [here.](https://knowyourmeme.com/memes/padoru)
 	
 ## How To Use
@@ -35,7 +37,7 @@ Please ensure that your Contribution / Suggestions meets the Guidelines below.
 
 ## Guidelines
 * Image Suggestions __MUST__ contain:
-    * The Image itself
+    * The (Padoru) Image itself
     * The Name of the Character
 	* The Name of the image creator
 * Image Suggestions __SHOULD__ contain:

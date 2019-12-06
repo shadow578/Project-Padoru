@@ -113,6 +113,7 @@
 * [Tae Hanazono](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TaeHanazono.md)
 * [Taiga Aisaka](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TaigaAisaka.md)
 * [Tomoe Udagawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TomoeUdagawa.md)
+* [Tooru](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Tooru.md)
 * [Tooru Hagakure](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TooruHagakure.md)
 * [Tooru Honda](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TooruHonda.md)
 * [Tsugumi Hazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TsugumiHazawa.md)
@@ -134,4 +135,4 @@
 ### Z
 * [Zero Two](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
 
-###### Generated on 2019-12-04T17:38:59
+###### Generated on 2019-12-06T17:07:44

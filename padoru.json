@@ -1091,7 +1091,19 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "shadow578",
       "ImageSource": "https://github.com/shadow578/Project-Padoru"
+    },
+    {
+      "UID": "e6d73043-0709-47b9-83fc-a0b9861c7bae",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/dragon-maid-tooru.png",
+      "ImagePath": "Padoru\\dragon-maid-tooru.png",
+      "Name": "Tooru",
+      "IsFemale": true,
+      "MALName": "Tooru",
+      "MALId": 136727,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/infernoinit12",
+      "ImageSource": "https://www.reddit.com/r/Animemes/comments/e6jswk/hashire_sori_yo_kaze_no_you_ni_tsukimihara_wo/"
     }
   ],
-  "LastChange": "2019-12-04T18:38:47.4332059+01:00"
+  "LastChange": "2019-12-06T17:59:28.2458057+01:00"
 }

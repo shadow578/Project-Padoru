@@ -1,6 +1,6 @@
 # Azura
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fire-emblem-azura.png "Azura")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fire-emblem-azura.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1441212-padoru)

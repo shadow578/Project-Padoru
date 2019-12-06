@@ -1,6 +1,6 @@
 # Sotca Luckythar
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/hitoribocchi-sotoka-rakita.png "Sotca Luckythar")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/hitoribocchi-sotoka-rakita.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/e16bsv/sotoka_rakita_hitori_bocchi_no_marumaru_seikatsu/)

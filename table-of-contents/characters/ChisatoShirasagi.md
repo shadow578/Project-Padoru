@@ -1,6 +1,6 @@
 # Chisato Shirasagi
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/bang-dream/bang-dream-chisato-shirasagi.png "Chisato Shirasagi")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/bang-dream/bang-dream-chisato-shirasagi.png" height="300">
 
 ### Image Info
 * **Posted on:**     [twitter.com](https://twitter.com/asanava18/status/1075978864277512194)

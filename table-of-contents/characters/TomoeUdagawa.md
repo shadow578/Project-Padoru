@@ -1,6 +1,6 @@
 # Tomoe Udagawa
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/bang-dream/bang-dream-tomoe-udagawa.png "Tomoe Udagawa")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/bang-dream/bang-dream-tomoe-udagawa.png" height="300">
 
 ### Image Info
 * **Posted on:**     [twitter.com](https://twitter.com/asanava18/status/1075978864277512194)

@@ -1,6 +1,6 @@
 # Lalatina Dustiness Ford
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-darkness.png "Lalatina Dustiness Ford")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-darkness.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)

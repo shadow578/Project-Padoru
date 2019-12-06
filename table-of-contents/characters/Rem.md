@@ -1,6 +1,6 @@
 # Rem
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/re-zero-rem.png "Rem")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/re-zero-rem.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Re_Zero/comments/a4bm19/media_i_made_a_padoru_rem/)

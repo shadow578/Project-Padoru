@@ -1,6 +1,6 @@
 # Fumino Furuhashi
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-fumino-furuhashi.png "Fumino Furuhashi")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-fumino-furuhashi.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/WeCantStudy/comments/e3w4rx/padoru_fumimo/)

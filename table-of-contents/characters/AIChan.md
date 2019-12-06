@@ -1,6 +1,6 @@
 # AI-Chan
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/aichannel-ai-chan.png "AI-Chan")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/aichannel-ai-chan.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1439336-padoru)

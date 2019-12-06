@@ -1,6 +1,6 @@
 # Senko-san
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/senko-san-senko.png "Senko-san")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/senko-san-senko.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/czxoa7/senko_san_at_your_service/)

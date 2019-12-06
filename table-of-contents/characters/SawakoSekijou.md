@@ -1,6 +1,6 @@
 # Sawako Sekijou
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-sekijo-sawako.png "Sawako Sekijou")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-sekijo-sawako.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/WeCantStudy/comments/e472zr/i_made_a_sekijou_sawako_padoru/)

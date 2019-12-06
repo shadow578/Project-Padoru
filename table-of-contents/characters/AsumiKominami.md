@@ -1,6 +1,6 @@
 # Asumi Kominami
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-asumi-kominami.png "Asumi Kominami")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-asumi-kominami.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/WeCantStudy/comments/e3w65z/padoru_asumi/)

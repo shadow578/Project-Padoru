@@ -1,6 +1,6 @@
 # Earth Chan
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-earth-chan.png "Earth Chan")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-earth-chan.png" height="300">
 
 ### Image Info
 * **Posted on:**     [pinterest.at](https://www.pinterest.at/pin/388857749068444230/)

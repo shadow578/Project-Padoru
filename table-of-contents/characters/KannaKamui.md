@@ -1,6 +1,6 @@
 # Kanna Kamui
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/dragon-maid-kanna.png "Kanna Kamui")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/dragon-maid-kanna.png" height="300">
 
 ### Image Info
 * **Posted on:**     [pinterest.at](https://www.pinterest.at/pin/535717318173992524/)

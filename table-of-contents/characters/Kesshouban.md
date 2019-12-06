@@ -1,6 +1,6 @@
 # Kesshouban
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/cells-at-work-patelet.png "Kesshouban")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/cells-at-work-patelet.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1438687-padoru)

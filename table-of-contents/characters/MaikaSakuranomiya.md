@@ -1,6 +1,6 @@
 # Maika Sakuranomiya
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/blends-maika.png "Maika Sakuranomiya")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/blends-maika.png" height="300">
 
 ### Image Info
 * **Posted on:**     [pinterest.at](https://www.pinterest.at/pin/411094272234710107/)

@@ -1,6 +1,6 @@
 # Taiga Aisaka
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/toradora-taiga.png "Taiga Aisaka")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/toradora-taiga.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1436794-padoru)

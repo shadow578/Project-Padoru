@@ -1,6 +1,6 @@
 # Kanao Tsuyuri
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/demon-slayer-kanao-tsuyuri.png "Kanao Tsuyuri")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/demon-slayer-kanao-tsuyuri.png" height="300">
 
 ### Image Info
 * **Posted on:**     [deviantart.com](https://www.deviantart.com/lady9701/art/Padoru-Kanao-820487659)

@@ -3,4 +3,4 @@
 ### S
 * [Shouko Komi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ShoukoKomi.md)
 
-###### Generated on 2019-12-06T17:07:44
+###### This page was automatically generated. If it contains errors, please open a Issue.

@@ -1,6 +1,6 @@
 # YoRHa 2-gou B-gata
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/nier-2b.png "YoRHa 2-gou B-gata")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/nier-2b.png" height="300">
 
 ### Image Info
 * **Posted on:**     [pixiv.net](https://www.pixiv.net/en/artworks/72324166)

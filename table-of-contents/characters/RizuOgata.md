@@ -1,6 +1,6 @@
 # Rizu Ogata
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-rizu-ogata.png "Rizu Ogata")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-rizu-ogata.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/WeCantStudy/comments/e3w6lg/padoru_ogata/)

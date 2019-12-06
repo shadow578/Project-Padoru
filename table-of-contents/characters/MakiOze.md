@@ -1,6 +1,6 @@
 # Maki Oze
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fire-force-maki-oze.png "Maki Oze")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fire-force-maki-oze.png" height="300">
 
 ### Image Info
 * **Posted on:**     [twitter.com](https://twitter.com/ms_ikari/status/1200998882743730176)

@@ -1,6 +1,6 @@
 # Rinko Shirokane
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/bang-dream/bang-dream-rinko-shirokane.png "Rinko Shirokane")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/bang-dream/bang-dream-rinko-shirokane.png" height="300">
 
 ### Image Info
 * **Posted on:**     [twitter.com](https://twitter.com/asanava18/status/1075978864277512194)

@@ -1,6 +1,6 @@
 # Aqua
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-aqua.png "Aqua")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-aqua.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)

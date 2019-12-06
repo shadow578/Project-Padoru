@@ -1,6 +1,6 @@
 # Satanichia Kurumizawa McDowell
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/gabriel-dropout-satania.png "Satanichia Kurumizawa McDowell")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/gabriel-dropout-satania.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/dw7pkb/padoru_satania_gabriel_dropout/)

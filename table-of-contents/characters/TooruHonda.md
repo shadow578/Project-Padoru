@@ -1,6 +1,6 @@
 # Tooru Honda
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fruits-basket-tooru-honda.png "Tooru Honda")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fruits-basket-tooru-honda.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/e0jxzb/tohru_honda_fruits_basket/)

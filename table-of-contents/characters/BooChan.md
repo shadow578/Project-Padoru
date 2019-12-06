@@ -1,6 +1,6 @@
 # Boo- Chan
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-boo.png "Boo- Chan")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-boo.png" height="300">
 
 ### Image Info
 * **Posted on:**     [twitter.com](https://twitter.com/Tifa_says_Hi/status/1074088401958187008)

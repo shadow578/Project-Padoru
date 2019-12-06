@@ -1,6 +1,6 @@
 # HH Chan
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-hh-chan.png "HH Chan")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-hh-chan.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/a8hd1z/here_is_a_present_from_me_for_you_weebs/)

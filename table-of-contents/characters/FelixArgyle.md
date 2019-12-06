@@ -1,6 +1,6 @@
 # Felix Argyle
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/re-zero-felix.png "Felix Argyle")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/re-zero-felix.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/dpc6lh/felix_padoru_re_zero/)

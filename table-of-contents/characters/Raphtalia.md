@@ -1,6 +1,6 @@
 # Raphtalia
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/shield-hero-raphtalia.png "Raphtalia")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/shield-hero-raphtalia.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/dalq1n/i_see_some_request_here_so_i_made_one_for_here/)

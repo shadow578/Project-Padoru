@@ -1,6 +1,6 @@
 # Tooru
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/dragon-maid-tooru.png "Tooru")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/dragon-maid-tooru.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/e6jswk/hashire_sori_yo_kaze_no_you_ni_tsukimihara_wo/)

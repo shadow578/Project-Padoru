@@ -1,6 +1,6 @@
 # Ryuuko Matoi
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kill-la-kill-ryuuko-matoi.png "Ryuuko Matoi")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kill-la-kill-ryuuko-matoi.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/KillLaKill/comments/a1w2yy/im_not_sure_if_this_is_allowed_but_i_made_best/)

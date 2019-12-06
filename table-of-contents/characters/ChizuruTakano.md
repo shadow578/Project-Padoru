@@ -1,6 +1,6 @@
 # Chizuru Takano
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/tsundere-children-chizuru.png "Chizuru Takano")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/tsundere-children-chizuru.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/a55c3f/chizuru_takano_from_tsuredure_children/)

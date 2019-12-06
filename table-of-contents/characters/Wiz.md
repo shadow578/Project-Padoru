@@ -1,6 +1,6 @@
 # Wiz
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-wiz.png "Wiz")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-wiz.png" height="300">
 
 ### Image Info
 * **Created by:**    [UNKNOWN](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/UNKNOWN.md)

@@ -1,6 +1,6 @@
 # Shouko Komi
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi-alt1.png "Shouko Komi")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi-alt1.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1434090-padoru)
@@ -16,7 +16,7 @@
 
 # Shouko Komi
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi-alt0.png "Shouko Komi")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/miss-komi-is-bad-at-communication-komi-alt0.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/dypswz/komisan_komisan_wa_komyushou_desu/)

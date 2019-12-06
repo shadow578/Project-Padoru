@@ -1,6 +1,6 @@
 # Osu! Mascot
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-osu-mascot.png "Osu! Mascot")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-osu-mascot.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1441211-padoru)

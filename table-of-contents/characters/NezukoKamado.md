@@ -1,6 +1,6 @@
 # Nezuko Kamado
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/demon-slayer-nezuko.png "Nezuko Kamado")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/demon-slayer-nezuko.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1568913-padoru)

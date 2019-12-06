@@ -1,6 +1,6 @@
 # Internet Explorer Chan
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-ie-chan.png "Internet Explorer Chan")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-ie-chan.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/da99f8/internet_explorer_chan_internet_explorer_by/)

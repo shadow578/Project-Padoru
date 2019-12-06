@@ -1,6 +1,6 @@
 # Shiro
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/senko-san-shiro.png "Shiro")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/senko-san-shiro.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/d0k128/shiro_padoru/)

@@ -1,6 +1,6 @@
 # Mai Shiranui
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fatal-fury-mai-shiranui.png "Mai Shiranui")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fatal-fury-mai-shiranui.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/dy44cy/mai_shiranui_king_of_fightersfatal_fury/)

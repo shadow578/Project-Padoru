@@ -1,6 +1,6 @@
 # Azusa Nakano
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/k-on-azusa.png "Azusa Nakano")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/k-on-azusa.png" height="300">
 
 ### Image Info
 * **Posted on:**     [pixiv.net](https://www.pixiv.net/en/artworks/72134578)

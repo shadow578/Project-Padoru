@@ -1,6 +1,6 @@
 # Mamako Oosuki
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/okasan-online-mamako.png "Mamako Oosuki")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/okasan-online-mamako.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/cn438x/i_draw_padorumamako/)

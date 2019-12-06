@@ -1,6 +1,6 @@
 # Okuyasu Nijimura
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/jojos-okuyasu-nijimura.png "Okuyasu Nijimura")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/jojos-okuyasu-nijimura.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/e4b95z/okuyasu_from_jojos_bizarre_adventure_part_4_i/)

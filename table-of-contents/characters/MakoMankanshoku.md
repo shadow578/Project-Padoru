@@ -1,6 +1,6 @@
 # Mako Mankanshoku
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kill-la-kill-mako.png "Mako Mankanshoku")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kill-la-kill-mako.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1439051-padoru)

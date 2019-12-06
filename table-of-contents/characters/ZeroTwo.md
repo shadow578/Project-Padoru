@@ -1,6 +1,6 @@
 # Zero Two
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/darling-in-the-franxx-zero-two.png "Zero Two")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/darling-in-the-franxx-zero-two.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Animemes/comments/e41say/happy_december_padoru_padoru/)

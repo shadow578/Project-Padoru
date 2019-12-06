@@ -1,6 +1,6 @@
 # Yuuko Yoshida
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/demon-girl-next-door-shamiko.png "Yuuko Yoshida")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/demon-girl-next-door-shamiko.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/d82a3r/shamiko_from_the_demon_girl_next_door_d/)

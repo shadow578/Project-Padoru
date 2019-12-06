@@ -1,6 +1,6 @@
 # Uruka Takemoto
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-uruka-takemoto.png "Uruka Takemoto")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/we-never-learn/we-never-learn-uruka-takemoto.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/WeCantStudy/comments/e3w71d/padoru_uruka/)

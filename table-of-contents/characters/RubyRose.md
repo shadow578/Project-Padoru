@@ -1,6 +1,6 @@
 # Ruby Rose
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/rwby-ruby-rose.png "Ruby Rose")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/rwby-ruby-rose.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1443661-padoru)

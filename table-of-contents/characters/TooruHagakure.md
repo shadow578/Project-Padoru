@@ -1,6 +1,6 @@
 # Tooru Hagakure
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/my-hero-academia-toru-hagakure.png "Tooru Hagakure")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/my-hero-academia-toru-hagakure.png" height="300">
 
 ### Image Info
 * **Posted on:**     [github.com](https://github.com/shadow578/Project-Padoru)

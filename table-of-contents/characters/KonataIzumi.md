@@ -1,6 +1,6 @@
 # Konata Izumi
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/lucky-star-konata-izumi.png "Konata Izumi")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/lucky-star-konata-izumi.png" height="300">
 
 ### Image Info
 * **Posted on:**     [twitter.com](https://twitter.com/Tifa_says_Hi/status/1074088401958187008)

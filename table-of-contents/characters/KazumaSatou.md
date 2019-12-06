@@ -1,6 +1,6 @@
 # Kazuma Satou
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-kazuma.png "Kazuma Satou")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/konosuba-kazuma.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Konosuba/comments/a0lm4n/kazuma_padoru/)

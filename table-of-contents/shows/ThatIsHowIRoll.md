@@ -13,4 +13,4 @@
 * [Tomoe Udagawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TomoeUdagawa.md)
 * [Tsugumi Hazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TsugumiHazawa.md)
 
-###### Generated on 2019-12-06T17:07:44
+###### This page was automatically generated. If it contains errors, please open a Issue.

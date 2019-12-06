@@ -1,6 +1,6 @@
 # Kaguya Shinomiya
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kaguya-sama-kaguya.png "Kaguya Shinomiya")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kaguya-sama-kaguya.png" height="300">
 
 ### Image Info
 * **Posted on:**     [knowyourmeme.com](https://knowyourmeme.com/photos/1443625-padoru)

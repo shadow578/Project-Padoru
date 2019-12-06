@@ -1,6 +1,6 @@
 # Niko Yazawa
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/love-life-noco-yazawa.png "Niko Yazawa")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/love-life-noco-yazawa.png" height="300">
 
 ### Image Info
 * **Posted on:**     [deviantart.com](https://www.deviantart.com/zurawarudo/art/Padoru-Nico-720001936)

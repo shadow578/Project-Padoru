@@ -1,6 +1,6 @@
 # Gabriel Tenma White
 
-![padoru](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/gabriel-dropout-grabriel.png "Gabriel Tenma White")
+<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/gabriel-dropout-grabriel.png" height="300">
 
 ### Image Info
 * **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/dbc5p1/gabriel_tenma_white_gabriel_dropout/)

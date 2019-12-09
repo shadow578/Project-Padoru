@@ -1103,7 +1103,79 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/infernoinit12",
       "ImageSource": "https://www.reddit.com/r/Animemes/comments/e6jswk/hashire_sori_yo_kaze_no_you_ni_tsukimihara_wo/"
+    },
+    {
+      "UID": "1be52929-f416-45d8-b1eb-5a5a82b5ce55",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fate-astolfo.png",
+      "ImagePath": "Padoru\\fate-astolfo.png",
+      "Name": "Astolfo",
+      "IsFemale": false,
+      "MALName": "Kuro no Rider",
+      "MALId": 79995,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "miyami kyoko",
+      "ImageSource": "https://www.pixiv.net/en/artworks/66320714"
+    },
+    {
+      "UID": "d6123bb5-cded-4510-9d1a-cbaf0bbd5da5",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fire-force-tamaki-kotatsu.png",
+      "ImagePath": "Padoru\\fire-force-tamaki-kotatsu.png",
+      "Name": "Tamaki Kotatsu",
+      "IsFemale": true,
+      "MALName": "Kotatsu, Tamaki",
+      "MALId": 135798,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "zu2ux",
+      "ImageSource": "https://twitter.com/zu2ux/status/1203474884841680896"
+    },
+    {
+      "UID": "1bfcfff7-d975-4133-8e95-31a2b844a7ce",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/nekopara-chocola.png",
+      "ImagePath": "Padoru\\nekopara-chocola.png",
+      "Name": "Chocola",
+      "IsFemale": true,
+      "MALName": "Chocola",
+      "MALId": 123341,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/how-dee",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e7n6jk/chocola_nekopara_padoru/"
+    },
+    {
+      "UID": "1a7ad25e-26c9-4225-8d22-ce18e57658ce",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/nekopara-coconut.png",
+      "ImagePath": "Padoru\\nekopara-coconut.png",
+      "Name": "Coconut",
+      "IsFemale": true,
+      "MALName": "Coconut",
+      "MALId": 151188,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/how-dee",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e7v6fs/coconut_nekopara_padoru/"
+    },
+    {
+      "UID": "58ab0722-321f-4368-ae08-539d571ccd9e",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/nekopara-vanilla.png",
+      "ImagePath": "Padoru\\nekopara-vanilla.png",
+      "Name": "Vanilla",
+      "IsFemale": true,
+      "MALName": "Vanilla",
+      "MALId": 123343,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/how-dee",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e7nbzm/vanilla_nekopara_padoru/"
+    },
+    {
+      "UID": "5b728b9c-76bf-4178-9caf-14d13771d977",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/kill-la-kill-satsuki-kiryuuin.png",
+      "ImagePath": "Padoru\\kill-la-kill-satsuki-kiryuuin.png",
+      "Name": "Satsuki Kiryuuin",
+      "IsFemale": true,
+      "MALName": "Kiryuuin, Satsuki",
+      "MALId": 83799,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/owljade",
+      "ImageSource": "https://old.reddit.com/r/Animemes/comments/e6f0dx/padoru_padoru_x_dont_lose_your_way/f9pjj98/"
     }
   ],
-  "LastChange": "2019-12-06T17:59:28.2458057+01:00"
+  "LastChange": "2019-12-09T14:45:27.6060026+01:00"
 }

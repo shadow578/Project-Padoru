@@ -32,6 +32,7 @@
 ### F
 * [Fatal Fury 2: The New Battle](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatalFury2TheNewBattle.md)
 * [Fatal Fury: The Motion Picture](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatalFuryTheMotionPicture.md)
+* [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md)
 * [Fire Emblem If Anya Oukoku Comic Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemIfAnyaOukokuComicAnthology.md)
 * [Fire Emblem if Byakuya Okoku Comic Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemifByakuyaOkokuComicAnthology.md)
 * [Fire Emblem if: Nibelung no Hokan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemifNibelungnoHokan.md)
@@ -121,6 +122,11 @@
 
 ### N
 * [Natsu-iro Egao de 1, 2, Jump!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NatsuiroEgaode12Jump.md)
+* [Neko Para](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NekoPara.md)
+* [Neko Paradise](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NekoParadise.md)
+* [Nekopara](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Nekopara.md)
+* [Nekopara OVA](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NekoparaOVA.md)
+* [Nekopara: Koneko no Hi no Yakusoku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NekoparaKonekonoHinoYakusoku.md)
 * [Neo-Aspect](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NeoAspect.md)
 * [NieR:Automata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NieRAutomata.md)
 

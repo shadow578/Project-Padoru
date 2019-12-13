@@ -1,7 +1,7 @@
 # Project Padoru
-Project Padoru is a Collection of Padoru Character Images
+Project Padoru is __the worldwide biggest*__ Collection of Padoru Images.
 
-The Table of all Padorus in this Collection can be found [here](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)
+The Table of all Padorus in this Collection can be found [here.](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)
     
 # What is Padoru?
 <img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fate-nero-claudius.png" width="100" height="100">
@@ -36,24 +36,29 @@ The Preferred method is creating a Image Suggestion.
 Please ensure that your Contribution / Suggestions meets the Guidelines below.
 
 ## Guidelines
-* Image Suggestions __MUST__ contain:
+* Suggestions __MUST__ contain:
     * The (Padoru) Image itself
     * The Name of the Character
 	* The Name of the image creator
-* Image Suggestions __SHOULD__ contain:
+* Suggestions __SHOULD__ contain:
 	* The Show the Character is from (So I can find the character in MAL)
     * A Link to the original source (reddit post, pixiv, etc...) (NOT a direct image link)
 	* Your Contributor Name, if it is different from you Github username
-* Image Suggestions __MAY NOT__:
+* Suggestions __MAY NOT__:
     * Contain Nudity
     * Show Minors in sexual acts
-    * Contain any content that is, or may be in other countries, considered illegal
-    * Contain any content that violates Github guidelines.
+    * Contain any content that is considered illegal
+    * Contain any content that violates Github guidelines
+
+
+Providing high resolution images (preferably png) with transparent background is highly encouraged, but not a requirement.
 
 ## Disclaimer
-* I do not own any of these Images, I just bring them together into one collection. Read the entry below if you want a image to be removed.
-* It may not be OK to use some, if not all, of these Images in a Commercial context. Use for Private use ONLY.
-* Information in this Repository is provided as-is, without any guarantee that they are correct.
+* I do not own any of these Images, I just bring them together into one collection. Read the entry below if you want a image to be removed
+* It may not be OK to use some, if not all, of these Images in a Commercial way. So use for Private use ONLY
+* Information in this Repository is provided as-is (= without any guarantee that it is correct)
+* I may edit source images before adding them to the collection (upscaling, transparent background, ...).
+	* I do **not** remove watermarks *(at least I try, but some may get deleted when removing the background...)*
 
 ## A Image I Created Is Listed In This Collection, But I'm Not Named As Creator
 Images in this repository are collected from the internet. Tracking each image back to the original author is (almost) impossible. 
@@ -67,3 +72,7 @@ I'll then change the Creator information as soon as I can.
 Thats sad to hear. If you want your Image to be remove, please contact me by [opening a Issue](https://github.com/shadow578/Project-Padoru/issues/new?assignees=&labels=remove&template=removal-request.md&title=%5BREMOVAL%5D) and I'll remove the Image as soon as I can.
 
 Please keep in mind that removing the Image may take some time.
+
+
+
+###### *worldwide biggest because there is no other 🙃

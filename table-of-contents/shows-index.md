@@ -22,6 +22,13 @@
 * [Bokutachi wa Benkyou ga Dekinai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokutachiwaBenkyougaDekinai.md)
 * [BooBoo KagaBoo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BooBooKagaBoo.md)
 
+### C
+* [Clannad](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Clannad.md)
+* [Clannad 4-koma Manga Gekijyou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Clannad4komaMangaGekijyou.md)
+* [Clannad Movie](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ClannadMovie.md)
+* [Clannad: After Story](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ClannadAfterStory.md)
+* [Clannad: Hikaru Mimamoru Sakamichi de](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ClannadHikaruMimamoruSakamichide.md)
+
 ### D
 * [Darling in the FranXX](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DarlingintheFranXX.md)
 
@@ -46,6 +53,7 @@
 
 ### H
 * [Happy Happy Party!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HappyHappyParty.md)
+* [Happy Sugar Life](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HappySugarLife.md)
 * [Hashiri Hajimeta bakari no Kimi ni](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HashiriHajimetabakarinoKimini.md)
 * [Hataraku Saibou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HatarakuSaibou.md)
 * [Hataraku Saibou (TV)](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HatarakuSaibouTV.md)
@@ -94,6 +102,14 @@
 * [Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KonoSubarashiiSekainiShukufukuwoSpinoffKonoSubarashiiSekainiBakuenwo.md)
 * [Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KonoSubarashiiSekainiShukufukuwoKonoSubarashiiChokerniShukufukuwo.md)
 * [Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KonoSubarashiiSekainiShukufukuwoKurenaiDensetsu.md)
+* [Kyoto Animation: Megane-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyotoAnimationMeganehen.md)
+* [Kyoukai no Kanata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanata.md)
+* [Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanataMovie1IllBeHereKakohen.md)
+* [Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanataMovie2IllBeHereMiraihen.md)
+* [Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanataMovieIllBeHereKakohenYakusokunoKizuna.md)
+* [Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanataIdolSaibanMayoiNagaramoKimiwoSabakuTami.md)
+* [Kyoukai no Kanata: Mini Gekijou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanataMiniGekijou.md)
+* [Kyoukai no Kanata: Shinonome](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanataShinonome.md)
 
 ### L
 * [Love Live!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LoveLive.md)
@@ -157,6 +173,7 @@
 * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md)
 * [That Is How I Roll!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ThatIsHowIRoll.md)
 * [The Book: JoJo's Bizarre Adventure 4th Another Day](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheBookJoJosBizarreAdventure4thAnotherDay.md)
+* [The King of Fighters: A New Beginning](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheKingofFightersANewBeginning.md)
 * [The King of Fighters: Destiny](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheKingofFightersDestiny.md)
 * [Toradora Spin-off!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ToradoraSpinoff.md)
 * [Toradora!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Toradora.md)
@@ -166,7 +183,15 @@
 * [Tsuujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TsuujouKougekigaZentaiKougekide2kaiKougekinoOkaasanwaSukidesuka.md)
 * [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TsuujouKougekigaZentaiKougekideNikaiKougekinoOkaasanwaSukiDesuka.md)
 
+### U
+* [Utawarerumono: Itsuwari no Kamen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/UtawarerumonoItsuwarinoKamen.md)
+* [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/UtawarerumonoTusukurukoujonoKareiNaruHibi.md)
+
 ### W
+* [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWarui.md)
+* [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiAnthology.md)
+* [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiMotenaishiNazomeiteMiru.md)
+* [Watashi no Tomodachi ga Motenai no wa Dou Kangaetemo Omaera ga Warui.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashinoTomodachigaMotenainowaDouKangaetemoOmaeragaWarui.md)
 * [Wonderful Rush](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WonderfulRush.md)
 
 ### Y

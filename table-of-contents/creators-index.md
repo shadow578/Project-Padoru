@@ -8,12 +8,15 @@
 
 ### A
 * [AlexZer09](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/AlexZer09.md)
+* [arctictitan08](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/uarctictitan08.md)
 * [asanava18](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/asanava18.md)
 * [Audrey Williams](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/AudreyWilliams.md)
 
 ### C
 * [chaaeriin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/uchaaeriin.md)
 * [chausies](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/chausies.md)
+* [cirnovevo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/cirnovevo.md)
+* [code4matt](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ucode4matt.md)
 * [Cold Hard Crash](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ColdHardCrash.md)
 * [Comrade in the Framxx](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ComradeintheFramxx.md)
 * [craz_0](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ucraz0.md)
@@ -35,6 +38,7 @@
 
 ### J
 * [jk1730](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ujk1730.md)
+* [julys-art](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ujulysart.md)
 
 ### K
 * [kaizoku1306](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ukaizoku1306.md)

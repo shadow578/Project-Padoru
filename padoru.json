@@ -1175,7 +1175,115 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/owljade",
       "ImageSource": "https://old.reddit.com/r/Animemes/comments/e6f0dx/padoru_padoru_x_dont_lose_your_way/f9pjj98/"
+    },
+    {
+      "UID": "25a13b1d-11f1-41ec-9938-44961a6fd92c",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/beyond-the-horizon-mirai-kuriyama.png",
+      "ImagePath": "Padoru\\beyond-the-horizon-mirai-kuriyama.png",
+      "Name": "Mirai Kuriyama",
+      "IsFemale": true,
+      "MALName": "Kuriyama, Mirai",
+      "MALId": 81751,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/5enket5u",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e8r0b4/mirai_kuriyama_padoru_padoru/"
+    },
+    {
+      "UID": "7b04db6a-dabb-44c9-ae19-54df88d0a1aa",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/clannad-nagisa-furukawa.png",
+      "ImagePath": "Padoru\\clannad-nagisa-furukawa.png",
+      "Name": "Nagisa Furukawa",
+      "IsFemale": true,
+      "MALName": "Furukawa, Nagisa",
+      "MALId": 4604,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/julys-art",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e8hqbz/nagisa_padoru_from_clannad_me_julys_art_yt/"
+    },
+    {
+      "UID": "bd36299c-2316-43f0-bd72-b0b2e6f55d1f",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fire-emblem-bernadetta.png",
+      "ImagePath": "Padoru\\fire-emblem-bernadetta.png",
+      "Name": "Bernadetta",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "cirnovevo",
+      "ImageSource": "https://www.pixiv.net/en/artworks/78101695"
+    },
+    {
+      "UID": "ecf6785c-6215-4868-bddd-13bf3ff74d47",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/happy-sugar-life-matsuzaka-satou.png",
+      "ImagePath": "Padoru\\happy-sugar-life-matsuzaka-satou.png",
+      "Name": "Matsuzaka Satou",
+      "IsFemale": true,
+      "MALName": "Matsuzaka, Satou",
+      "MALId": 134256,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/code4matt",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e884np/matsuzaka_satou_happy_sugar_life/"
+    },
+    {
+      "UID": "dca4db2b-9b71-4fb7-ab7b-29a7a4ea82cf",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/other-nepnep.png",
+      "ImagePath": "Padoru\\other-nepnep.png",
+      "Name": "NepNep",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "runsWithKniefs",
+      "ImageSource": "https://www.deviantart.com/runswithkniefs/art/NepNep-PADORU-PADORU-719841614"
+    },
+    {
+      "UID": "3f10b1b2-955e-422b-b557-c4be4b202214",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/pokemon-marnie.png",
+      "ImagePath": "Padoru\\pokemon-marnie.png",
+      "Name": "Marnie",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/5enket5u",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/ea2k5v/marnie_padoru_padoru/"
+    },
+    {
+      "UID": "5961d9cf-a8d3-4108-b95e-2d5c7758d25d",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/problem-children-ryuji-sakamato.png",
+      "ImagePath": "Padoru\\problem-children-ryuji-sakamato.png",
+      "Name": "Ryuji Sakamato",
+      "IsFemale": false,
+      "MALName": "",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/arctictitan08",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e8s2ir/i_made_a_ryuji_sakamato_padoru/"
+    },
+    {
+      "UID": "d051e08a-6f0f-4731-b3ac-997ebdd91944",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/Utawarerumono-kuon.png",
+      "ImagePath": "Padoru\\Utawarerumono-kuon.png",
+      "Name": "Kuon",
+      "IsFemale": true,
+      "MALName": "Kuon",
+      "MALId": 129766,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/5enket5u",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e92kfa/kuon_utawarerumono_padoru_padoru/"
+    },
+    {
+      "UID": "ddba12ec-d43a-4c5f-849f-c9515611e7ac",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/watamote-tomoko-kuroki.png",
+      "ImagePath": "Padoru\\watamote-tomoko-kuroki.png",
+      "Name": "Tomoko Kuroki",
+      "IsFemale": true,
+      "MALName": "Kuroki, Tomoko",
+      "MALId": 50057,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/factoryofsadness",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/e9iquj/tomoko_kuroki_watamote/"
     }
   ],
-  "LastChange": "2019-12-09T14:45:27.6060026+01:00"
+  "LastChange": "2019-12-13T21:45:04.0082553+01:00"
 }

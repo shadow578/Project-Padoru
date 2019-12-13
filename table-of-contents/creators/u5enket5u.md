@@ -1,7 +1,12 @@
 # Padorus by u/5enket5u
 
+### K
+* [Kuon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Kuon.md)
+
 ### M
+* [Marnie](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Marnie.md)
 * [Mashiro Shiina](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MashiroShiina.md)
+* [Mirai Kuriyama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MiraiKuriyama.md)
 
 ### R
 * [Raphtalia](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Raphtalia.md)

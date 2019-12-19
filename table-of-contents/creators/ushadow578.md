@@ -1,4 +1,7 @@
-# Padorus by shadow578
+# Padorus by u/shadow_578
+
+### G
+* [Gloria](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Gloria.md)
 
 ### T
 * [Tooru Hagakure](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TooruHagakure.md)

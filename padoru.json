@@ -1089,7 +1089,7 @@
       "MALName": "Hagakure, Tooru",
       "MALId": 133730,
       "ImageContributor": "shadow578",
-      "ImageCreator": "shadow578",
+      "ImageCreator": "u/shadow_578",
       "ImageSource": "https://github.com/shadow578/Project-Padoru"
     },
     {
@@ -1283,7 +1283,43 @@
       "ImageContributor": "shadow578",
       "ImageCreator": "u/factoryofsadness",
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/e9iquj/tomoko_kuroki_watamote/"
+    },
+    {
+      "UID": "a075fe29-8406-4f40-b086-ae40a68a96e5",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/bunny-girl-senpai-rio-futaba.png",
+      "ImagePath": "Padoru\\bunny-girl-senpai-rio-futaba.png",
+      "Name": "Rio Futaba",
+      "IsFemale": true,
+      "MALName": "Futaba, Rio",
+      "MALId": 163452,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "tifa_says_hi",
+      "ImageSource": "https://twitter.com/Tifa_says_Hi/status/1205833513263456257"
+    },
+    {
+      "UID": "612cff4d-1bee-4601-a628-b0fc44c1db1b",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/koi-to-uso-misaki-takasaki.png",
+      "ImagePath": "Padoru\\koi-to-uso-misaki-takasaki.png",
+      "Name": "Misaki Takasaki",
+      "IsFemale": true,
+      "MALName": "Takasaki, Misaki",
+      "MALId": 123061,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/5enket5u",
+      "ImageSource": "https://www.reddit.com/r/Padoru/comments/eamk6p/misaki_from_koi_to_uso_padoru_padoru/"
+    },
+    {
+      "UID": "607c647c-c570-4158-b38d-8e378a860749",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/pokemon-gloria.png",
+      "ImagePath": "Padoru\\pokemon-gloria.png",
+      "Name": "Gloria",
+      "IsFemale": true,
+      "MALName": "",
+      "MALId": null,
+      "ImageContributor": "shadow578",
+      "ImageCreator": "u/shadow_578",
+      "ImageSource": "https://github.com/shadow578/Project-Padoru"
     }
   ],
-  "LastChange": "2019-12-13T21:45:04.0082553+01:00"
+  "LastChange": "2019-12-19T14:23:54.7221985+01:00"
 }

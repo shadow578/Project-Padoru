@@ -34,6 +34,7 @@
 
 ### G
 * [Gabriel Tenma White](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/GabrielTenmaWhite.md)
+* [Gloria](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Gloria.md)
 
 ### H
 * [Hagumi Kitazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HagumiKitazawa.md)
@@ -80,6 +81,7 @@
 * [Miku Nakano](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikuNakano.md)
 * [Mirai Kuriyama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MiraiKuriyama.md)
 * [Misaki Okusawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MisakiOkusawa.md)
+* [Misaki Takasaki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MisakiTakasaki.md)
 * [Moca Aoba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MocaAoba.md)
 
 ### N
@@ -100,6 +102,7 @@
 * [Rem](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rem.md)
 * [Rimi Ushigome](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RimiUshigome.md)
 * [Rinko Shirokane](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RinkoShirokane.md)
+* [Rio Futaba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RioFutaba.md)
 * [Rizu Ogata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RizuOgata.md)
 * [Rosalina](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rosalina.md)
 * [Rozalin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rozalin.md)

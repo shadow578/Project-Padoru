@@ -10,6 +10,7 @@
 * [Konata Izumi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KonataIzumi.md)
 
 ### R
+* [Rio Futaba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RioFutaba.md)
 * [Rosalina](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rosalina.md)
 * [Rozalin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rozalin.md)
 

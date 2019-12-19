@@ -40,6 +40,7 @@
 * [Fatal Fury 2: The New Battle](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatalFury2TheNewBattle.md)
 * [Fatal Fury: The Motion Picture](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatalFuryTheMotionPicture.md)
 * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md)
+* [Fire Emblem Heroes: Eiyuu-tachi no Nichijou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemHeroesEiyuutachinoNichijou.md)
 * [Fire Emblem If Anya Oukoku Comic Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemIfAnyaOukokuComicAnthology.md)
 * [Fire Emblem if Byakuya Okoku Comic Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemifByakuyaOkokuComicAnthology.md)
 * [Fire Emblem if: Nibelung no Hokan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemifNibelungnoHokan.md)
@@ -85,6 +86,8 @@
 * [Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragonKannanoNichijou.md)
 * [Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragonValentineSoshiteOnsenAmariKitaiShinaideKudasai.md)
 * [Kobayashi-san Chi no OO Dragon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoOODragon.md)
+* [Koi to Uso](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KoitoUso.md)
+* [Koi to Uso OVA](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KoitoUsoOVA.md)
 * [Komi-san wa Comyushou desu.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KomisanwaComyushoudesu.md)
 * [K-On!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOn.md)
 * [K-On! Anthology Comic](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnAnthologyComic.md)
@@ -164,6 +167,10 @@
 
 ### S
 * [Sakurasou no Pet na Kanojo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SakurasounoPetnaKanojo.md)
+* [Seishun Buta Yarou Series](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SeishunButaYarouSeries.md)
+* [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SeishunButaYarouwaBunnyGirlSenpainoYumewoMinai.md)
+* [Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SeishunButaYarouwaBunnyGirlsenpainoYumewoMinai.md)
+* [Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SeishunButaYarouwaYumemiruShoujonoYumewoMinai.md)
 * [Sewayaki Kitsune no Senko-san](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SewayakiKitsunenoSenkosan.md)
 * [Shuwarin☆Dorimin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShuwarinDorimin.md)
 * [Snow Halation](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SnowHalation.md)

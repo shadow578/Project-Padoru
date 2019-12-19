@@ -4,7 +4,7 @@
 
 ### Image Info
 * **Posted on:**     [github.com](https://github.com/shadow578/Project-Padoru)
-* **Created by:**    [shadow578](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/shadow578.md)
+* **Created by:**    [u/shadow_578](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ushadow578.md)
 * **Contributor:**   shadow578
 
 ### Character Info

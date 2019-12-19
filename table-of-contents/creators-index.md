@@ -74,7 +74,7 @@
 * [RunsWithKniefs](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/RunsWithKniefs.md)
 
 ### S
-* [shadow578](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/shadow578.md)
+* [shadow_578](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/ushadow578.md)
 
 ### T
 * [Team Arkos](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/TeamArkos.md)

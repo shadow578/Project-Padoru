@@ -1,11 +1,9 @@
 # Padorus by u/Jespe-R
 
 ### A
-* [Aka no Saber](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AkanoSaber.md)
 * [Armin Arlert](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ArminArlert.md)
-
-### B
-* [Bedivere](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Bedivere.md)
+* [Arturia](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Arturia.md)
+* [Astolfo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Astolfo.md)
 
 ### E
 * [Eren Yeager](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ErenYeager.md)
@@ -23,7 +21,6 @@
 ### K
 * [Kaguya Shinomiya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KaguyaShinomiya.md)
 * [Kirei Kotomine](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KireiKotomine.md)
-* [Kuro no Rider](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KuronoRider.md)
 
 ### M
 * [Mafuyu Hoshikawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MafuyuHoshikawa.md)
@@ -35,6 +32,7 @@
 * [Miyuki Shirogane](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MiyukiShirogane.md)
 * [Monokuma](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Monokuma.md)
 * [Monomi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Monomi.md)
+* [Mordred](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Mordred.md)
 
 ### N
 * [Nero Claudius](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/NeroClaudius.md)
@@ -54,11 +52,11 @@
 * [Senpai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Senpai.md)
 
 ### T
-* [Tanya Degurechaff](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TanyaDegurechaff.md)
+* [Tanya von Degurechaff](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TanyavonDegurechaff.md)
 * [Tsukuyo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Tsukuyo.md)
 
 ### V
-* [Vignette Tsukinose April](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/VignetteTsukinoseApril.md)
+* [Vignette April](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/VignetteApril.md)
 
 ### Y
 * [Yukiko Amagi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YukikoAmagi.md)

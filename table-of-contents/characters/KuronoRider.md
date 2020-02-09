@@ -17,22 +17,3 @@
   * [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten II - Denshou Chitei Sekai Agartha - Agartha no Onna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderEpicofRemnantAshuTokuitenIIDenshouChiteiSekaiAgarthaAgarthanoOnna.md) - [__MAL__](https://myanimelist.net/manga/117239/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_II_-_Denshou_Chitei_Sekai_Agartha_-_Agartha_no_Onna)
 
 
-# Kuro no Rider
-
-<img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/U_Jespe-R/fate-astolfo-jesper.png" height="300">
-
-### Image Info
-* **Posted on:**     [reddit.com](https://www.reddit.com/r/Padoru/comments/ejhxv7/daily_padoru_3_best_girl_astolfo_repost_cuz_ive/)
-* **Created by:**    [u/Jespe-R](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/creators/uJespeR.md)
-* **Contributor:**   shadow578
-
-### Character Info
-* **Name:**   [Kuro no Rider](https://myanimelist.net/character/79995)
-* **Nicknames:**
-  * Astolfo
-* **Shows:**
-  * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/anime/34662/Fate_Apocrypha)
-  * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/manga/33005/Fate_Apocrypha)
-  * [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten II - Denshou Chitei Sekai Agartha - Agartha no Onna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderEpicofRemnantAshuTokuitenIIDenshouChiteiSekaiAgarthaAgarthanoOnna.md) - [__MAL__](https://myanimelist.net/manga/117239/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_II_-_Denshou_Chitei_Sekai_Agartha_-_Agartha_no_Onna)
-
-

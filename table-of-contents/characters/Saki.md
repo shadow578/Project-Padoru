@@ -8,6 +8,8 @@
 * **Contributor:**   shadow578
 
 ### Character Info
-* **Name:**   Saki
+* **Name:**   [Saki](https://myanimelist.net/character/135838)
+* **Shows:**
+  * [Hokuto no Ken](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HokutonoKen.md) - [__MAL__](https://myanimelist.net/anime/967/Hokuto_no_Ken)
 
 

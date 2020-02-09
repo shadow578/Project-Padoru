@@ -3,17 +3,11 @@
 ### A
 * [Ako Udagawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AkoUdagawa.md)
 * [Arisa Ichigaya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ArisaIchigaya.md)
-* [Aya Maruyama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AyaMaruyama.md)
 
 ### C
 * [Chisato Shirasagi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ChisatoShirasagi.md)
 
-### E
-* [Eve Wakamiya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/EveWakamiya.md)
-
 ### H
-* [Hagumi Kitazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HagumiKitazawa.md)
-* [Himari Uehara](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HimariUehara.md)
 * [Hina Hikawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HinaHikawa.md)
 
 ### K
@@ -41,7 +35,6 @@
 
 ### T
 * [Tae Hanazono](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TaeHanazono.md)
-* [Tomoe Udagawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TomoeUdagawa.md)
 * [Tsugumi Hazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TsugumiHazawa.md)
 
 ### Y

@@ -7,9 +7,6 @@
 ### C
 * [Chisato Shirasagi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ChisatoShirasagi.md)
 
-### E
-* [Eve Wakamiya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/EveWakamiya.md)
-
 ### K
 * [Kanon Matsubara](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KanonMatsubara.md)
 * [Kaoru Seta](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KaoruSeta.md)

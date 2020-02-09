@@ -8,13 +8,6 @@
 * **Contributor:**   shadow578
 
 ### Character Info
-* **Name:**   [Medb](https://myanimelist.net/character/157723)
-* **Nicknames:**
-  * Rider
-  * Queen Medb
-  * Eternal Lady
-* **Shows:**
-  * [Type-Moon Gakuen: Chibichuki!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TypeMoonGakuenChibichuki.md) - [__MAL__](https://myanimelist.net/manga/87581/Type-Moon_Gakuen__Chibichuki)
-  * [Fate/Grand Order Anthology Comic THE NEXT](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderAnthologyComicTHENEXT.md) - [__MAL__](https://myanimelist.net/manga/115666/Fate_Grand_Order_Anthology_Comic_THE_NEXT)
+* **Name:**   Medb
 
 

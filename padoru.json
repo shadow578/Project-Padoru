@@ -122,7 +122,7 @@
     },
     {
       "UID": "a8e9e6b6-541f-49eb-be38-cf8adca22baa",
-      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/love-life-noco-yazawa.png",
+      "ImageUrl": "https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/love-life-nico-yazawa.png",
       "ImagePath": "Padoru\\love-life-nico-yazawa.png",
       "Name": "Niko Yazawa",
       "IsFemale": true,
@@ -1765,5 +1765,5 @@
       "ImageSource": "https://www.reddit.com/r/Padoru/comments/exb3ut/daily_padoru_32_sakura_minamoto_zombieland_saga/"
     }
   ],
-  "LastChange": "2020-02-09T14:49:25.4085469+01:00"
+  "LastChange": "2020-02-09T15:23:38.5749877+01:00"
 }

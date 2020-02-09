@@ -17,6 +17,7 @@
   * [BanG Dream!: Asonjatta!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDreamAsonjatta.md) - [__MAL__](https://myanimelist.net/anime/34870/BanG_Dream__Asonjatta)
   * [Happy Happy Party!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HappyHappyParty.md) - [__MAL__](https://myanimelist.net/anime/36918/Happy_Happy_Party)
   * [BanG Dream! 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream2ndSeason.md) - [__MAL__](https://myanimelist.net/anime/37869/BanG_Dream_2nd_Season)
+  * [BanG Dream! 3rd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream3rdSeason.md) - [__MAL__](https://myanimelist.net/anime/37870/BanG_Dream_3rd_Season)
   * [BanG Dream! Garupa☆Pico](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDreamGarupaPico.md) - [__MAL__](https://myanimelist.net/anime/37873/BanG_Dream_Garupa☆Pico)
   * [BanG Dream!: Star Beat](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDreamStarBeat.md) - [__MAL__](https://myanimelist.net/manga/85856/BanG_Dream__Star_Beat)
   * [BanG Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream.md) - [__MAL__](https://myanimelist.net/manga/102005/BanG_Dream)

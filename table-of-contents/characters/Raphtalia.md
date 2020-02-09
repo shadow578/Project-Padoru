@@ -8,12 +8,6 @@
 * **Contributor:**   shadow578
 
 ### Character Info
-* **Name:**   [Raphtalia](https://myanimelist.net/character/112893)
-* **Nicknames:**
-  * Katana Hero
-* **Shows:**
-  * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md) - [__MAL__](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
-  * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md) - [__MAL__](https://myanimelist.net/manga/67615/Tate_no_Yuusha_no_Nariagari)
-  * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md) - [__MAL__](https://myanimelist.net/manga/67617/Tate_no_Yuusha_no_Nariagari)
+* **Name:**   Raphtalia
 
 

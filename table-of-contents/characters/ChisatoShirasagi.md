@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Chisato Shirasagi](https://myanimelist.net/character/157531)
-* **Nicknames:**
-  * Chi-chan
 * **Shows:**
   * [BanG Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream.md) - [__MAL__](https://myanimelist.net/anime/33573/BanG_Dream)
   * [Shuwarin☆Dorimin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShuwarinDorimin.md) - [__MAL__](https://myanimelist.net/anime/36919/Shuwarin☆Dorimin)

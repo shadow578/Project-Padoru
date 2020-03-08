@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Taiga Aisaka](https://myanimelist.net/character/12064)
-* **Nicknames:**
-  * Palmtop Tiger
 * **Shows:**
   * [Toradora!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Toradora.md) - [__MAL__](https://myanimelist.net/anime/4224/Toradora)
   * [Toradora!: SOS! Kuishinbou Banbanzai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ToradoraSOSKuishinbouBanbanzai.md) - [__MAL__](https://myanimelist.net/anime/6127/Toradora__SOS_Kuishinbou_Banbanzai)

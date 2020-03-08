@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [YoRHa 2-gou B-gata](https://myanimelist.net/character/153798)
-* **Nicknames:**
-  * 2B
 * **Shows:**
   * [NieR:Automata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NieRAutomata.md) - [__MAL__](https://myanimelist.net/manga/108495/NieR_Automata)
 

@@ -9,9 +9,6 @@
 
 ### Character Info
 * **Name:**   [Tomoko Kuroki](https://myanimelist.net/character/50057)
-* **Nicknames:**
-  * Mokocchi
-  * Momoko-chan
 * **Shows:**
   * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWarui.md) - [__MAL__](https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
   * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiMotenaishiNazomeiteMiru.md) - [__MAL__](https://myanimelist.net/anime/20449/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui__Motenaishi_Nazomeite_Miru)

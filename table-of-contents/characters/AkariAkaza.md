@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Akari Akaza](https://myanimelist.net/character/35872)
-* **Nicknames:**
-  * Akarin
 * **Shows:**
   * [Yuru Yuri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuruYuri.md) - [__MAL__](https://myanimelist.net/anime/10495/Yuru_Yuri)
   * [Yuru Yuri♪♪](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuruYuri.md) - [__MAL__](https://myanimelist.net/anime/12403/Yuru_Yuri♪♪)

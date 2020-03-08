@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Yuri Nakamura](https://myanimelist.net/character/22370)
-* **Nicknames:**
-  * Yurippe
 * **Shows:**
   * [Angel Beats!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AngelBeats.md) - [__MAL__](https://myanimelist.net/anime/6547/Angel_Beats)
   * [Angel Beats! Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AngelBeatsSpecials.md) - [__MAL__](https://myanimelist.net/anime/9062/Angel_Beats_Specials)

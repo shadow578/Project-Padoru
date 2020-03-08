@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Rinko Shirokane](https://myanimelist.net/character/149517)
-* **Nicknames:**
-  * Rin-rin
 * **Shows:**
   * [BanG Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream.md) - [__MAL__](https://myanimelist.net/anime/33573/BanG_Dream)
   * [BanG Dream!: Asonjatta!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDreamAsonjatta.md) - [__MAL__](https://myanimelist.net/anime/34870/BanG_Dream__Asonjatta)

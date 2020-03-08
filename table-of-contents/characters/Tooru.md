@@ -16,5 +16,6 @@
   * [Kobayashi-san Chi no Maid Dragon 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragon2ndSeason.md) - [__MAL__](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_2nd_Season)
   * [Kobayashi-san Chi no Maid Dragon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragon.md) - [__MAL__](https://myanimelist.net/manga/80119/Kobayashi-san_Chi_no_Maid_Dragon)
   * [Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragonKannanoNichijou.md) - [__MAL__](https://myanimelist.net/manga/102811/Kobayashi-san_Chi_no_Maid_Dragon__Kanna_no_Nichijou)
+  * [Kobayashi-san Chi no Maid Dragon: Elma no OL Nikki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragonElmanoOLNikki.md) - [__MAL__](https://myanimelist.net/manga/109153/Kobayashi-san_Chi_no_Maid_Dragon__Elma_no_OL_Nikki)
 
 

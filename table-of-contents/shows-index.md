@@ -1,6 +1,10 @@
 # Creators
 
+### 5
+* [5-toubun no Hanayome](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/5toubunnoHanayome.md)
+
 ### A
+* [All Around Type-Moon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AllAroundTypeMoon.md)
 * [Angel Beats!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AngelBeats.md)
 * [Angel Beats! Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AngelBeatsSpecials.md)
 * [Angel Beats! The 4-koma: Bokura no Sensen Koushinkyoku♪](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AngelBeatsThe4komaBokuranoSensenKoushinkyoku.md)
@@ -26,12 +30,17 @@
 * [Boku no Hero Academia 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademia2ndSeason.md)
 * [Boku no Hero Academia 3rd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademia3rdSeason.md)
 * [Boku no Hero Academia 4th Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademia4thSeason.md)
+* [Boku no Hero Academia Smash!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademiaSmash.md)
 * [Boku no Hero Academia the Movie 1: Futari no Hero](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokunoHeroAcademiatheMovie1FutarinoHero.md)
 * [Bokura no Live Kimi to no Life](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokuranoLiveKimitonoLife.md)
 * [Bokutachi wa Benkyou ga Dekinai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokutachiwaBenkyougaDekinai.md)
 * [BooBoo KagaBoo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BooBooKagaBoo.md)
 
 ### C
+* [Carnival Phantasm](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/CarnivalPhantasm.md)
+* [Carnival Phantasm EX Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/CarnivalPhantasmEXSeason.md)
+* [Carnival Phantasm: HibiChika Special](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/CarnivalPhantasmHibiChikaSpecial.md)
+* [Carnival Phantasm: Illya-jou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/CarnivalPhantasmIllyajou.md)
 * [Clannad](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Clannad.md)
 * [Clannad 4-koma Manga Gekijyou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Clannad4komaMangaGekijyou.md)
 * [Clannad Movie](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ClannadMovie.md)
@@ -39,16 +48,30 @@
 * [Clannad: Hikaru Mimamoru Sakamichi de](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ClannadHikaruMimamoruSakamichide.md)
 
 ### D
+* [Danganronpa 3: Monokuma Gekijou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Danganronpa3MonokumaGekijou.md)
+* [Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Danganronpa3TheEndofKibougamineGakuenKibouhen.md)
+* [Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Danganronpa3TheEndofKibougamineGakuenMiraihen.md)
+* [Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Danganronpa3TheEndofKibougamineGakuenZetsubouhen.md)
+* [Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DanganronpaKibounoGakuentoZetsubounoKoukousei.md)
+* [Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DanganronpaKibounoGakuentoZetsubounoKoukouseiTheAnimation.md)
 * [Darling in the FranXX](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DarlingintheFranXX.md)
 
 ### E
 * [Egao no Orquesta!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EgaonoOrquesta.md)
+* [Emiya-san Chi no Kyou no Gohan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EmiyasanChinoKyounoGohan.md)
 * [Enen no Shouboutai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EnennoShouboutai.md)
+* [Eromanga-sensei](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Eromangasensei.md)
+* [Eromanga-sensei OVA](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EromangasenseiOVA.md)
 
 ### F
 * [Fatal Fury 2: The New Battle](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatalFury2TheNewBattle.md)
 * [Fatal Fury: The Motion Picture](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatalFuryTheMotionPicture.md)
 * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md)
+* [Fate/Extra](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateExtra.md)
+* [Fate/Extra CCC](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateExtraCCC.md)
+* [Fate/Extra: Last Encore](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateExtraLastEncore.md)
+* [Fate/Extra: Last Encore - Illustrias Tendousetsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateExtraLastEncoreIllustriasTendousetsu.md)
+* [Fate/Grand Order Anthology Comic THE NEXT](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderAnthologyComicTHENEXT.md)
 * [Fate/Grand Order Anthology Comic: Star](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderAnthologyComicStar.md)
 * [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten EX - Shinkai Dennou Rakudo SE.RA.PH](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderEpicofRemnantAshuTokuitenEXShinkaiDennouRakudoSERAPH.md)
 * [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten I - Akusei Kakuzetsu Makyou Shinjuku - Shinjuku Genrei Jiken](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderEpicofRemnantAshuTokuitenIAkuseiKakuzetsuMakyouShinjukuShinjukuGenreiJiken.md)
@@ -64,6 +87,28 @@
 * [Fate/Grand Order: Turas Réalta](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderTurasRéalta.md)
 * [Fate/Grand Order: Zettai Majuu Sensen Babylonia](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderZettaiMajuuSensenBabylonia.md)
 * [Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderZettaiMajuuSensenBabyloniaInitiumIter.md)
+* [Fate/hollow ataraxia](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Fatehollowataraxia.md)
+* [Fate/kaleid liner Prisma☆Illya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatekaleidlinerPrismaIllya.md)
+* [Fate/kaleid liner Prisma☆Illya 2wei Herz!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatekaleidlinerPrismaIllya2weiHerz.md)
+* [Fate/kaleid liner Prisma☆Illya 2wei!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatekaleidlinerPrismaIllya2wei.md)
+* [Fate/kaleid liner Prisma☆Illya 3rei!!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatekaleidlinerPrismaIllya3rei.md)
+* [Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatekaleidlinerPrismaIllyaMovieSekkanoChikai.md)
+* [Fate/stay night](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Fatestaynight.md)
+* [Fate/stay night Movie: Heaven's Feel - I. Presage Flower](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightMovieHeavensFeelIPresageFlower.md)
+* [Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightMovieHeavensFeelIILostButterfly.md)
+* [Fate/stay night Movie: Heaven's Feel - III. Spring Song](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightMovieHeavensFeelIIISpringSong.md)
+* [Fate/stay night Movie: Unlimited Blade Works](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightMovieUnlimitedBladeWorks.md)
+* [Fate/stay night TV Reproduction](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightTVReproduction.md)
+* [Fate/stay night: Garden of Avalon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightGardenofAvalon.md)
+* [Fate/stay night: Heaven's Feel](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightHeavensFeel.md)
+* [Fate/stay night: Unlimited Blade Works](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightUnlimitedBladeWorks.md)
+* [Fate/stay night: Unlimited Blade Works 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightUnlimitedBladeWorks2ndSeason.md)
+* [Fate/stay night: Unlimited Blade Works Prologue](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestaynightUnlimitedBladeWorksPrologue.md)
+* [Fate/strange Fake](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FatestrangeFake.md)
+* [Fate/Zero](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateZero.md)
+* [Fate/Zero 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateZero2ndSeason.md)
+* [Fate/Zero Cafe](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateZeroCafe.md)
+* [Fate/Zero Remix](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateZeroRemix.md)
 * [Fire Emblem Heroes: Eiyuu-tachi no Nichijou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemHeroesEiyuutachinoNichijou.md)
 * [Fire Emblem If Anya Oukoku Comic Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemIfAnyaOukokuComicAnthology.md)
 * [Fire Emblem if Byakuya Okoku Comic Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireEmblemifByakuyaOkokuComicAnthology.md)
@@ -75,6 +120,16 @@
 ### G
 * [Gabriel DropOut](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GabrielDropOut.md)
 * [Gabriel DropOut Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GabrielDropOutSpecials.md)
+* [Gekijouban Gintama: Kanketsu-hen - Yorozuya yo Eien Nare](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GekijoubanGintamaKanketsuhenYorozuyayoEienNare.md)
+* [Gintama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Gintama.md)
+* [Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GintamaMovie2KanketsuhenYorozuyayoEienNare.md)
+* [Gintama.: Porori-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GintamaPororihen.md)
+* [Gintama.: Shirogane no Tamashii-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GintamaShiroganenoTamashiihen.md)
+* [Gintama.: Shirogane no Tamashii-hen - Kouhan-sen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GintamaShiroganenoTamashiihenKouhansen.md)
+* [Gintama': Enchousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GintamaEnchousen.md)
+* [Gintama°: Aizome Kaori-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GintamaAizomeKaorihen.md)
+* [Guilty Crown](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GuiltyCrown.md)
+* [Guilty Crown: Kiseki - Reassortment](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GuiltyCrownKisekiReassortment.md)
 
 ### H
 * [Happy Happy Party!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HappyHappyParty.md)
@@ -84,6 +139,11 @@
 * [Hataraku Saibou (TV)](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HatarakuSaibouTV.md)
 * [Hataraku Saibou: Kaze Shoukougun](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HatarakuSaibouKazeShoukougun.md)
 * [He Wei Dao x Re:Cong Ling Kaishi de Yi Shijie Shenghuo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HeWeiDaoxReCongLingKaishideYiShijieShenghuo.md)
+* [Heart of Freaks](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HeartofFreaks.md)
+* [Hellsing](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Hellsing.md)
+* [Hellsing Ultimate](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HellsingUltimate.md)
+* [Hellsing: Digest for Freaks](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HellsingDigestforFreaks.md)
+* [Hellsing: Psalm of the Darkness](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HellsingPsalmoftheDarkness.md)
 * [Hitoribocchi no ○○ Seikatsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HitoribocchinoSeikatsu.md)
 * [Hitoribocchi no Marumaru Seikatsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HitoribocchinoMarumaruSeikatsu.md)
 * [Hokuto no Ken](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HokutonoKen.md)
@@ -96,9 +156,13 @@
 * [JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/JoJonoKimyounaBoukenPart4DiamondwaKudakenai.md)
 
 ### K
+* [Kaguya-sama wa Kokurasetai: Doujin-ban](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiDoujinban.md)
 * [Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiShuuchiinGakuenNanafushigi.md)
 * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md)
 * [Kaguya-sama wo Kataritai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawoKataritai.md)
+* [Kakegurui](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Kakegurui.md)
+* [Kakegurui (Kari)](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KakeguruiKari.md)
+* [Kakegurui Picture Drama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KakeguruiPictureDrama.md)
 * [Kill la Kill](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KilllaKill.md)
 * [Kill la Kill Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KilllaKillSpecials.md)
 * [Kimetsu no Yaiba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KimetsunoYaiba.md)
@@ -108,6 +172,7 @@
 * [Kishibe Rohan wa Ugokanai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KishibeRohanwaUgokanai.md)
 * [Kobayashi-san Chi no Maid Dragon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragon.md)
 * [Kobayashi-san Chi no Maid Dragon 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragon2ndSeason.md)
+* [Kobayashi-san Chi no Maid Dragon: Elma no OL Nikki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragonElmanoOLNikki.md)
 * [Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragonKannanoNichijou.md)
 * [Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoMaidDragonValentineSoshiteOnsenAmariKitaiShinaideKudasai.md)
 * [Kobayashi-san Chi no OO Dragon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KobayashisanChinoOODragon.md)
@@ -116,6 +181,7 @@
 * [Komi-san wa Comyushou desu.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KomisanwaComyushoudesu.md)
 * [K-On!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOn.md)
 * [K-On! Anthology Comic](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnAnthologyComic.md)
+* [K-On! College](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnCollege.md)
 * [K-On! Highschool](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnHighschool.md)
 * [K-On! Movie](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnMovie.md)
 * [K-On!!: Keikaku!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnKeikaku.md)
@@ -140,6 +206,7 @@
 * [Kyoukai no Kanata: Shinonome](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyoukainoKanataShinonome.md)
 
 ### L
+* [Lord El-Melloi II-sei no Jikenbo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LordElMelloiIIseinoJikenbo.md)
 * [Love Live!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LoveLive.md)
 * [Love Live! School Idol Diary](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LoveLiveSchoolIdolDiary.md)
 * [Love Live! School Idol Festival All Stars](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LoveLiveSchoolIdolFestivalAllStars.md)
@@ -159,10 +226,13 @@
 
 ### M
 * [Machikado Mazoku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MachikadoMazoku.md)
+* [Mahou Shoujo Site](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MahouShoujoSite.md)
 * [Makai Senki Disgaea 2](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MakaiSenkiDisgaea2.md)
 * [Mini Yuri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MiniYuri.md)
 * [Miyakawa-ke no Kuufuku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MiyakawakenoKuufuku.md)
 * [Mogyutto "Love" de Sekkinchuu!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MogyuttoLovedeSekkinchuu.md)
+* [Monsuto Anime](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MonsutoAnime.md)
+* [Monsuto Anime: Kieyuku Uchuu-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MonsutoAnimeKieyukuUchuuhen.md)
 * [Music S.T.A.R.T!!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MusicSTART.md)
 
 ### N
@@ -173,10 +243,27 @@
 * [Nekopara OVA](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NekoparaOVA.md)
 * [Nekopara: Koneko no Hi no Yakusoku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NekoparaKonekonoHinoYakusoku.md)
 * [Neo-Aspect](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NeoAspect.md)
+* [New Danganronpa V3: Minna no Koroshiai Shingakki Comic Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NewDanganronpaV3MinnanoKoroshiaiShingakkiComicAnthology.md)
 * [NieR:Automata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NieRAutomata.md)
+
+### O
+* [One Punch Man](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/OnePunchMan.md)
+* [One Punch Man 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/OnePunchMan2ndSeason.md)
+* [One Punch Man Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/OnePunchManSpecials.md)
+* [One Punch Man: Road to Hero](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/OnePunchManRoadtoHero.md)
 
 ### P
 * [Pastel Life](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/PastelLife.md)
+* [Persona 4](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Persona4.md)
+* [Persona 4 the Animation](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Persona4theAnimation.md)
+* [Persona 4 the Animation: No One is Alone](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Persona4theAnimationNoOneisAlone.md)
+* [Persona 4 the Golden Animation](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Persona4theGoldenAnimation.md)
+* [Persona 4 the Golden Animation: Thank you Mr. Accomplice](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Persona4theGoldenAnimationThankyouMrAccomplice.md)
+* [Persona 4 The Magician](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Persona4TheMagician.md)
+* [Persona Q: Shadow of the Labyrinth - Side:P3](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/PersonaQShadowoftheLabyrinthSideP3.md)
+* [Persona Q: Shadow of the Labyrinth - Side:P4](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/PersonaQShadowoftheLabyrinthSideP4.md)
+* [Promare](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Promare.md)
+* [Promare: Galo-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/PromareGalohen.md)
 
 ### R
 * [Re:Petit kara Hajimeru Isekai Seikatsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/RePetitkaraHajimeruIsekaiSeikatsu.md)
@@ -197,7 +284,11 @@
 * [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SeishunButaYarouwaBunnyGirlSenpainoYumewoMinai.md)
 * [Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SeishunButaYarouwaBunnyGirlsenpainoYumewoMinai.md)
 * [Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SeishunButaYarouwaYumemiruShoujonoYumewoMinai.md)
+* [Sensha Otoko: A True Tank Story](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SenshaOtokoATrueTankStory.md)
 * [Sewayaki Kitsune no Senko-san](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SewayakiKitsunenoSenkosan.md)
+* [Shigatsu wa Kimi no Uso](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShigatsuwaKiminoUso.md)
+* [Shigatsu wa Kimi no Uso: Coda](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShigatsuwaKiminoUsoCoda.md)
+* [Shigatsu wa Kimi no Uso: Moments](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShigatsuwaKiminoUsoMoments.md)
 * [Shingeki no Kyojin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojin.md)
 * [Shingeki no Kyojin Movie 1: Guren no Yumiya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinMovie1GurennoYumiya.md)
 * [Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinMovie2JiyuunoTsubasa.md)
@@ -208,6 +299,8 @@
 * [Shingeki no Kyojin Season 3](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinSeason3.md)
 * [Shingeki no Kyojin Season 3 Part 2](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinSeason3Part2.md)
 * [Shingeki no Kyojin: Ano Hi Kara](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinAnoHiKara.md)
+* [Shingeki no Kyojin: Kuinaki Sentaku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinKuinakiSentaku.md)
+* [Shingeki no Kyojin: Kuinaki Sentaku - Prologue](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinKuinakiSentakuPrologue.md)
 * [Shingeki no Kyojin: Lost Girls](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyojinLostGirls.md)
 * [Shingeki no Kyotou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekinoKyotou.md)
 * [Shingeki! Kyojin Chuugakkou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShingekiKyojinChuugakkou.md)
@@ -215,13 +308,22 @@
 * [Snow Halation](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SnowHalation.md)
 * [Star Beat!: Hoshi no Kodou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/StarBeatHoshinoKodou.md)
 * [Sungeki no Kyojin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SungekinoKyojin.md)
+* [Super Danganronpa 2: Chou Koukou-kyuu no Kouun to Kibou to Zetsubou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SuperDanganronpa2ChouKoukoukyuunoKouuntoKiboutoZetsubou.md)
+* [Super Danganronpa 2: Dangan Island Kokoro Tokonatsu, Kokoronpa♪](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SuperDanganronpa2DanganIslandKokoroTokonatsuKokoronpa.md)
+* [Super Danganronpa 2: Nanami Chiaki no Sayonara Zetsubou Daibouken](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SuperDanganronpa2NanamiChiakinoSayonaraZetsubouDaibouken.md)
+* [Super Danganronpa 2: Sayonara Zetsubou Gakuen - 4-koma KINGS](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SuperDanganronpa2SayonaraZetsubouGakuen4komaKINGS.md)
 
 ### T
 * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md)
+* [Tejina-senpai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Tejinasenpai.md)
 * [That Is How I Roll!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ThatIsHowIRoll.md)
 * [The Book: JoJo's Bizarre Adventure 4th Another Day](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheBookJoJosBizarreAdventure4thAnotherDay.md)
 * [The King of Fighters: A New Beginning](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheKingofFightersANewBeginning.md)
 * [The King of Fighters: Destiny](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheKingofFightersDestiny.md)
+* [Tokyo Ghoul](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoul.md)
+* [Tokyo Ghoul √A](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoulA.md)
+* [Tokyo Ghoul:re](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoulre.md)
+* [Tokyo Ghoul:re 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoulre2ndSeason.md)
 * [Toradora Spin-off!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ToradoraSpinoff.md)
 * [Toradora!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Toradora.md)
 * [Toradora!: Bentou no Gokui](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ToradoraBentounoGokui.md)
@@ -229,6 +331,7 @@
 * [Tsurezure Children](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TsurezureChildren.md)
 * [Tsuujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TsuujouKougekigaZentaiKougekide2kaiKougekinoOkaasanwaSukidesuka.md)
 * [Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TsuujouKougekigaZentaiKougekideNikaiKougekinoOkaasanwaSukiDesuka.md)
+* [Type-Moon Gakuen: Chibichuki!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TypeMoonGakuenChibichuki.md)
 
 ### U
 * [Utawarerumono: Itsuwari no Kamen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/UtawarerumonoItsuwarinoKamen.md)
@@ -240,11 +343,24 @@
 * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiMotenaishiNazomeiteMiru.md)
 * [Watashi no Tomodachi ga Motenai no wa Dou Kangaetemo Omaera ga Warui.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashinoTomodachigaMotenainowaDouKangaetemoOmaeragaWarui.md)
 * [Wonderful Rush](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WonderfulRush.md)
+* [Wooser no Sono Higurashi: Kakusei-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WoosernoSonoHigurashiKakuseihen.md)
 
 ### Y
 * [Yes! BanG_Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YesBanGDream.md)
+* [Youjo Senki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YoujoSenki.md)
+* [Youjo Senki Movie](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YoujoSenkiMovie.md)
+* [Youjo Senki Shokudou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YoujoSenkiShokudou.md)
+* [Youjo Senki: Senkyou Houkoku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YoujoSenkiSenkyouHoukoku.md)
+* [Youjo Shenki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YoujoShenki.md)
+* [Youjo Shenki Episode 0](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YoujoShenkiEpisode0.md)
 * [Yuru Yuri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuruYuri.md)
 * [Yuru Yuri Nachuyachumi!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuruYuriNachuyachumi.md)
 * [Yuru Yuri San☆Hai!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuruYuriSanHai.md)
+* [Yuu☆Yuu☆Hakusho](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuuYuuHakusho.md)
+* [Yuu☆Yuu☆Hakusho: Eizou Hakusho - Ankoku Bujutsukai no Shou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuuYuuHakushoEizouHakushoAnkokuBujutsukainoShou.md)
+* [Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuuYuuHakushoMeikaiShitouhenHonoonoKizuna.md)
+
+### Z
+* [Zombieland Saga](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ZombielandSaga.md)
 
 ###### This page was automatically generated. If it contains errors, please open a Issue.

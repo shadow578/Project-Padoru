@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Kokoro Tsurumaki](https://myanimelist.net/character/157519)
-* **Nicknames:**
-  * Kokoron
 * **Shows:**
   * [BanG Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream.md) - [__MAL__](https://myanimelist.net/anime/33573/BanG_Dream)
   * [Egao no Orquesta!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EgaonoOrquesta.md) - [__MAL__](https://myanimelist.net/anime/36922/Egao_no_Orquesta)

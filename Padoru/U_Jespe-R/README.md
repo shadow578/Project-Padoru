@@ -5,6 +5,39 @@ Huge thanks to Jespe-R for creating these Padorus!
 
 ## Currently in the Collection
 
+### Added 08.03.2020
+- [Daily padoru 40 - Seras Victoria (Hellsing)](https://www.reddit.com/r/Padoru/comments/f1dj4w/daily_padoru_40_seras_victoria_hellsing/)
+- [Daily padoru 41 - Touka Kirishima (Tokyo Ghoul)](https://www.reddit.com/r/Padoru/comments/f1w1xe/daily_padoru_41_touka_kirishima_tokyo_ghoul/)
+- [Daily padoru 42 - Rize (Tokyo Ghoul)](https://www.reddit.com/r/Padoru/comments/f27s83/daily_padoru_42_rize_tokyo_ghoul/)
+- [Daily padoru 43 - Uta (Tokyo Ghoul)](https://www.reddit.com/r/Padoru/comments/f2ypbu/daily_padoru_43_uta_tokyo_ghoul/)
+- [Daily padoru 44 - Luka (Vocaloid)](https://www.reddit.com/r/Padoru/comments/f3huxd/daily_padoru_44_luka_vocaloid/)
+- [Daily padoru 45 - Chika Fujiwara (Kaguya-sama: Love Is War)](https://www.reddit.com/r/Padoru/comments/f3xf6x/daily_padoru_45_chika_fujiwara_kaguyasama_love_is/)
+- [Daily padoru 46 - Kaori Miyazono (Your Lie in April)](https://www.reddit.com/r/Padoru/comments/f4enjt/daily_padoru_46_kaori_miyazono_your_lie_in_april/)
+- [Daily padoru 47 - TK (Angel Beats!)](https://www.reddit.com/r/Padoru/comments/f4xr2l/daily_padoru_47_tk_angel_beats/)
+- [Daily padoru 48 - Yumeko Jabami (Kakegurui)](https://www.reddit.com/r/Padoru/comments/f5g35p/daily_padoru_48_yumeko_jabami_kakegurui/)
+- [Daily padoru 49 - Miko Iino (Kaguya-sama: Love Is War)](https://www.reddit.com/r/Padoru/comments/f5xvel/daily_padoru_49_miko_iino_kaguyasama_love_is_war/)
+- [Daily padoru 51 - Visha (Youjo Senki)](https://www.reddit.com/r/Padoru/comments/f6ygln/daily_padoru_51_visha_youjo_senki/)
+- [Daily padoru 52 - Yui Hirasawa (K-ON!)](https://www.reddit.com/r/Padoru/comments/f7epqz/daily_padoru_52_yui_hirasawa_kon/)
+- [Daily padoru 53 - Jeanne d'Arc Alter (Fate)](https://www.reddit.com/r/Padoru/comments/f7va6l/daily_padoru_53_jeanne_darc_alter_fate/)
+- [Daily padoru 54 - Mio Akiyama (K-ON!)](https://www.reddit.com/r/Padoru/comments/f8dozd/daily_padoru_54_mio_akiyama_kon/)
+- [Daily padoru 55 - Ritsu Tainaka (K-ON!)](https://www.reddit.com/r/Padoru/comments/f8yuqd/daily_padoru_55_ritsu_tainaka_kon/)
+- [Daily padoru 56 - Enkidu (Fate)](https://www.reddit.com/r/Padoru/comments/f9gby7/daily_padoru_56_enkidu_fate/)
+- [Daily padoru 57 - Assistant (Tejina-senpai)](https://www.reddit.com/r/Padoru/comments/fa0ri6/daily_padoru_57_assistant_tejinasenpai/)
+- [Daily padoru 58 - Gudako (Fate)](https://www.reddit.com/r/Padoru/comments/fajm4s/daily_padoru_58_gudako_fate/)
+- [Daily padoru 59 - Kashou Minaduki (Nekopara)](https://www.reddit.com/r/Padoru/comments/fb2v7i/daily_padoru_59_kashou_minaduki_nekopara/)
+- [Daily padoru 60 - Gilgamesh (Fate)](https://www.reddit.com/r/Padoru/comments/fbfo2t/daily_padoru_60_gilgamesh_fate/)
+- [Daily padoru 61 - Erwin Smith (Attack on Titan)](https://www.reddit.com/r/Padoru/comments/fc17lu/daily_padoru_61_erwin_smith_attack_on_titan/)
+- [Daily padoru 62- Tsumugi Kotobuki (K-ON!)](https://www.reddit.com/r/Padoru/comments/fck7wq/daily_padoru_62_tsumugi_kotobuki_kon/)
+- [Daily padoru 63 - Kosame Amagai (Mahou Shoujo Site)](https://www.reddit.com/r/Padoru/comments/fcz8dk/daily_padoru_63_kosame_amagai_mahou_shoujo_site/)
+- [Daily padoru 64 - Emiya (Fate)](https://www.reddit.com/r/Padoru/comments/fdj13o/daily_padoru_64_emiya_fate/)
+- [Daily padoru 65 - Gai Tsutsugami (Guilty Crown)](https://www.reddit.com/r/Padoru/comments/fe22xc/daily_padoru_65_gai_tsutsugami_guilty_crown/)
+- [Daily padoru 66 - Galo (Promare)](https://www.reddit.com/r/Padoru/comments/felkwd/daily_padoru_66_galo_promare/)
+- [Daily padoru 67 - Kazuma (KonoSuba)](https://www.reddit.com/r/Padoru/comments/fezkmk/daily_padoru_67_kazuma_konosuba/)
+
+#### Not Included:
+- [Daily padoru 50 - Ryota Suzui (Kakegurui)](https://www.reddit.com/r/Padoru/comments/f6ga69/daily_padoru_50_ryota_suzui_kakegurui/), because I could not find this character on MAL
+
+
 ### Added 09.02.2020
 - [Daily padoru 1 (the true padoru herself)](https://www.reddit.com/r/Padoru/comments/eik27d/daily_padoru_1_the_true_padoru_herself/)
 - [Daily padoru 2 - Robin Hood](https://www.reddit.com/r/Padoru/comments/eiwor9/daily_padoru_2_robin_hood/)
@@ -44,6 +77,6 @@ Huge thanks to Jespe-R for creating these Padorus!
 - [Daily padoru 38 - Eren Yeager (Attack on Titan)](https://www.reddit.com/r/Padoru/comments/f0b0di/daily_padoru_38_eren_yeager_attack_on_titan/)
 - [A goofy one, but I wanted to do it Daily padoru 39 - Saitama (One-Punch Man)](https://www.reddit.com/r/Padoru/comments/f0rj1a/a_goofy_one_but_i_wanted_to_do_it_daily_padoru_39/)
 
-#### Not included (yet):
+#### Not Included:
 - [Daily padoru 4 - Happy](https://www.reddit.com/r/Padoru/comments/ejwo62/daily_padoru_4_happy/), because I could not find out what show this one's from... 
 - [Daily padoru 13 - Kagamine Rin](https://www.reddit.com/r/Padoru/comments/eo6xgn/daily_padoru_13_kagamine_rin/), because I could not find out what show this one's from...

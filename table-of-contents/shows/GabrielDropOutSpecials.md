@@ -3,6 +3,9 @@
 ### G
 * [Gabriel Tenma White](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/GabrielTenmaWhite.md)
 
+### R
+* [Raphiel Shiraha Ainsworth](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RaphielShirahaAinsworth.md)
+
 ### S
 * [Satanichia Kurumizawa McDowell](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SatanichiaKurumizawaMcDowell.md)
 

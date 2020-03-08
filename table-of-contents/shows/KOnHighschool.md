@@ -6,4 +6,7 @@
 ### J
 * [Jun Suzuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/JunSuzuki.md)
 
+### T
+* [Tsumugi Kotobuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TsumugiKotobuki.md)
+
 ###### This page was automatically generated. If it contains errors, please open a Issue.

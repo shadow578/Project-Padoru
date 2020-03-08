@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Rimi Ushigome](https://myanimelist.net/character/142759)
-* **Nicknames:**
-  * Rimi-rin
 * **Shows:**
   * [Yes! BanG_Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YesBanGDream.md) - [__MAL__](https://myanimelist.net/anime/32338/Yes_BanG_Dream)
   * [BanG Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream.md) - [__MAL__](https://myanimelist.net/anime/33573/BanG_Dream)

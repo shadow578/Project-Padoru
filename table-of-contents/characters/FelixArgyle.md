@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Felix Argyle](https://myanimelist.net/character/118777)
-* **Nicknames:**
-  * Ferris
 * **Shows:**
   * [Re:Zero kara Hajimeru Isekai Seikatsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ReZerokaraHajimeruIsekaiSeikatsu.md) - [__MAL__](https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu)
   * [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ReZerokaraHajimeruIsekaiSeikatsu2ndSeason.md) - [__MAL__](https://myanimelist.net/anime/39587/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season)

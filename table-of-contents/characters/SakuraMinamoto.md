@@ -8,6 +8,8 @@
 * **Contributor:**   shadow578
 
 ### Character Info
-* **Name:**   Sakura Minamoto
+* **Name:**   [Sakura Minamoto](https://myanimelist.net/character/164576)
+* **Shows:**
+  * [Zombieland Saga](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ZombielandSaga.md) - [__MAL__](https://myanimelist.net/anime/37976/Zombieland_Saga)
 
 

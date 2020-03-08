@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Mashiro Shiina](https://myanimelist.net/character/61371)
-* **Nicknames:**
-  * Mashiron
 * **Shows:**
   * [Sakura-sou no Pet na Kanojo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SakurasounoPetnaKanojo.md) - [__MAL__](https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo)
   * [Sakurasou no Pet na Kanojo](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SakurasounoPetnaKanojo.md) - [__MAL__](https://myanimelist.net/manga/28107/Sakurasou_no_Pet_na_Kanojo)

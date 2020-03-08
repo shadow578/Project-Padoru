@@ -9,9 +9,6 @@
 
 ### Character Info
 * **Name:**   [Niko Yazawa](https://myanimelist.net/character/46163)
-* **Nicknames:**
-  * Super Idol Nico
-  * Nicocchi
 * **Shows:**
   * [Bokura no Live Kimi to no Life](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokuranoLiveKimitonoLife.md) - [__MAL__](https://myanimelist.net/anime/9907/Bokura_no_Live_Kimi_to_no_Life)
   * [Snow Halation](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SnowHalation.md) - [__MAL__](https://myanimelist.net/anime/9930/Snow_Halation)

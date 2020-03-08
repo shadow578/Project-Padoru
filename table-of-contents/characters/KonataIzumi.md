@@ -9,10 +9,6 @@
 
 ### Character Info
 * **Name:**   [Konata Izumi](https://myanimelist.net/character/2169)
-* **Nicknames:**
-  * Kona-chan
-  * KonaKona
-  * Densetsu no Shoujo A
 * **Shows:**
   * [Lucky☆Star](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LuckyStar.md) - [__MAL__](https://myanimelist.net/anime/1887/Lucky☆Star)
   * [Lucky☆Star: Original na Visual to Animation](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LuckyStarOriginalnaVisualtoAnimation.md) - [__MAL__](https://myanimelist.net/anime/4472/Lucky☆Star__Original_na_Visual_to_Animation)

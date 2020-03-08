@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Lalatina Dustiness Ford](https://myanimelist.net/character/117285)
-* **Nicknames:**
-  * Darkness
 * **Shows:**
   * [Kono Subarashii Sekai ni Shukufuku wo!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KonoSubarashiiSekainiShukufukuwo.md) - [__MAL__](https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo)
   * [Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KonoSubarashiiSekainiShukufukuwoKonoSubarashiiChokerniShukufukuwo.md) - [__MAL__](https://myanimelist.net/anime/32380/Kono_Subarashii_Sekai_ni_Shukufuku_wo__Kono_Subarashii_Choker_ni_Shukufuku_wo)

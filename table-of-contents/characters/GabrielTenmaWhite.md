@@ -9,8 +9,6 @@
 
 ### Character Info
 * **Name:**   [Gabriel Tenma White](https://myanimelist.net/character/143074)
-* **Nicknames:**
-  * Gab
 * **Shows:**
   * [Gabriel DropOut](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GabrielDropOut.md) - [__MAL__](https://myanimelist.net/anime/33731/Gabriel_DropOut)
   * [Gabriel DropOut Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GabrielDropOutSpecials.md) - [__MAL__](https://myanimelist.net/anime/34855/Gabriel_DropOut_Specials)
@@ -28,8 +26,6 @@
 
 ### Character Info
 * **Name:**   [Gabriel Tenma White](https://myanimelist.net/character/143074)
-* **Nicknames:**
-  * Gab
 * **Shows:**
   * [Gabriel DropOut](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GabrielDropOut.md) - [__MAL__](https://myanimelist.net/anime/33731/Gabriel_DropOut)
   * [Gabriel DropOut Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/GabrielDropOutSpecials.md) - [__MAL__](https://myanimelist.net/anime/34855/Gabriel_DropOut_Specials)

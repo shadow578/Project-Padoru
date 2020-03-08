@@ -9,9 +9,6 @@
 
 ### Character Info
 * **Name:**   [Misaki Okusawa](https://myanimelist.net/character/157523)
-* **Nicknames:**
-  * Michelle
-  * Mii-kun
 * **Shows:**
   * [BanG Dream!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BanGDream.md) - [__MAL__](https://myanimelist.net/anime/33573/BanG_Dream)
   * [Egao no Orquesta!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EgaonoOrquesta.md) - [__MAL__](https://myanimelist.net/anime/36922/Egao_no_Orquesta)

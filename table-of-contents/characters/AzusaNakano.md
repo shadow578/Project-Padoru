@@ -19,6 +19,7 @@
   * [K-On!!: Keikaku!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnKeikaku.md) - [__MAL__](https://myanimelist.net/anime/9734/K-On__Keikaku)
   * [K-On!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOn.md) - [__MAL__](https://myanimelist.net/manga/13001/K-On)
   * [K-On! Anthology Comic](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnAnthologyComic.md) - [__MAL__](https://myanimelist.net/manga/19551/K-On_Anthology_Comic)
+  * [K-On! College](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnCollege.md) - [__MAL__](https://myanimelist.net/manga/51855/K-On_College)
   * [K-On! Highschool](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KOnHighschool.md) - [__MAL__](https://myanimelist.net/manga/51857/K-On_Highschool)
 
 

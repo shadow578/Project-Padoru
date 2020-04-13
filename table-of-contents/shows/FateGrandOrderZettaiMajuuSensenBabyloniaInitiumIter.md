@@ -1,5 +1,8 @@
 # Padorus in [Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter](https://myanimelist.net/anime/40206/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia_-_Initium_Iter)
 
+### L
+* [Leonardo da Vinci](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LeonardodaVinci.md)
+
 ### M
 * [Mash Kyrielight](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MashKyrielight.md)
 

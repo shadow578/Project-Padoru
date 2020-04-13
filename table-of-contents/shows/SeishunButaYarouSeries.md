@@ -1,5 +1,8 @@
 # Padorus in [Seishun Buta Yarou Series](https://myanimelist.net/manga/70399/Seishun_Buta_Yarou_Series)
 
+### M
+* [Mai Sakurajima](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MaiSakurajima.md)
+
 ### R
 * [Rio Futaba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RioFutaba.md)
 

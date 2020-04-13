@@ -1,5 +1,8 @@
 # Padorus in [K-On! College](https://myanimelist.net/manga/51855/K-On_College)
 
+### A
+* [Azusa Nakano](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AzusaNakano.md)
+
 ### M
 * [Mio Akiyama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MioAkiyama.md)
 

@@ -1,11 +1,15 @@
 # Characters
 
+###  
+* [ Kobayashi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Kobayashi.md)
+
 ### A
 * [AI-Chan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AIChan.md)
 * [Aka no Saber](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AkanoSaber.md)
 * [Akari Akaza](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AkariAkaza.md)
 * [Ako Udagawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AkoUdagawa.md)
 * [Aqua](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Aqua.md)
+* [Archer](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Archer.md)
 * [Arisa Ichigaya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ArisaIchigaya.md)
 * [Armin Arlert](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ArminArlert.md)
 * [Assistant](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Assistant.md)
@@ -18,6 +22,7 @@
 ### B
 * [Bedivere](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Bedivere.md)
 * [Bernadetta](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Bernadetta.md)
+* [Berserker](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Berserker.md)
 * [Boo- Chan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/BooChan.md)
 
 ### C
@@ -27,10 +32,13 @@
 * [Chloe](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Chloe.md)
 * [Chocola](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Chocola.md)
 * [Chungoru](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Chungoru.md)
+* [Cinnamon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Cinnamon.md)
 * [Coconut](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Coconut.md)
+* [Crimvael](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Crimvael.md)
 
 ### E
 * [Earth Chan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/EarthChan.md)
+* [Edward Elric](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/EdwardElric.md)
 * [Enkidu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Enkidu.md)
 * [Eren Yeager](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ErenYeager.md)
 * [Erwin Smith](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ErwinSmith.md)
@@ -48,9 +56,11 @@
 * [Genkai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Genkai.md)
 * [Gilgamesh](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Gilgamesh.md)
 * [Gloria](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Gloria.md)
+* [Guts](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Guts.md)
 
 ### H
 * [Hagumi Kitazawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HagumiKitazawa.md)
+* [Hajime Hinata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HajimeHinata.md)
 * [HH Chan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HHChan.md)
 * [Hideri Kanzaki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HideriKanzaki.md)
 * [Himari Uehara](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HimariUehara.md)
@@ -60,6 +70,7 @@
 * [Internet Explorer Chan](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/InternetExplorerChan.md)
 
 ### J
+* [Jean Kirstein](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/JeanKirstein.md)
 * [John Cena](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/JohnCena.md)
 * [Jun Suzuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/JunSuzuki.md)
 
@@ -79,16 +90,24 @@
 * [Kokoro Tsurumaki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KokoroTsurumaki.md)
 * [Konata Izumi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KonataIzumi.md)
 * [Kosame Amagai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KosameAmagai.md)
+* [Kotoko Iwanaga](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KotokoIwanaga.md)
+* [Koutarou Tatsumi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KoutarouTatsumi.md)
 * [Kuon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Kuon.md)
+* [Kuro no Assassin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KuronoAssassin.md)
 * [Kuro no Rider](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KuronoRider.md)
+* [Kurokami no Onna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KurokaminoOnna.md)
+* [Kurou Sakuragawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KurouSakuragawa.md)
 
 ### L
 * [Lalatina Dustiness Ford](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LalatinaDustinessFord.md)
+* [Leonardo da Vinci](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LeonardodaVinci.md)
+* [Lio Fotia](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LioFotia.md)
 * [Lisa Imai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LisaImai.md)
 
 ### M
 * [Mafuyu Hoshikawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MafuyuHoshikawa.md)
 * [Mafuyu Kirisu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MafuyuKirisu.md)
+* [Mai Sakurajima](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MaiSakurajima.md)
 * [Mai Shiranui](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MaiShiranui.md)
 * [Maika Sakuranomiya](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MaikaSakuranomiya.md)
 * [Maki Oze](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MakiOze.md)
@@ -102,6 +121,7 @@
 * [Megumin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Megumin.md)
 * [Megurine Luka](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MegurineLuka.md)
 * [Mei Misaki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MeiMisaki.md)
+* [Mikan Tsumiki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikanTsumiki.md)
 * [Mikasa Ackerman](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikasaAckerman.md)
 * [Miko Iino](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikoIino.md)
 * [Miku Nakano](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikuNakano.md)
@@ -132,6 +152,7 @@
 * [Raphiel Shiraha Ainsworth](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RaphielShirahaAinsworth.md)
 * [Raphtalia](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Raphtalia.md)
 * [Rem](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rem.md)
+* [Rider](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rider.md)
 * [Rimi Ushigome](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RimiUshigome.md)
 * [Rinko Shirokane](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RinkoShirokane.md)
 * [Rio Futaba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RioFutaba.md)
@@ -143,6 +164,7 @@
 * [Rosalina](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rosalina.md)
 * [Rozalin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rozalin.md)
 * [Ruby Rose](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RubyRose.md)
+* [Ryouta Mitarai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RyoutaMitarai.md)
 * [Ryuji Sakamato](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RyujiSakamato.md)
 * [Ryuuko Matoi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RyuukoMatoi.md)
 
@@ -153,6 +175,7 @@
 * [Sagiri Izumi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SagiriIzumi.md)
 * [Saitama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Saitama.md)
 * [Saki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Saki.md)
+* [Sakura Matou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SakuraMatou.md)
 * [Sakura Minamoto](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SakuraMinamoto.md)
 * [Satanichia Kurumizawa McDowell](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SatanichiaKurumizawaMcDowell.md)
 * [Satou Matsuzaka](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SatouMatsuzaka.md)
@@ -164,7 +187,10 @@
 * [Seras Victoria](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SerasVictoria.md)
 * [Shiro](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Shiro.md)
 * [Shouko Komi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ShoukoKomi.md)
+* [Sieg](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Sieg.md)
 * [Sotca Luckythar](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SotcaLuckythar.md)
+* [Souji Okita](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SoujiOkita.md)
+* [Stunk](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Stunk.md)
 
 ### T
 * [T.K.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TK.md)
@@ -183,13 +209,16 @@
 * [Tsumugi Kotobuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TsumugiKotobuki.md)
 
 ### U
+* [Umaru Doma](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/UmaruDoma.md)
 * [Uruka Takemoto](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/UrukaTakemoto.md)
 * [Uta](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Uta.md)
 
 ### V
 * [Vanilla](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Vanilla.md)
+* [Vanir](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Vanir.md)
 * [Vignette Tsukinose April](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/VignetteTsukinoseApril.md)
 * [Viktoriya Ivanovna Serebryakova](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ViktoriyaIvanovnaSerebryakova.md)
+* [Violet Evergarden](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/VioletEvergarden.md)
 
 ### W
 * [Wiz](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Wiz.md)
@@ -201,9 +230,11 @@
 * [Yukina Minato](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YukinaMinato.md)
 * [Yumeko Jabami](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YumekoJabami.md)
 * [Yuri Nakamura](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YuriNakamura.md)
+* [Yuu Ishigami](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YuuIshigami.md)
 * [Yuuko Yoshida](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YuukoYoshida.md)
 
 ### Z
+* [Zel](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Zel.md)
 * [Zero Two](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ZeroTwo.md)
 
 ###### This page was automatically generated. If it contains errors, please open a Issue.

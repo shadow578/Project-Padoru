@@ -2,9 +2,13 @@
 
 ### A
 * [Aka no Saber](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AkanoSaber.md)
+* [Archer](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Archer.md)
 
 ### B
 * [Bedivere](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Bedivere.md)
+
+### L
+* [Leonardo da Vinci](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LeonardodaVinci.md)
 
 ### M
 * [Mash Kyrielight](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MashKyrielight.md)

@@ -1,5 +1,8 @@
 # Padorus in [Kobayashi-san Chi no Maid Dragon: Elma no OL Nikki](https://myanimelist.net/manga/109153/Kobayashi-san_Chi_no_Maid_Dragon__Elma_no_OL_Nikki)
 
+###  
+* [ Kobayashi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Kobayashi.md)
+
 ### K
 * [Kanna Kamui](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KannaKamui.md)
 

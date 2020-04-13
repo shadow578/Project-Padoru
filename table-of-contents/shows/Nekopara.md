@@ -1,7 +1,9 @@
-# Padorus in [Neko Para](https://myanimelist.net/manga/67721/Neko_Para)
+# Padorus in [Nekopara](https://myanimelist.net/anime/38924/Nekopara)
 
 ### C
 * [Chocola](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Chocola.md)
+* [Cinnamon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Cinnamon.md)
+* [Coconut](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Coconut.md)
 
 ### K
 * [Kashou Minazuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KashouMinazuki.md)

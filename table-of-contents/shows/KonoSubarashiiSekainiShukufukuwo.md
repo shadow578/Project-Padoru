@@ -1,4 +1,4 @@
-# Padorus in [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga/80385/Kono_Subarashii_Sekai_ni_Shukufuku_wo)
+# Padorus in [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga/60553/Kono_Subarashii_Sekai_ni_Shukufuku_wo)
 
 ### A
 * [Aqua](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Aqua.md)
@@ -11,6 +11,9 @@
 
 ### M
 * [Megumin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Megumin.md)
+
+### V
+* [Vanir](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Vanir.md)
 
 ### W
 * [Wiz](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Wiz.md)

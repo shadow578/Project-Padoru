@@ -2,6 +2,7 @@
 
 ### C
 * [Chocola](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Chocola.md)
+* [Cinnamon](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Cinnamon.md)
 * [Coconut](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Coconut.md)
 
 ### K

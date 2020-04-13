@@ -1,9 +1,55 @@
 # Padorus by Jespe-R
 All Padorus in this Directory were created by [u/Jespe-R](https://www.reddit.com/user/Jespe-R/) as part of his Daily Paduru Challenge / Project (IDK what he calls it...)<br/>
-I only modified them slightly by scaling them up and denoising them (since on reddit they are jpg's) and removing the "Daily Padoru" Headline to fit the 1x1 aspect ratio used thorough this Repo)<br/>
+The modifications I did on the images:
+	- scale them up to 1024x1024 (to fit the rest of the repo)
+	- denoise them (since reddit originals are jpg's)
+	- remove the "Daily Padoru" Headline (to fit the rest of the repo (1x1 aspect ratio); his signature stays intact)
+
 Huge thanks to Jespe-R for creating these Padorus!
 
 ## Currently in the Collection
+
+### Added 13.04.2020
+- [Daily padoru 68 - Arash (Fate)](https://www.reddit.com/r/Padoru/comments/ffjr4f/daily_padoru_68_arash_fate/)
+- [Daily padoru 69 - Crimvael (Ishuzoku Reviewers)](https://www.reddit.com/r/Padoru/comments/fg2x3z/daily_padoru_69_crimvael_ishuzoku_reviewers/)
+- [Daily padoru 70 - Zel (Ishuzoku Reviewers)](https://www.reddit.com/r/Padoru/comments/fgfj8b/daily_padoru_70_zel_ishuzoku_reviewers/)
+- [Daily padoru 71 - Stunk (Ishuzoku Reviewers)](https://www.reddit.com/r/Padoru/comments/fgwipa/daily_padoru_71_stunk_ishuzoku_reviewers/)
+- [Daily padoru 72 - Guts (Berserk)](https://www.reddit.com/r/Padoru/comments/fhiiot/daily_padoru_72_guts_berserk/)
+- [Daily padoru 73 - Medusa (Fate)](https://www.reddit.com/r/Padoru/comments/fi25xy/daily_padoru_73_medusa_fate/)
+- [Daily padoru 74 - Mikan Tsumiki (Danganronpa)OC](https://www.reddit.com/r/Padoru/comments/fim5y1/daily_padoru_74_mikan_tsumiki_danganronpa/)
+- [Daily padoru 75 - Tomoko Kuroki (WataMote)O](https://www.reddit.com/r/Padoru/comments/fj2ub9/daily_padoru_75_tomoko_kuroki_watamote/)
+- [Daily padoru 76 - Umaru (Himouto! Umaru-chan)](https://www.reddit.com/r/Padoru/comments/fjqhay/daily_padoru_76_umaru_himouto_umaruchan/)
+- [Daily padoru 77 - Henry Jekyll & Hyde (Fate)](https://www.reddit.com/r/Padoru/comments/fk9283/daily_padoru_77_henry_jekyll_hyde_fate/)
+- [Daily padoru 78 - Lio (Promare)](https://www.reddit.com/r/Padoru/comments/fksnne/daily_padoru_78_lio_promare/)
+- [Daily padoru 79 - Wiz (KonoSuba)](https://www.reddit.com/r/Padoru/comments/flgdne/daily_padoru_79_wiz_konosuba/)
+- [Daily padoru 80 - Okita (Fate)](https://www.reddit.com/r/Padoru/comments/flzod2/daily_padoru_80_okita_fate/)
+- [Daily padoru 81 - Hajime Hinata (Danganronpa)](https://www.reddit.com/r/Padoru/comments/fmlzsk/daily_padoru_81_hajime_hinata_danganronpa/)
+- [Daily padoru 82 - Yu Ishigami (Kaguya-sama: Love Is War)](https://www.reddit.com/r/Padoru/comments/fn7j4t/daily_padoru_82_yu_ishigami_kaguyasama_love_is_war/)
+- [Daily padoru 83 - Sieg (Fate)](https://www.reddit.com/r/Padoru/comments/fnquns/daily_padoru_83_sieg_fate/)
+- [Daily padoru 84 - Kurou Sakuragawa (In/Spectre)OC](https://www.reddit.com/r/Padoru/comments/foc984/daily_padoru_84_kurou_sakuragawa_inspectre/)
+- [Daily padoru 85 - Kobayashi (Miss Kobayashi's Dragon Maid)](https://www.reddit.com/r/Padoru/comments/fovz1l/daily_padoru_85_kobayashi_miss_kobayashis_dragon/)
+- [Daily padoru 86 - Cinnamon (Nekopara)](https://www.reddit.com/r/Padoru/comments/fpkt7y/daily_padoru_86_cinnamon_nekopara/)
+- [Daily padoru 87 - Violet Evergarden (Violet Evergarden)](https://www.reddit.com/r/Padoru/comments/fq4pll/daily_padoru_87_violet_evergarden_violet/)
+- [Daily padoru 88 - Koutarou Tatsumi (Zombieland Saga)](https://www.reddit.com/r/Padoru/comments/fqtr4p/daily_padoru_88_koutarou_tatsumi_zombieland_saga/)
+- [Daily padoru 89 - Gudao (Fate)](https://www.reddit.com/r/Padoru/comments/fr9xtf/daily_padoru_89_gudao_fate/)
+- [Daily padoru 90 - Ryota Mitarai (Danganronpa)](https://www.reddit.com/r/Padoru/comments/frzpzx/daily_padoru_90_ryota_mitarai_danganronpa/)
+- [Daily padoru 91 - Leonardo Da Vinci (Fate)O](https://www.reddit.com/r/Padoru/comments/fslq8k/daily_padoru_91_leonardo_da_vinci_fate/)
+- [Daily padoru 92 - Toru Hagakure (Boku no Hero Academia)](https://www.reddit.com/r/Padoru/comments/fszp8i/daily_padoru_92_toru_hagakure_boku_no_hero/)
+- [Daily padoru 93 - Jean Kirstein (Attack on Titan)](https://www.reddit.com/r/Padoru/comments/ftp2us/daily_padoru_93_jean_kirstein_attack_on_titan/)
+- [Daily padoru 94 - Edward Elric (Fullmetal Alchemist)](https://www.reddit.com/r/Padoru/comments/fua28k/daily_padoru_94_edward_elric_fullmetal_alchemist/)
+- [Daily padoru 95 - Megumin (KonoSuba)](https://www.reddit.com/r/Padoru/comments/fushi8/daily_padoru_95_megumin_konosuba/)
+- [Daily padoru 96 - Vanir (KonoSuba)](https://www.reddit.com/r/Padoru/comments/fvf6rf/daily_padoru_96_vanir_konosuba/)
+- [Daily padoru 97 - Sakura Matou (Fate)](https://www.reddit.com/r/Padoru/comments/fw5t46/daily_padoru_97_sakura_matou_fate/)
+- [Daily padoru 98 - Kotoko Iwanaga (In/Spectre)](https://www.reddit.com/r/Padoru/comments/fwkb5f/daily_padoru_98_kotoko_iwanaga_inspectre/)
+- [Daily padoru 99 - Shiro (Deadman Wonderland)](https://www.reddit.com/r/Padoru/comments/fxcruj/daily_padoru_99_shiro_deadman_wonderland/)
+- [Daily padoru 100 - Tohru (Miss Kobayashi's Dragon Maid)](https://www.reddit.com/r/Padoru/comments/fxzsu3/daily_padoru_100_tohru_miss_kobayashis_dragon_maid/)
+- [Daily padoru 101 - Jack the Ripper (Fate)](https://www.reddit.com/r/Padoru/comments/fygeik/daily_padoru_101_jack_the_ripper_fate/)
+- [Daily padoru 102 - Kurokami no Onna (Death Parade)](https://www.reddit.com/r/Padoru/comments/fzbnui/daily_padoru_102_kurokami_no_onna_death_parade/)
+- [Daily padoru 103 - Mai Sakurajima (Rascal Does Not Dream of Bunny Girl Senpai) Easter Special!](https://www.reddit.com/r/Padoru/comments/fzyyus/daily_padoru_103_mai_sakurajima_rascal_does_not/)
+
+#### Not Included:
+- None (for once :P)
+
 
 ### Added 08.03.2020
 - [Daily padoru 40 - Seras Victoria (Hellsing)](https://www.reddit.com/r/Padoru/comments/f1dj4w/daily_padoru_40_seras_victoria_hellsing/)

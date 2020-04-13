@@ -1,13 +1,55 @@
 # Project Padoru
-Project Padoru is __the worldwide biggest*__ Collection of Padoru Images.
-
-The Table of all Padorus in this Collection can be found [here.](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)
+Project Padoru is __the worldwide biggest*__ Collection of Padoru Images featuring __210__ entries.<br/>
+A Index of all Padorus in this collection can be found [here.](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)
     
-# What is Padoru?
+# What is a Padoru?
 <img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fate-nero-claudius.png" width="100" height="100">
 
 A Meme in the Anime- Community. See [here.](https://knowyourmeme.com/memes/padoru)
 	
+## Contributing
+You can contribute either by opening a [Issue containing a Image Suggestion](https://github.com/shadow578/Project-Padoru/issues/new?assignees=&labels=suggestion&template=new-suggestion.md&title=%5BSUGGESTION%5D), or by creating a pull request.
+When creating a pull request, keep in mind that you'll also have to update the padoru.json file.
+This can be done either manually or by using my Padoru- Manager (repo on my profile). 
+The Preferred method is creating a Image Suggestion.
+Please ensure that your Contribution / Suggestions meets the Guidelines below.
+Also, providing high resolution images with transparent background is highly encouraged, but not a requirement.
+	
+### Guidelines for Suggestions (= via Issues)
+These Guidelines apply when you want to contribute a entry via a Issue:
+* All Suggestions __MUST__:
+	* Include the Padoru Image itself 
+		* (or a link to it. For Reddit posts, a direct link to the post works aswell)
+	* Include the Name of the Character and Show the character is from __OR__ a link to the MAL Character page 
+		* (if not clear from the post. This is so I can find the character in MAL.)
+	* Include a direct link to the original source (reddit post, pixiv, ...) 
+		* (__NOT__ a direct image link)
+	* Contain your Contributor Name, if it is different from you Github username
+* All Suggestions __MAY NOT__:
+    * Contain Nudity
+    * Show Minors in sexual acts
+    * Contain any content that is considered illegal
+    * Contain any content that violates Github guidelines
+	
+## Direct Contribution Guidelines
+These Guidelines apply when you want to contribute entries via pull request:
+* All Contributions __MUST__:
+    * Include the Padoru Image itself
+		* The Image must have a aspect ratio of 1:1
+		* The Image must have a transparent background
+		* The Image must be in the PNG file format
+		* The Image must be of acceptable quality (no strong artifacting, ...)
+    * Include the Name of the Character
+	* Include the Show the Character is from
+	* Include the Name of the original image creator
+	* Include a direct link to the original source (reddit post, pixiv, ...) (__NOT__ a direct image link)
+	* A Contributor name (use "anonymous" if you don't want supply one)
+* All Contributions __MAY NOT__:
+    * Contain Nudity
+    * Show Minors in sexual acts
+    * Contain any content that is considered illegal
+    * Contain any content that violates Github guidelines
+
 ## How To Use
 Simple:
 * Get the padoru.json file (Use [this url](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru.json) or [(minified version)](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru-mini.json))
@@ -28,37 +70,12 @@ Simple:
 ### Or
 * Use the C# Library from [here.](https://github.com/shadow578/PadoruLib)
 
-## Contributing
-You can contribute either by opening a [Issue containing a Image Suggestion](https://github.com/shadow578/Project-Padoru/issues/new?assignees=&labels=suggestion&template=new-suggestion.md&title=%5BSUGGESTION%5D), or by creating a pull request.
-When creating a pull request, keep in mind that you'll also have to update the padoru.json file.
-This can be done either manually or by using my Padoru- Manager (repo on my profile). 
-The Preferred method is creating a Image Suggestion.
-Please ensure that your Contribution / Suggestions meets the Guidelines below.
-
-## Guidelines
-* Suggestions __MUST__ contain:
-    * The (Padoru) Image itself
-    * The Name of the Character
-	* The Name of the image creator
-* Suggestions __SHOULD__ contain:
-	* The Show the Character is from (So I can find the character in MAL)
-    * A Link to the original source (reddit post, pixiv, etc...) (NOT a direct image link)
-	* Your Contributor Name, if it is different from you Github username
-* Suggestions __MAY NOT__:
-    * Contain Nudity
-    * Show Minors in sexual acts
-    * Contain any content that is considered illegal
-    * Contain any content that violates Github guidelines
-
-
-Providing high resolution images (preferably png) with transparent background is highly encouraged, but not a requirement.
-
 ## Disclaimer
 * I do not own any of these Images, I just bring them together into one collection. Read the entry below if you want a image to be removed
 * It may not be OK to use some, if not all, of these Images in a Commercial way. So use for Private use ONLY
 * Information in this Repository is provided as-is (= without any guarantee that it is correct)
 * I may edit source images before adding them to the collection (upscaling, transparent background, ...).
-	* I do **not** remove watermarks *(at least I try, but some may get deleted when removing the background...)*
+	* I do **not** remove watermarks *(I try, but since I use batch processing to remove the background, I might miss one or the other image where the watermark was removed)*
 
 ## A Image I Created Is Listed In This Collection, But I'm Not Named As Creator
 Images in this repository are collected from the internet. Tracking each image back to the original author is (almost) impossible. 

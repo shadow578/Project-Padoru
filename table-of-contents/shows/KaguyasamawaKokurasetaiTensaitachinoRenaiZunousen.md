@@ -10,4 +10,7 @@
 * [Miko Iino](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikoIino.md)
 * [Miyuki Shirogane](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MiyukiShirogane.md)
 
+### Y
+* [Yuu Ishigami](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YuuIshigami.md)
+
 ###### This page was automatically generated. If it contains errors, please open a Issue.

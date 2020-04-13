@@ -3,6 +3,9 @@
 ### A
 * [Aqua](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Aqua.md)
 
+### V
+* [Vanir](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Vanir.md)
+
 ### W
 * [Wiz](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Wiz.md)
 

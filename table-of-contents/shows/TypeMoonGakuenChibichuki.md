@@ -19,7 +19,12 @@
 ### M
 * [Medb](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Medb.md)
 
+### R
+* [Rider](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rider.md)
+
 ### S
 * [Saber](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Saber.md)
+* [Sakura Matou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SakuraMatou.md)
+* [Souji Okita](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/SoujiOkita.md)
 
 ###### This page was automatically generated. If it contains errors, please open a Issue.

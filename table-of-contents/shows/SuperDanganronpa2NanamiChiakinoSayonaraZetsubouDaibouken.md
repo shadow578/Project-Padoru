@@ -1,6 +1,10 @@
 # Padorus in [Super Danganronpa 2: Nanami Chiaki no Sayonara Zetsubou Daibouken](https://myanimelist.net/manga/44229/Super_Danganronpa_2__Nanami_Chiaki_no_Sayonara_Zetsubou_Daibouken)
 
+### H
+* [Hajime Hinata](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/HajimeHinata.md)
+
 ### M
+* [Mikan Tsumiki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikanTsumiki.md)
 * [Monokuma](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Monokuma.md)
 * [Monomi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Monomi.md)
 

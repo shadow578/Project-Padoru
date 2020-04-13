@@ -21,6 +21,7 @@
 * [Tanya Degurechaff](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TanyaDegurechaff.md)
 
 ### V
+* [Vanir](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Vanir.md)
 * [Viktoriya Ivanovna Serebryakova](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ViktoriyaIvanovnaSerebryakova.md)
 
 ### W

@@ -12,6 +12,9 @@
 ### M
 * [Megumin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Megumin.md)
 
+### V
+* [Vanir](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Vanir.md)
+
 ### W
 * [Wiz](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Wiz.md)
 

@@ -6,6 +6,9 @@
 ### E
 * [Eren Yeager](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ErenYeager.md)
 
+### J
+* [Jean Kirstein](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/JeanKirstein.md)
+
 ### M
 * [Mikasa Ackerman](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MikasaAckerman.md)
 

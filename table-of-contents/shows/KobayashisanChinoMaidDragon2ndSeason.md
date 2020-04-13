@@ -1,5 +1,8 @@
 # Padorus in [Kobayashi-san Chi no Maid Dragon 2nd Season](https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_2nd_Season)
 
+###  
+* [ Kobayashi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Kobayashi.md)
+
 ### K
 * [Kanna Kamui](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KannaKamui.md)
 

@@ -10,11 +10,8 @@
 ### Character Info
 * **Name:**   [Kaguya Shinomiya](https://myanimelist.net/character/136359)
 * **Shows:**
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wo Kataritai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawoKataritai.md) - [__MAL__](https://myanimelist.net/manga/114872/Kaguya-sama_wo_Kataritai)
-  * [Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiShuuchiinGakuenNanafushigi.md) - [__MAL__](https://myanimelist.net/manga/115783/Kaguya-sama_wa_Kokurasetai__Shuuchiin_Gakuen_Nanafushigi)
+  * [Kaguya-sama: Love is War Season 2](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamaLoveisWarSeason2.md) - [__MAL__](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
+  * [Kaguya-sama: Love is War](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamaLoveisWar.md) - [__MAL__](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
 
 
 # Kaguya Shinomiya
@@ -29,10 +26,7 @@
 ### Character Info
 * **Name:**   [Kaguya Shinomiya](https://myanimelist.net/character/136359)
 * **Shows:**
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wo Kataritai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawoKataritai.md) - [__MAL__](https://myanimelist.net/manga/114872/Kaguya-sama_wo_Kataritai)
-  * [Kaguya-sama wa Kokurasetai: Shuuchiin Gakuen Nanafushigi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiShuuchiinGakuenNanafushigi.md) - [__MAL__](https://myanimelist.net/manga/115783/Kaguya-sama_wa_Kokurasetai__Shuuchiin_Gakuen_Nanafushigi)
+  * [Kaguya-sama: Love is War](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamaLoveisWar.md) - [__MAL__](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
+  * [Kaguya-sama: Love is War](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamaLoveisWar.md) - [__MAL__](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
 
 

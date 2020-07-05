@@ -10,7 +10,6 @@
 ### Character Info
 * **Name:**   [Robin Hood](https://myanimelist.net/character/152791)
 * **Shows:**
-  * [Monsuto Anime](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MonsutoAnime.md) - [__MAL__](https://myanimelist.net/anime/34670/Monsuto_Anime)
-  * [Monster Strike Anime: Kieyuku Uchuu-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MonsterStrikeAnimeKieyukuUchuuhen.md) - [__MAL__](https://myanimelist.net/anime/36246/Monster_Strike_Anime__Kieyuku_Uchuu-hen)
+  * [Monster Strike the Anime 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MonsterStriketheAnime2ndSeason.md) - [__MAL__](https://myanimelist.net/anime/34670/Monsuto_Anime)
 
 

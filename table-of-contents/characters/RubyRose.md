@@ -11,6 +11,5 @@
 * **Name:**   [Ruby Rose](https://myanimelist.net/character/134529)
 * **Shows:**
   * [RWBY](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/RWBY.md) - [__MAL__](https://myanimelist.net/manga/93675/RWBY)
-  * [RWBY: Official Manga Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/RWBYOfficialMangaAnthology.md) - [__MAL__](https://myanimelist.net/manga/107982/RWBY__Official_Manga_Anthology)
 
 

@@ -9,9 +9,5 @@
 
 ### Character Info
 * **Name:**   [Kuro no Assassin](https://myanimelist.net/character/55951)
-* **Shows:**
-  * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/anime/34662/Fate_Apocrypha)
-  * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/manga/33005/Fate_Apocrypha)
-  * [Fate/Apocrypha: Unbirth](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocryphaUnbirth.md) - [__MAL__](https://myanimelist.net/manga/50295/Fate_Apocrypha__Unbirth)
 
 

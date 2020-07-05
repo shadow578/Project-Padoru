@@ -9,8 +9,5 @@
 
 ### Character Info
 * **Name:**   [Hideri Kanzaki](https://myanimelist.net/character/152150)
-* **Shows:**
-  * [Blend S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlendS.md) - [__MAL__](https://myanimelist.net/anime/34618/Blend_S)
-  * [Blend S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlendS.md) - [__MAL__](https://myanimelist.net/manga/86330/Blend_S)
 
 

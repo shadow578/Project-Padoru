@@ -1,21 +1,9 @@
-# Padorus in [K-On!!: Ura-On!!](https://myanimelist.net/anime/9203/K-On__Ura-On)
+# Padorus in [K-On!: Ura-On!](https://myanimelist.net/anime/7017/K-On__Ura-On)
 
 ### A
 * [Azusa Nakano](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/AzusaNakano.md)
 
-### J
-* [Jun Suzuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/JunSuzuki.md)
-
-### M
-* [Mio Akiyama](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MioAkiyama.md)
-
-### R
-* [Ritsu Tainaka](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/RitsuTainaka.md)
-
 ### T
 * [Tsumugi Kotobuki](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TsumugiKotobuki.md)
-
-### Y
-* [Yui Hirasawa](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/YuiHirasawa.md)
 
 ###### This page was automatically generated. If it contains errors, please open a Issue.

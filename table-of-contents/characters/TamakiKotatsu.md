@@ -9,8 +9,5 @@
 
 ### Character Info
 * **Name:**   [Tamaki Kotatsu](https://myanimelist.net/character/135798)
-* **Shows:**
-  * [Enen no Shouboutai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EnennoShouboutai.md) - [__MAL__](https://myanimelist.net/anime/38671/Enen_no_Shouboutai)
-  * [Enen no Shouboutai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EnennoShouboutai.md) - [__MAL__](https://myanimelist.net/manga/91037/Enen_no_Shouboutai)
 
 

@@ -10,7 +10,7 @@
 ### Character Info
 * **Name:**   [Maki Oze](https://myanimelist.net/character/133768)
 * **Shows:**
-  * [Enen no Shouboutai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EnennoShouboutai.md) - [__MAL__](https://myanimelist.net/anime/38671/Enen_no_Shouboutai)
-  * [Enen no Shouboutai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EnennoShouboutai.md) - [__MAL__](https://myanimelist.net/manga/91037/Enen_no_Shouboutai)
+  * [Enen no Shouboutai: Ni no Shou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EnennoShouboutaiNinoShou.md) - [__MAL__](https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou)
+  * [Fire Force](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FireForce.md) - [__MAL__](https://myanimelist.net/manga/91037/Enen_no_Shouboutai)
 
 

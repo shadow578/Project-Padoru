@@ -10,8 +10,6 @@
 ### Character Info
 * **Name:**   [Miku Nakano](https://myanimelist.net/character/160603)
 * **Shows:**
-  * [5-toubun no Hanayome](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/5toubunnoHanayome.md) - [__MAL__](https://myanimelist.net/anime/38101/5-toubun_no_Hanayome)
-  * [5-toubun no Hanayome ∬](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/5toubunnoHanayome.md) - [__MAL__](https://myanimelist.net/anime/39783/5-toubun_no_Hanayome_∬)
-  * [5-toubun no Hanayome](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/5toubunnoHanayome.md) - [__MAL__](https://myanimelist.net/manga/103851/5-toubun_no_Hanayome)
+  * [The Quintessential Quintuplets](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheQuintessentialQuintuplets.md) - [__MAL__](https://myanimelist.net/anime/38101/5-toubun_no_Hanayome)
 
 

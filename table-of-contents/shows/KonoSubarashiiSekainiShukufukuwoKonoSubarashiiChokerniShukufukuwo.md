@@ -6,13 +6,10 @@
 ### K
 * [Kazuma Satou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KazumaSatou.md)
 
-### L
-* [Lalatina Dustiness Ford](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/LalatinaDustinessFord.md)
-
-### M
-* [Megumin](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Megumin.md)
-
 ### W
 * [Wiz](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Wiz.md)
+
+### Y
+* [Yunyun](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Yunyun.md)
 
 ###### This page was automatically generated. If it contains errors, please open a Issue.

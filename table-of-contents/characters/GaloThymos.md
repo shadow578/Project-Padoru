@@ -11,6 +11,5 @@
 * **Name:**   [Galo Thymos](https://myanimelist.net/character/167319)
 * **Shows:**
   * [Promare](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Promare.md) - [__MAL__](https://myanimelist.net/anime/35848/Promare)
-  * [Promare: Galo-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/PromareGalohen.md) - [__MAL__](https://myanimelist.net/anime/39991/Promare__Galo-hen)
 
 

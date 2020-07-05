@@ -10,9 +10,7 @@
 ### Character Info
 * **Name:**   [Chika Fujiwara](https://myanimelist.net/character/140810)
 * **Shows:**
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
+  * [Kaguya-sama: Love is War](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamaLoveisWar.md) - [__MAL__](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
 
 
 # Chika Fujiwara
@@ -27,8 +25,7 @@
 ### Character Info
 * **Name:**   [Chika Fujiwara](https://myanimelist.net/character/140810)
 * **Shows:**
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
-  * [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiTensaitachinoRenaiZunousen.md) - [__MAL__](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
+  * [Kaguya-sama: Love is War](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamaLoveisWar.md) - [__MAL__](https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen)
+  * [Kaguya-sama wa Kokurasetai: Doujin-ban](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KaguyasamawaKokurasetaiDoujinban.md) - [__MAL__](https://myanimelist.net/manga/114871/Kaguya-sama_wa_Kokurasetai__Doujin-ban)
 
 

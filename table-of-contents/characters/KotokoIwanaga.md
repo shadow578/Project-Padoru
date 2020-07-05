@@ -9,8 +9,5 @@
 
 ### Character Info
 * **Name:**   [Kotoko Iwanaga](https://myanimelist.net/character/128943)
-* **Shows:**
-  * [Kyokou Suiri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyokouSuiri.md) - [__MAL__](https://myanimelist.net/anime/39017/Kyokou_Suiri)
-  * [Kyokou Suiri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyokouSuiri.md) - [__MAL__](https://myanimelist.net/manga/89049/Kyokou_Suiri)
 
 

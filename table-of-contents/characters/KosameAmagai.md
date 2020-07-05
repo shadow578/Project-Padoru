@@ -10,7 +10,7 @@
 ### Character Info
 * **Name:**   [Kosame Amagai](https://myanimelist.net/character/132951)
 * **Shows:**
-  * [Mahou Shoujo Site](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MahouShoujoSite.md) - [__MAL__](https://myanimelist.net/anime/36266/Mahou_Shoujo_Site)
-  * [Mahou Shoujo Site](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MahouShoujoSite.md) - [__MAL__](https://myanimelist.net/manga/57295/Mahou_Shoujo_Site)
+  * [Magical Girl Site](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MagicalGirlSite.md) - [__MAL__](https://myanimelist.net/anime/36266/Mahou_Shoujo_Site)
+  * [Magical Girl Site](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MagicalGirlSite.md) - [__MAL__](https://myanimelist.net/manga/57295/Mahou_Shoujo_Site)
 
 

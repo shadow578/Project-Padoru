@@ -10,9 +10,6 @@
 ### Character Info
 * **Name:**   [Rize Kamishiro](https://myanimelist.net/character/103409)
 * **Shows:**
-  * [Tokyo Ghoul](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoul.md) - [__MAL__](https://myanimelist.net/anime/22319/Tokyo_Ghoul)
-  * [Tokyo Ghoul:re 2nd Season](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoulre2ndSeason.md) - [__MAL__](https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season)
   * [Tokyo Ghoul](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoul.md) - [__MAL__](https://myanimelist.net/manga/33327/Tokyo_Ghoul)
-  * [Tokyo Ghoul:re](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TokyoGhoulre.md) - [__MAL__](https://myanimelist.net/manga/81117/Tokyo_Ghoul_re)
 
 

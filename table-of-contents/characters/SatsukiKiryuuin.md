@@ -10,8 +10,6 @@
 ### Character Info
 * **Name:**   [Satsuki Kiryuuin](https://myanimelist.net/character/83799)
 * **Shows:**
-  * [Kill la Kill](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KilllaKill.md) - [__MAL__](https://myanimelist.net/anime/18679/Kill_la_Kill)
   * [Kill la Kill Specials](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KilllaKillSpecials.md) - [__MAL__](https://myanimelist.net/anime/21659/Kill_la_Kill_Specials)
-  * [Kill la Kill](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KilllaKill.md) - [__MAL__](https://myanimelist.net/manga/58391/Kill_la_Kill)
 
 

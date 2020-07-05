@@ -10,7 +10,7 @@
 ### Character Info
 * **Name:**   [Assistant](https://myanimelist.net/character/142338)
 * **Shows:**
-  * [Tejina-senpai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Tejinasenpai.md) - [__MAL__](https://myanimelist.net/anime/38610/Tejina-senpai)
-  * [Tejina-senpai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Tejinasenpai.md) - [__MAL__](https://myanimelist.net/manga/97292/Tejina-senpai)
+  * [Magical Sempai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MagicalSempai.md) - [__MAL__](https://myanimelist.net/anime/38610/Tejina-senpai)
+  * [Magical Sempai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MagicalSempai.md) - [__MAL__](https://myanimelist.net/manga/97292/Tejina-senpai)
 
 

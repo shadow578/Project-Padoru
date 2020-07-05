@@ -10,7 +10,6 @@
 ### Character Info
 * **Name:**   [Shouko Komi](https://myanimelist.net/character/141790)
 * **Shows:**
-  * [Komi-san wa Comyushou desu.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KomisanwaComyushoudesu.md) - [__MAL__](https://myanimelist.net/manga/93530/Komi-san_wa_Comyushou_desu)
   * [Komi-san wa, Comyushou desu.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KomisanwaComyushoudesu.md) - [__MAL__](https://myanimelist.net/manga/99007/Komi-san_wa_Comyushou_desu)
 
 
@@ -27,6 +26,5 @@
 * **Name:**   [Shouko Komi](https://myanimelist.net/character/141790)
 * **Shows:**
   * [Komi-san wa Comyushou desu.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KomisanwaComyushoudesu.md) - [__MAL__](https://myanimelist.net/manga/93530/Komi-san_wa_Comyushou_desu)
-  * [Komi-san wa, Comyushou desu.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KomisanwaComyushoudesu.md) - [__MAL__](https://myanimelist.net/manga/99007/Komi-san_wa_Comyushou_desu)
 
 

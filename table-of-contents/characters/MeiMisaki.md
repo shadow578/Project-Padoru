@@ -11,9 +11,6 @@
 * **Name:**   [Mei Misaki](https://myanimelist.net/character/41402)
 * **Shows:**
   * [Another](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Another.md) - [__MAL__](https://myanimelist.net/anime/11111/Another)
-  * [Another: The Other - Inga](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AnotherTheOtherInga.md) - [__MAL__](https://myanimelist.net/anime/11701/Another__The_Other_-_Inga)
-  * [Another: Misaki Mei - Shizukani](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/AnotherMisakiMeiShizukani.md) - [__MAL__](https://myanimelist.net/anime/20365/Another__Misaki_Mei_-_Shizukani)
   * [Another](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Another.md) - [__MAL__](https://myanimelist.net/manga/24098/Another)
-  * [Another](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Another.md) - [__MAL__](https://myanimelist.net/manga/29699/Another)
 
 

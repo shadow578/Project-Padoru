@@ -9,8 +9,5 @@
 
 ### Character Info
 * **Name:**   [Yuuko Yoshida](https://myanimelist.net/character/170466)
-* **Shows:**
-  * [Machikado Mazoku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MachikadoMazoku.md) - [__MAL__](https://myanimelist.net/anime/39071/Machikado_Mazoku)
-  * [Machikado Mazoku](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MachikadoMazoku.md) - [__MAL__](https://myanimelist.net/manga/108566/Machikado_Mazoku)
 
 

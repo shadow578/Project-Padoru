@@ -10,8 +10,7 @@
 ### Character Info
 * **Name:**   [Maika Sakuranomiya](https://myanimelist.net/character/152126)
 * **Shows:**
-  * [Blend S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlendS.md) - [__MAL__](https://myanimelist.net/anime/34618/Blend_S)
-  * [Blend S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlendS.md) - [__MAL__](https://myanimelist.net/manga/86330/Blend_S)
+  * [BLEND-S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BLENDS.md) - [__MAL__](https://myanimelist.net/anime/34618/Blend_S)
 
 
 # Maika Sakuranomiya
@@ -26,7 +25,6 @@
 ### Character Info
 * **Name:**   [Maika Sakuranomiya](https://myanimelist.net/character/152126)
 * **Shows:**
-  * [Blend S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlendS.md) - [__MAL__](https://myanimelist.net/anime/34618/Blend_S)
   * [Blend S](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BlendS.md) - [__MAL__](https://myanimelist.net/manga/86330/Blend_S)
 
 

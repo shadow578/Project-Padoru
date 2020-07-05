@@ -11,6 +11,5 @@
 * **Name:**   [Sotca Luckythar](https://myanimelist.net/character/148607)
 * **Shows:**
   * [Hitoribocchi no Marumaru Seikatsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HitoribocchinoMarumaruSeikatsu.md) - [__MAL__](https://myanimelist.net/anime/37614/Hitoribocchi_no_Marumaru_Seikatsu)
-  * [Hitoribocchi no ○○ Seikatsu](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/HitoribocchinoSeikatsu.md) - [__MAL__](https://myanimelist.net/manga/89467/Hitoribocchi_no_○○_Seikatsu)
 
 

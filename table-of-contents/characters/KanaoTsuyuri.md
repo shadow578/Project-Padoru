@@ -10,7 +10,7 @@
 ### Character Info
 * **Name:**   [Kanao Tsuyuri](https://myanimelist.net/character/151142)
 * **Shows:**
-  * [Kimetsu no Yaiba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KimetsunoYaiba.md) - [__MAL__](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
-  * [Kimetsu no Yaiba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KimetsunoYaiba.md) - [__MAL__](https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba)
+  * [Demon Slayer: Kimetsu no Yaiba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DemonSlayerKimetsunoYaiba.md) - [__MAL__](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
+  * [Demon Slayer: Kimetsu no Yaiba](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DemonSlayerKimetsunoYaiba.md) - [__MAL__](https://myanimelist.net/manga/96792/Kimetsu_no_Yaiba)
 
 

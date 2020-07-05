@@ -9,10 +9,6 @@
 
 ### Character Info
 * **Name:**   [Kuro no Rider](https://myanimelist.net/character/79995)
-* **Shows:**
-  * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/anime/34662/Fate_Apocrypha)
-  * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/manga/33005/Fate_Apocrypha)
-  * [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten II - Denshou Chitei Sekai Agartha - Agartha no Onna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderEpicofRemnantAshuTokuitenIIDenshouChiteiSekaiAgarthaAgarthanoOnna.md) - [__MAL__](https://myanimelist.net/manga/117239/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_II_-_Denshou_Chitei_Sekai_Agartha_-_Agartha_no_Onna)
 
 
 # Kuro no Rider
@@ -29,6 +25,5 @@
 * **Shows:**
   * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/anime/34662/Fate_Apocrypha)
   * [Fate/Apocrypha](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateApocrypha.md) - [__MAL__](https://myanimelist.net/manga/33005/Fate_Apocrypha)
-  * [Fate/Grand Order: Epic of Remnant - Ashu Tokuiten II - Denshou Chitei Sekai Agartha - Agartha no Onna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderEpicofRemnantAshuTokuitenIIDenshouChiteiSekaiAgarthaAgarthanoOnna.md) - [__MAL__](https://myanimelist.net/manga/117239/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_II_-_Denshou_Chitei_Sekai_Agartha_-_Agartha_no_Onna)
 
 

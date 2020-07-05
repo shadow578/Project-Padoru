@@ -14,7 +14,6 @@
 
 ### R
 * [Ram](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Ram.md)
-* [Rem](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rem.md)
 
 ### T
 * [Tanya Degurechaff](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/TanyaDegurechaff.md)
@@ -22,5 +21,8 @@
 ### V
 * [Vanir](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Vanir.md)
 * [Viktoriya Ivanovna Serebryakova](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/ViktoriyaIvanovnaSerebryakova.md)
+
+### Y
+* [Yunyun](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Yunyun.md)
 
 ###### This page was automatically generated. If it contains errors, please open a Issue.

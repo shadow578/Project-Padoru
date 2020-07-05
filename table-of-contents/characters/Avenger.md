@@ -11,7 +11,5 @@
 * **Name:**   [Avenger](https://myanimelist.net/character/154038)
 * **Shows:**
   * [Fate/Grand Order Anthology Comic: Star](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderAnthologyComicStar.md) - [__MAL__](https://myanimelist.net/manga/96890/Fate_Grand_Order_Anthology_Comic__Star)
-  * [Fate/Grand Order: Mortalis:Stella](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderMortalisStella.md) - [__MAL__](https://myanimelist.net/manga/108116/Fate_Grand_Order__Mortalis_Stella)
-  * [Fate/Grand Order: Turas Réalta](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/FateGrandOrderTurasRéalta.md) - [__MAL__](https://myanimelist.net/manga/108117/Fate_Grand_Order__Turas_Réalta)
 
 

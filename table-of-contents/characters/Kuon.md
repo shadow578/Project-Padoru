@@ -10,7 +10,6 @@
 ### Character Info
 * **Name:**   [Kuon](https://myanimelist.net/character/129766)
 * **Shows:**
-  * [Utawarerumono: Itsuwari no Kamen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/UtawarerumonoItsuwarinoKamen.md) - [__MAL__](https://myanimelist.net/anime/30901/Utawarerumono__Itsuwari_no_Kamen)
   * [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/UtawarerumonoTusukurukoujonoKareiNaruHibi.md) - [__MAL__](https://myanimelist.net/anime/36777/Utawarerumono__Tusukuru-koujo_no_Karei_Naru_Hibi)
 
 

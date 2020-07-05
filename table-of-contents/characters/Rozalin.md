@@ -10,6 +10,6 @@
 ### Character Info
 * **Name:**   [Rozalin](https://myanimelist.net/character/9229)
 * **Shows:**
-  * [Makai Senki Disgaea 2](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/MakaiSenkiDisgaea2.md) - [__MAL__](https://myanimelist.net/manga/694/Makai_Senki_Disgaea_2)
+  * [Disgaea 2](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Disgaea2.md) - [__MAL__](https://myanimelist.net/manga/694/Makai_Senki_Disgaea_2)
 
 

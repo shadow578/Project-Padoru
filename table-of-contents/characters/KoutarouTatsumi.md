@@ -10,6 +10,6 @@
 ### Character Info
 * **Name:**   [Koutarou Tatsumi](https://myanimelist.net/character/164575)
 * **Shows:**
-  * [Zombieland Saga](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ZombielandSaga.md) - [__MAL__](https://myanimelist.net/anime/37976/Zombieland_Saga)
+  * [Zombie Land Saga](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ZombieLandSaga.md) - [__MAL__](https://myanimelist.net/anime/37976/Zombieland_Saga)
 
 

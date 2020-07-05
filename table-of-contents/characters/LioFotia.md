@@ -9,8 +9,5 @@
 
 ### Character Info
 * **Name:**   [Lio Fotia](https://myanimelist.net/character/168936)
-* **Shows:**
-  * [Promare](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Promare.md) - [__MAL__](https://myanimelist.net/anime/35848/Promare)
-  * [Promare: Lio-hen](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/PromareLiohen.md) - [__MAL__](https://myanimelist.net/anime/40313/Promare__Lio-hen)
 
 

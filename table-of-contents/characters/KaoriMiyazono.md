@@ -10,9 +10,7 @@
 ### Character Info
 * **Name:**   [Kaori Miyazono](https://myanimelist.net/character/69411)
 * **Shows:**
-  * [Shigatsu wa Kimi no Uso](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShigatsuwaKiminoUso.md) - [__MAL__](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
-  * [Shigatsu wa Kimi no Uso: Moments](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShigatsuwaKiminoUsoMoments.md) - [__MAL__](https://myanimelist.net/anime/28069/Shigatsu_wa_Kimi_no_Uso__Moments)
-  * [Shigatsu wa Kimi no Uso](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShigatsuwaKiminoUso.md) - [__MAL__](https://myanimelist.net/manga/37707/Shigatsu_wa_Kimi_no_Uso)
-  * [Shigatsu wa Kimi no Uso: Coda](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/ShigatsuwaKiminoUsoCoda.md) - [__MAL__](https://myanimelist.net/manga/88588/Shigatsu_wa_Kimi_no_Uso__Coda)
+  * [Your Lie in April](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YourLieinApril.md) - [__MAL__](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)
+  * [Your Lie in April](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YourLieinApril.md) - [__MAL__](https://myanimelist.net/manga/37707/Shigatsu_wa_Kimi_no_Uso)
 
 

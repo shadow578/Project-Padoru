@@ -1,4 +1,4 @@
-# Padorus in [Lucky☆Star](https://myanimelist.net/manga/587/Lucky☆Star)
+# Padorus in [Lucky☆Star](https://myanimelist.net/anime/1887/Lucky☆Star)
 
 ### K
 * [Konata Izumi](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/KonataIzumi.md)

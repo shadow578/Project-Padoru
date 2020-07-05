@@ -10,7 +10,7 @@
 ### Character Info
 * **Name:**   [Stunk](https://myanimelist.net/character/177294)
 * **Shows:**
-  * [Ishuzoku Reviewers](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/IshuzokuReviewers.md) - [__MAL__](https://myanimelist.net/anime/40010/Ishuzoku_Reviewers)
-  * [Ishuzoku Reviewers](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/IshuzokuReviewers.md) - [__MAL__](https://myanimelist.net/manga/109408/Ishuzoku_Reviewers)
+  * [Interspecies Reviewers](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/InterspeciesReviewers.md) - [__MAL__](https://myanimelist.net/anime/40010/Ishuzoku_Reviewers)
+  * [Interspecies Reviewers](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/InterspeciesReviewers.md) - [__MAL__](https://myanimelist.net/manga/109408/Ishuzoku_Reviewers)
 
 

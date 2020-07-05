@@ -10,9 +10,7 @@
 ### Character Info
 * **Name:**   [Sagiri Izumi](https://myanimelist.net/character/100993)
 * **Shows:**
-  * [Eromanga-sensei](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Eromangasensei.md) - [__MAL__](https://myanimelist.net/anime/32901/Eromanga-sensei)
-  * [Eromanga-sensei OVA](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EromangasenseiOVA.md) - [__MAL__](https://myanimelist.net/anime/36792/Eromanga-sensei_OVA)
+  * [Eromanga Sensei](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/EromangaSensei.md) - [__MAL__](https://myanimelist.net/anime/32901/Eromanga-sensei)
   * [Eromanga-sensei](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Eromangasensei.md) - [__MAL__](https://myanimelist.net/manga/63271/Eromanga-sensei)
-  * [Eromanga-sensei](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/Eromangasensei.md) - [__MAL__](https://myanimelist.net/manga/72989/Eromanga-sensei)
 
 

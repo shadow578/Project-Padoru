@@ -10,9 +10,7 @@
 ### Character Info
 * **Name:**   [Raphtalia](https://myanimelist.net/character/112893)
 * **Shows:**
-  * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md) - [__MAL__](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
-  * [Isekai Quartet 2](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/IsekaiQuartet2.md) - [__MAL__](https://myanimelist.net/anime/39988/Isekai_Quartet_2)
-  * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md) - [__MAL__](https://myanimelist.net/manga/67615/Tate_no_Yuusha_no_Nariagari)
-  * [Tate no Yuusha no Nariagari](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TatenoYuushanoNariagari.md) - [__MAL__](https://myanimelist.net/manga/67617/Tate_no_Yuusha_no_Nariagari)
+  * [The Rising of the Shield Hero](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheRisingoftheShieldHero.md) - [__MAL__](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
+  * [The Rising of the Shield Hero](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheRisingoftheShieldHero.md) - [__MAL__](https://myanimelist.net/manga/67617/Tate_no_Yuusha_no_Nariagari)
 
 

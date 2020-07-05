@@ -1,7 +1,4 @@
-# Padorus in [Fate/Grand Order: First Order](https://myanimelist.net/anime/34321/Fate_Grand_Order__First_Order)
-
-### M
-* [Mash Kyrielight](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/MashKyrielight.md)
+# Padorus in [Fate/Grand Order -First Order-](https://myanimelist.net/anime/34321/Fate_Grand_Order__First_Order)
 
 ### R
 * [Rider](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/characters/Rider.md)

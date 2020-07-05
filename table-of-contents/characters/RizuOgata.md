@@ -10,8 +10,7 @@
 ### Character Info
 * **Name:**   [Rizu Ogata](https://myanimelist.net/character/148393)
 * **Shows:**
-  * [Bokutachi wa Benkyou ga Dekinai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokutachiwaBenkyougaDekinai.md) - [__MAL__](https://myanimelist.net/anime/38186/Bokutachi_wa_Benkyou_ga_Dekinai)
-  * [Bokutachi wa Benkyou ga Dekinai!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokutachiwaBenkyougaDekinai.md) - [__MAL__](https://myanimelist.net/anime/40004/Bokutachi_wa_Benkyou_ga_Dekinai)
-  * [Bokutachi wa Benkyou ga Dekinai](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/BokutachiwaBenkyougaDekinai.md) - [__MAL__](https://myanimelist.net/manga/103890/Bokutachi_wa_Benkyou_ga_Dekinai)
+  * [We Never Learn](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WeNeverLearn.md) - [__MAL__](https://myanimelist.net/anime/38186/Bokutachi_wa_Benkyou_ga_Dekinai)
+  * [We Never Learn](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WeNeverLearn.md) - [__MAL__](https://myanimelist.net/manga/103890/Bokutachi_wa_Benkyou_ga_Dekinai)
 
 

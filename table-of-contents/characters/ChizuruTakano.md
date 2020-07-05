@@ -9,8 +9,5 @@
 
 ### Character Info
 * **Name:**   [Chizuru Takano](https://myanimelist.net/character/139270)
-* **Shows:**
-  * [Tsurezure Children](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TsurezureChildren.md) - [__MAL__](https://myanimelist.net/anime/34902/Tsurezure_Children)
-  * [Tsurezure Children](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TsurezureChildren.md) - [__MAL__](https://myanimelist.net/manga/58027/Tsurezure_Children)
 
 

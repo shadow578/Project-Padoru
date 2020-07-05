@@ -11,6 +11,5 @@
 * **Name:**   [Kurokami no Onna](https://myanimelist.net/character/82037)
 * **Shows:**
   * [Death Billiards](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DeathBilliards.md) - [__MAL__](https://myanimelist.net/anime/14353/Death_Billiards)
-  * [Death Parade](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/DeathParade.md) - [__MAL__](https://myanimelist.net/anime/28223/Death_Parade)
 
 

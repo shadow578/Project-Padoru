@@ -10,8 +10,6 @@
 ### Character Info
 * **Name:**   [Misaki Takasaki](https://myanimelist.net/character/123061)
 * **Shows:**
-  * [Koi to Uso](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KoitoUso.md) - [__MAL__](https://myanimelist.net/anime/34934/Koi_to_Uso)
-  * [Koi to Uso OVA](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KoitoUsoOVA.md) - [__MAL__](https://myanimelist.net/anime/37711/Koi_to_Uso_OVA)
-  * [Koi to Uso](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KoitoUso.md) - [__MAL__](https://myanimelist.net/manga/78065/Koi_to_Uso)
+  * [Love and Lies](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/LoveandLies.md) - [__MAL__](https://myanimelist.net/anime/34934/Koi_to_Uso)
 
 

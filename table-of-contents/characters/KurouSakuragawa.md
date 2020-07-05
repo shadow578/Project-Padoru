@@ -10,7 +10,7 @@
 ### Character Info
 * **Name:**   [Kurou Sakuragawa](https://myanimelist.net/character/128944)
 * **Shows:**
-  * [Kyokou Suiri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyokouSuiri.md) - [__MAL__](https://myanimelist.net/anime/39017/Kyokou_Suiri)
-  * [Kyokou Suiri](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/KyokouSuiri.md) - [__MAL__](https://myanimelist.net/manga/89049/Kyokou_Suiri)
+  * [In/Spectre](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/InSpectre.md) - [__MAL__](https://myanimelist.net/anime/39017/Kyokou_Suiri)
+  * [In/Spectre](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/InSpectre.md) - [__MAL__](https://myanimelist.net/manga/89049/Kyokou_Suiri)
 
 

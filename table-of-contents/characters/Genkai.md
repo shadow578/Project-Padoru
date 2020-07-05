@@ -10,9 +10,6 @@
 ### Character Info
 * **Name:**   [Genkai](https://myanimelist.net/character/735)
 * **Shows:**
-  * [Yuu☆Yuu☆Hakusho](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuuYuuHakusho.md) - [__MAL__](https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho)
-  * [Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuuYuuHakushoMeikaiShitouhenHonoonoKizuna.md) - [__MAL__](https://myanimelist.net/anime/883/Yuu☆Yuu☆Hakusho__Meikai_Shitou-hen_-_Honoo_no_Kizuna)
-  * [Yuu☆Yuu☆Hakusho: Eizou Hakusho - Ankoku Bujutsukai no Shou](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuuYuuHakushoEizouHakushoAnkokuBujutsukainoShou.md) - [__MAL__](https://myanimelist.net/anime/2125/Yuu☆Yuu☆Hakusho__Eizou_Hakusho_-_Ankoku_Bujutsukai_no_Shou)
-  * [Yuu☆Yuu☆Hakusho](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuuYuuHakusho.md) - [__MAL__](https://myanimelist.net/manga/53/Yuu☆Yuu☆Hakusho)
+  * [Yu Yu Hakusho: Ghost Files](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/YuYuHakushoGhostFiles.md) - [__MAL__](https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho)
 
 

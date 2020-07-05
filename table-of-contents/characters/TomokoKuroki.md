@@ -10,11 +10,8 @@
 ### Character Info
 * **Name:**   [Tomoko Kuroki](https://myanimelist.net/character/50057)
 * **Shows:**
-  * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWarui.md) - [__MAL__](https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
   * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiMotenaishiNazomeiteMiru.md) - [__MAL__](https://myanimelist.net/anime/20449/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui__Motenaishi_Nazomeite_Miru)
-  * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWarui.md) - [__MAL__](https://myanimelist.net/manga/28533/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
-  * [Watashi no Tomodachi ga Motenai no wa Dou Kangaetemo Omaera ga Warui.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashinoTomodachigaMotenainowaDouKangaetemoOmaeragaWarui.md) - [__MAL__](https://myanimelist.net/manga/48661/Watashi_no_Tomodachi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
-  * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiAnthology.md) - [__MAL__](https://myanimelist.net/manga/61981/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui_Anthology)
+  * [No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NoMatterHowILookatItItsYouGuysFaultImNotPopular.md) - [__MAL__](https://myanimelist.net/manga/28533/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
 
 
 # Tomoko Kuroki
@@ -29,10 +26,7 @@
 ### Character Info
 * **Name:**   [Tomoko Kuroki](https://myanimelist.net/character/50057)
 * **Shows:**
-  * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWarui.md) - [__MAL__](https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
-  * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiMotenaishiNazomeiteMiru.md) - [__MAL__](https://myanimelist.net/anime/20449/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui__Motenaishi_Nazomeite_Miru)
-  * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWarui.md) - [__MAL__](https://myanimelist.net/manga/28533/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
-  * [Watashi no Tomodachi ga Motenai no wa Dou Kangaetemo Omaera ga Warui.](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashinoTomodachigaMotenainowaDouKangaetemoOmaeragaWarui.md) - [__MAL__](https://myanimelist.net/manga/48661/Watashi_no_Tomodachi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
-  * [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Anthology](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WatashigaMotenainowaDouKangaetemoOmaeragaWaruiAnthology.md) - [__MAL__](https://myanimelist.net/manga/61981/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui_Anthology)
+  * [WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/WataMoteNoMatterHowILookAtItItsYouGuysFaultImUnpopular.md) - [__MAL__](https://myanimelist.net/anime/16742/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
+  * [No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/NoMatterHowILookatItItsYouGuysFaultImNotPopular.md) - [__MAL__](https://myanimelist.net/manga/28533/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui)
 
 

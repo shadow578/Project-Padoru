@@ -10,7 +10,7 @@
 ### Character Info
 * **Name:**   [Senko-san](https://myanimelist.net/character/166231)
 * **Shows:**
-  * [Sewayaki Kitsune no Senko-san](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SewayakiKitsunenoSenkosan.md) - [__MAL__](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)
+  * [The Helpful Fox Senko-san](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/TheHelpfulFoxSenkosan.md) - [__MAL__](https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san)
   * [Sewayaki Kitsune no Senko-san](https://github.com/shadow578/Project-Padoru/blob/master/table-of-contents/shows/SewayakiKitsunenoSenkosan.md) - [__MAL__](https://myanimelist.net/manga/111276/Sewayaki_Kitsune_no_Senko-san)
 
 

@@ -1,6 +1,6 @@
 # Project Padoru
 Project Padoru is __the worldwide biggest*__ Collection of Padoru Images featuring __285__ entries.<br/>
-A Index of all Padorus in this collection can be found [here.](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)
+~~A Index of all Padorus in this collection can be found [here.](https://github.com/shadow578/Project-Padoru/blob/master/TABLE-OF-CONTENTS.md)~~ *currently not updated*
     
 # What is a Padoru?
 <img src="https://raw.githubusercontent.com/shadow578/Project-Padoru/master/Padoru/fate-nero-claudius.png" width="100" height="100">

@@ -53,17 +53,7 @@ These Guidelines apply when you want to contribute entries via pull request:
 ## How To Use
 Simple:
 * Get the padoru.json file (Use [this url](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru.json) or [(minified version)](https://raw.githubusercontent.com/shadow578/Project-Padoru/master/padoru-mini.json))
-* Parse the json. The Json data contains a Array of PadoruEntries. Each PadoruEntry contains
-    * UID            	: This is a internal id to make each entry unique
-    * ImageUrl      	: The Web URL to the image. Use this to get the image. The Image is hosted on github, in this repo
-    * ImagePath     	: The local path to the image, relative to the collection root
-    * Name          	: The Name of the Character
-    * IsFemale      	: Is this Character (canonically) female?
-    * MALName       	: The Name of this Character in MAL's Database (may be empty)
-    * MALId         	: The Character Id of this Character in MAL's Database (may be empty)
-    * ImageContributor	: The Username of the Person that contributed the Image to this collection
-    * ImageCreator  	: The Name of the Person that created the Image
-    * ImageSource   	: A Link to the original source of the image (reddit post, pixiv, etc...) (may be empty)
+* Parse the json. The Json data contains a Array of PadoruEntries. For the content of each entry, refer [here](https://github.com/shadow578/PadoruLib/blob/master/Model.md)
 * Download Image using the URL in ImageUrl property
 * Padoru Padoru (all done)
 
